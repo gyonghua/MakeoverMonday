@@ -1,0 +1,4613 @@
+country,edition,total_score,status,year_covered,mapbox_country
+Afghanistan,1995,90.0,NF,1994,Afghanistan
+Afghanistan,1996,90.0,NF,1995,Afghanistan
+Afghanistan,1997,100.0,NF,1996,Afghanistan
+Afghanistan,1998,100.0,NF,1997,Afghanistan
+Afghanistan,1999,100.0,NF,1998,Afghanistan
+Afghanistan,2000,90.0,NF,1999,Afghanistan
+Afghanistan,2001,95.0,NF,2000,Afghanistan
+Afghanistan,2003,74.0,NF,2002,Afghanistan
+Afghanistan,2004,72.0,NF,2003,Afghanistan
+Afghanistan,2005,68.0,NF,2004,Afghanistan
+Afghanistan,2006,69.0,NF,2005,Afghanistan
+Afghanistan,2007,69.0,NF,2006,Afghanistan
+Afghanistan,2008,71.0,NF,2007,Afghanistan
+Afghanistan,2009,74.0,NF,2008,Afghanistan
+Afghanistan,2010,76.0,NF,2009,Afghanistan
+Afghanistan,2011,75.0,NF,2010,Afghanistan
+Afghanistan,2012,74.0,NF,2011,Afghanistan
+Afghanistan,2013,67.0,NF,2012,Afghanistan
+Afghanistan,2014,66.0,NF,2013,Afghanistan
+Afghanistan,2015,67.0,NF,2014,Afghanistan
+Afghanistan,2016,62.0,NF,2015,Afghanistan
+Afghanistan,2017,60.0,PF,2016,Afghanistan
+Albania,1994,53.0,PF,1993,Albania
+Albania,1995,67.0,NF,1994,Albania
+Albania,1996,71.0,NF,1995,Albania
+Albania,1997,75.0,NF,1996,Albania
+Albania,1998,56.0,PF,1997,Albania
+Albania,1999,56.0,PF,1998,Albania
+Albania,2000,56.0,PF,1999,Albania
+Albania,2001,56.0,PF,2000,Albania
+Albania,2002,48.0,PF,2001,Albania
+Albania,2003,50.0,PF,2002,Albania
+Albania,2004,49.0,PF,2003,Albania
+Albania,2005,51.0,PF,2004,Albania
+Albania,2006,50.0,PF,2005,Albania
+Albania,2007,50.0,PF,2006,Albania
+Albania,2008,50.0,PF,2007,Albania
+Albania,2009,50.0,PF,2008,Albania
+Albania,2010,50.0,PF,2009,Albania
+Albania,2011,50.0,PF,2010,Albania
+Albania,2012,51.0,PF,2011,Albania
+Albania,2013,49.0,PF,2012,Albania
+Albania,2014,49.0,PF,2013,Albania
+Albania,2015,49.0,PF,2014,Albania
+Albania,2016,51.0,PF,2015,Albania
+Albania,2017,51.0,PF,2016,Albania
+Algeria,1994,83.0,NF,1993,Algeria
+Algeria,1995,99.0,NF,1994,Algeria
+Algeria,1996,99.0,NF,1995,Algeria
+Algeria,1997,99.0,NF,1996,Algeria
+Algeria,1998,97.0,NF,1997,Algeria
+Algeria,1999,83.0,NF,1998,Algeria
+Algeria,2000,83.0,NF,1999,Algeria
+Algeria,2001,74.0,NF,2000,Algeria
+Algeria,2002,62.0,NF,2001,Algeria
+Algeria,2003,62.0,NF,2002,Algeria
+Algeria,2004,63.0,NF,2003,Algeria
+Algeria,2005,64.0,NF,2004,Algeria
+Algeria,2006,61.0,NF,2005,Algeria
+Algeria,2007,62.0,NF,2006,Algeria
+Algeria,2008,62.0,NF,2007,Algeria
+Algeria,2009,62.0,NF,2008,Algeria
+Algeria,2010,64.0,NF,2009,Algeria
+Algeria,2011,62.0,NF,2010,Algeria
+Algeria,2012,62.0,NF,2011,Algeria
+Algeria,2013,61.0,NF,2012,Algeria
+Algeria,2014,59.0,PF,2013,Algeria
+Algeria,2015,61.0,NF,2014,Algeria
+Algeria,2016,62.0,NF,2015,Algeria
+Algeria,2017,65.0,NF,2016,Algeria
+Andorra,2003,8.0,F,2002,Andorra
+Andorra,2004,13.0,F,2003,Andorra
+Andorra,2005,14.0,F,2004,Andorra
+Andorra,2006,14.0,F,2005,Andorra
+Andorra,2007,13.0,F,2006,Andorra
+Andorra,2008,13.0,F,2007,Andorra
+Andorra,2009,13.0,F,2008,Andorra
+Andorra,2010,13.0,F,2009,Andorra
+Andorra,2011,13.0,F,2010,Andorra
+Andorra,2012,13.0,F,2011,Andorra
+Andorra,2013,13.0,F,2012,Andorra
+Andorra,2014,13.0,F,2013,Andorra
+Andorra,2015,13.0,F,2014,Andorra
+Andorra,2016,13.0,F,2015,Andorra
+Andorra,2017,15.0,F,2016,Andorra
+Angola,1994,74.0,NF,1993,Angola
+Angola,1995,68.0,NF,1994,Angola
+Angola,1996,69.0,NF,1995,Angola
+Angola,1997,74.0,NF,1996,Angola
+Angola,1998,74.0,NF,1997,Angola
+Angola,1999,74.0,NF,1998,Angola
+Angola,2000,80.0,NF,1999,Angola
+Angola,2001,80.0,NF,2000,Angola
+Angola,2002,79.0,NF,2001,Angola
+Angola,2003,72.0,NF,2002,Angola
+Angola,2004,66.0,NF,2003,Angola
+Angola,2005,66.0,NF,2004,Angola
+Angola,2006,65.0,NF,2005,Angola
+Angola,2007,62.0,NF,2006,Angola
+Angola,2008,63.0,NF,2007,Angola
+Angola,2009,61.0,NF,2008,Angola
+Angola,2010,62.0,NF,2009,Angola
+Angola,2011,64.0,NF,2010,Angola
+Angola,2012,67.0,NF,2011,Angola
+Angola,2013,68.0,NF,2012,Angola
+Angola,2014,69.0,NF,2013,Angola
+Angola,2015,70.0,NF,2014,Angola
+Angola,2016,71.0,NF,2015,Angola
+Angola,2017,73.0,NF,2016,Angola
+Antigua and Barbuda,1994,28.0,F,1993,Antigua and Barbuda
+Antigua and Barbuda,1995,35.0,PF,1994,Antigua and Barbuda
+Antigua and Barbuda,1996,35.0,PF,1995,Antigua and Barbuda
+Antigua and Barbuda,1997,46.0,PF,1996,Antigua and Barbuda
+Antigua and Barbuda,1998,46.0,PF,1997,Antigua and Barbuda
+Antigua and Barbuda,1999,46.0,PF,1998,Antigua and Barbuda
+Antigua and Barbuda,2000,46.0,PF,1999,Antigua and Barbuda
+Antigua and Barbuda,2001,46.0,PF,2000,Antigua and Barbuda
+Antigua and Barbuda,2002,44.0,PF,2001,Antigua and Barbuda
+Antigua and Barbuda,2003,45.0,PF,2002,Antigua and Barbuda
+Antigua and Barbuda,2004,43.0,PF,2003,Antigua and Barbuda
+Antigua and Barbuda,2005,40.0,PF,2004,Antigua and Barbuda
+Antigua and Barbuda,2006,38.0,PF,2005,Antigua and Barbuda
+Antigua and Barbuda,2007,38.0,PF,2006,Antigua and Barbuda
+Antigua and Barbuda,2008,39.0,PF,2007,Antigua and Barbuda
+Antigua and Barbuda,2009,38.0,PF,2008,Antigua and Barbuda
+Antigua and Barbuda,2010,38.0,PF,2009,Antigua and Barbuda
+Antigua and Barbuda,2011,38.0,PF,2010,Antigua and Barbuda
+Antigua and Barbuda,2012,38.0,PF,2011,Antigua and Barbuda
+Antigua and Barbuda,2013,38.0,PF,2012,Antigua and Barbuda
+Antigua and Barbuda,2014,39.0,PF,2013,Antigua and Barbuda
+Antigua and Barbuda,2015,38.0,PF,2014,Antigua and Barbuda
+Antigua and Barbuda,2016,35.0,PF,2015,Antigua and Barbuda
+Antigua and Barbuda,2017,34.0,PF,2016,Antigua and Barbuda
+Argentina,1994,29.0,F,1993,Argentina
+Argentina,1995,29.0,F,1994,Argentina
+Argentina,1996,31.0,PF,1995,Argentina
+Argentina,1997,31.0,PF,1996,Argentina
+Argentina,1998,36.0,PF,1997,Argentina
+Argentina,1999,41.0,PF,1998,Argentina
+Argentina,2000,41.0,PF,1999,Argentina
+Argentina,2001,33.0,PF,2000,Argentina
+Argentina,2002,37.0,PF,2001,Argentina
+Argentina,2003,39.0,PF,2002,Argentina
+Argentina,2004,35.0,PF,2003,Argentina
+Argentina,2005,41.0,PF,2004,Argentina
+Argentina,2006,45.0,PF,2005,Argentina
+Argentina,2007,49.0,PF,2006,Argentina
+Argentina,2008,47.0,PF,2007,Argentina
+Argentina,2009,49.0,PF,2008,Argentina
+Argentina,2010,49.0,PF,2009,Argentina
+Argentina,2011,51.0,PF,2010,Argentina
+Argentina,2012,50.0,PF,2011,Argentina
+Argentina,2013,52.0,PF,2012,Argentina
+Argentina,2014,51.0,PF,2013,Argentina
+Argentina,2015,51.0,PF,2014,Argentina
+Argentina,2016,50.0,PF,2015,Argentina
+Argentina,2017,46.0,PF,2016,Argentina
+Armenia,1994,52.0,PF,1993,Armenia
+Armenia,1995,57.0,PF,1994,Armenia
+Armenia,1996,56.0,PF,1995,Armenia
+Armenia,1997,56.0,PF,1996,Armenia
+Armenia,1998,56.0,PF,1997,Armenia
+Armenia,1999,56.0,PF,1998,Armenia
+Armenia,2000,57.0,PF,1999,Armenia
+Armenia,2001,59.0,PF,2000,Armenia
+Armenia,2002,60.0,PF,2001,Armenia
+Armenia,2003,65.0,NF,2002,Armenia
+Armenia,2004,64.0,NF,2003,Armenia
+Armenia,2005,64.0,NF,2004,Armenia
+Armenia,2006,64.0,NF,2005,Armenia
+Armenia,2007,64.0,NF,2006,Armenia
+Armenia,2008,66.0,NF,2007,Armenia
+Armenia,2009,68.0,NF,2008,Armenia
+Armenia,2010,66.0,NF,2009,Armenia
+Armenia,2011,65.0,NF,2010,Armenia
+Armenia,2012,65.0,NF,2011,Armenia
+Armenia,2013,61.0,NF,2012,Armenia
+Armenia,2014,62.0,NF,2013,Armenia
+Armenia,2015,61.0,NF,2014,Armenia
+Armenia,2016,63.0,NF,2015,Armenia
+Armenia,2017,63.0,NF,2016,Armenia
+Australia,1994,9.0,F,1993,Australia
+Australia,1995,7.0,F,1994,Australia
+Australia,1996,8.0,F,1995,Australia
+Australia,1997,10.0,F,1996,Australia
+Australia,1998,10.0,F,1997,Australia
+Australia,1999,10.0,F,1998,Australia
+Australia,2000,10.0,F,1999,Australia
+Australia,2001,10.0,F,2000,Australia
+Australia,2002,10.0,F,2001,Australia
+Australia,2003,14.0,F,2002,Australia
+Australia,2004,14.0,F,2003,Australia
+Australia,2005,18.0,F,2004,Australia
+Australia,2006,19.0,F,2005,Australia
+Australia,2007,21.0,F,2006,Australia
+Australia,2008,21.0,F,2007,Australia
+Australia,2009,22.0,F,2008,Australia
+Australia,2010,22.0,F,2009,Australia
+Australia,2011,21.0,F,2010,Australia
+Australia,2012,21.0,F,2011,Australia
+Australia,2013,21.0,F,2012,Australia
+Australia,2014,22.0,F,2013,Australia
+Australia,2015,22.0,F,2014,Australia
+Australia,2016,23.0,F,2015,Australia
+Australia,2017,22.0,F,2016,Australia
+Austria,1994,19.0,F,1993,Austria
+Austria,1995,18.0,F,1994,Austria
+Austria,1996,12.0,F,1995,Austria
+Austria,1997,12.0,F,1996,Austria
+Austria,1998,12.0,F,1997,Austria
+Austria,1999,12.0,F,1998,Austria
+Austria,2000,12.0,F,1999,Austria
+Austria,2001,14.0,F,2000,Austria
+Austria,2002,24.0,F,2001,Austria
+Austria,2003,23.0,F,2002,Austria
+Austria,2004,23.0,F,2003,Austria
+Austria,2005,21.0,F,2004,Austria
+Austria,2006,21.0,F,2005,Austria
+Austria,2007,21.0,F,2006,Austria
+Austria,2008,21.0,F,2007,Austria
+Austria,2009,21.0,F,2008,Austria
+Austria,2010,21.0,F,2009,Austria
+Austria,2011,21.0,F,2010,Austria
+Austria,2012,21.0,F,2011,Austria
+Austria,2013,21.0,F,2012,Austria
+Austria,2014,21.0,F,2013,Austria
+Austria,2015,22.0,F,2014,Austria
+Austria,2016,23.0,F,2015,Austria
+Austria,2017,22.0,F,2016,Austria
+Azerbaijan,1994,70.0,NF,1993,Azerbaijan
+Azerbaijan,1995,69.0,NF,1994,Azerbaijan
+Azerbaijan,1996,69.0,NF,1995,Azerbaijan
+Azerbaijan,1997,74.0,NF,1996,Azerbaijan
+Azerbaijan,1998,74.0,NF,1997,Azerbaijan
+Azerbaijan,1999,73.0,NF,1998,Azerbaijan
+Azerbaijan,2000,70.0,NF,1999,Azerbaijan
+Azerbaijan,2001,76.0,NF,2000,Azerbaijan
+Azerbaijan,2002,77.0,NF,2001,Azerbaijan
+Azerbaijan,2003,73.0,NF,2002,Azerbaijan
+Azerbaijan,2004,71.0,NF,2003,Azerbaijan
+Azerbaijan,2005,72.0,NF,2004,Azerbaijan
+Azerbaijan,2006,72.0,NF,2005,Azerbaijan
+Azerbaijan,2007,75.0,NF,2006,Azerbaijan
+Azerbaijan,2008,77.0,NF,2007,Azerbaijan
+Azerbaijan,2009,78.0,NF,2008,Azerbaijan
+Azerbaijan,2010,79.0,NF,2009,Azerbaijan
+Azerbaijan,2011,79.0,NF,2010,Azerbaijan
+Azerbaijan,2012,80.0,NF,2011,Azerbaijan
+Azerbaijan,2013,82.0,NF,2012,Azerbaijan
+Azerbaijan,2014,84.0,NF,2013,Azerbaijan
+Azerbaijan,2015,87.0,NF,2014,Azerbaijan
+Azerbaijan,2016,89.0,NF,2015,Azerbaijan
+Azerbaijan,2017,90.0,NF,2016,Azerbaijan
+Bahamas,1994,18.0,F,1993,Bahamas
+Bahamas,1995,8.0,F,1994,Bahamas
+Bahamas,1996,7.0,F,1995,Bahamas
+Bahamas,1997,7.0,F,1996,Bahamas
+Bahamas,1998,7.0,F,1997,Bahamas
+Bahamas,1999,7.0,F,1998,Bahamas
+Bahamas,2000,7.0,F,1999,Bahamas
+Bahamas,2001,7.0,F,2000,Bahamas
+Bahamas,2002,8.0,F,2001,Bahamas
+Bahamas,2003,11.0,F,2002,Bahamas
+Bahamas,2004,14.0,F,2003,Bahamas
+Bahamas,2005,14.0,F,2004,Bahamas
+Bahamas,2006,16.0,F,2005,Bahamas
+Bahamas,2007,17.0,F,2006,Bahamas
+Bahamas,2008,20.0,F,2007,Bahamas
+Bahamas,2009,20.0,F,2008,Bahamas
+Bahamas,2010,20.0,F,2009,Bahamas
+Bahamas,2011,20.0,F,2010,Bahamas
+Bahamas,2012,20.0,F,2011,Bahamas
+Bahamas,2013,19.0,F,2012,Bahamas
+Bahamas,2014,20.0,F,2013,Bahamas
+Bahamas,2015,21.0,F,2014,Bahamas
+Bahamas,2016,22.0,F,2015,Bahamas
+Bahamas,2017,23.0,F,2016,Bahamas
+Bahrain,1994,60.0,PF,1993,Bahrain
+Bahrain,1995,57.0,PF,1994,Bahrain
+Bahrain,1996,60.0,PF,1995,Bahrain
+Bahrain,1997,66.0,NF,1996,Bahrain
+Bahrain,1998,66.0,NF,1997,Bahrain
+Bahrain,1999,69.0,NF,1998,Bahrain
+Bahrain,2000,75.0,NF,1999,Bahrain
+Bahrain,2001,75.0,NF,2000,Bahrain
+Bahrain,2002,75.0,NF,2001,Bahrain
+Bahrain,2003,68.0,NF,2002,Bahrain
+Bahrain,2004,70.0,NF,2003,Bahrain
+Bahrain,2005,71.0,NF,2004,Bahrain
+Bahrain,2006,72.0,NF,2005,Bahrain
+Bahrain,2007,71.0,NF,2006,Bahrain
+Bahrain,2008,71.0,NF,2007,Bahrain
+Bahrain,2009,71.0,NF,2008,Bahrain
+Bahrain,2010,71.0,NF,2009,Bahrain
+Bahrain,2011,72.0,NF,2010,Bahrain
+Bahrain,2012,84.0,NF,2011,Bahrain
+Bahrain,2013,86.0,NF,2012,Bahrain
+Bahrain,2014,87.0,NF,2013,Bahrain
+Bahrain,2015,87.0,NF,2014,Bahrain
+Bahrain,2016,87.0,NF,2015,Bahrain
+Bahrain,2017,87.0,NF,2016,Bahrain
+Bangladesh,1994,52.0,PF,1993,Bangladesh
+Bangladesh,1995,49.0,PF,1994,Bangladesh
+Bangladesh,1996,49.0,PF,1995,Bangladesh
+Bangladesh,1997,57.0,PF,1996,Bangladesh
+Bangladesh,1998,57.0,PF,1997,Bangladesh
+Bangladesh,1999,59.0,PF,1998,Bangladesh
+Bangladesh,2000,60.0,PF,1999,Bangladesh
+Bangladesh,2001,60.0,PF,2000,Bangladesh
+Bangladesh,2002,63.0,NF,2001,Bangladesh
+Bangladesh,2003,65.0,NF,2002,Bangladesh
+Bangladesh,2004,68.0,NF,2003,Bangladesh
+Bangladesh,2005,68.0,NF,2004,Bangladesh
+Bangladesh,2006,68.0,NF,2005,Bangladesh
+Bangladesh,2007,66.0,NF,2006,Bangladesh
+Bangladesh,2008,68.0,NF,2007,Bangladesh
+Bangladesh,2009,63.0,NF,2008,Bangladesh
+Bangladesh,2010,56.0,PF,2009,Bangladesh
+Bangladesh,2011,54.0,PF,2010,Bangladesh
+Bangladesh,2012,52.0,PF,2011,Bangladesh
+Bangladesh,2013,53.0,PF,2012,Bangladesh
+Bangladesh,2014,54.0,PF,2013,Bangladesh
+Bangladesh,2015,54.0,PF,2014,Bangladesh
+Bangladesh,2016,61.0,NF,2015,Bangladesh
+Bangladesh,2017,62.0,NF,2016,Bangladesh
+Barbados,1994,17.0,F,1993,Barbados
+Barbados,1995,19.0,F,1994,Barbados
+Barbados,1996,16.0,F,1995,Barbados
+Barbados,1997,16.0,F,1996,Barbados
+Barbados,1998,16.0,F,1997,Barbados
+Barbados,1999,16.0,F,1998,Barbados
+Barbados,2000,16.0,F,1999,Barbados
+Barbados,2001,16.0,F,2000,Barbados
+Barbados,2002,16.0,F,2001,Barbados
+Barbados,2003,14.0,F,2002,Barbados
+Barbados,2004,17.0,F,2003,Barbados
+Barbados,2005,17.0,F,2004,Barbados
+Barbados,2006,17.0,F,2005,Barbados
+Barbados,2007,17.0,F,2006,Barbados
+Barbados,2008,19.0,F,2007,Barbados
+Barbados,2009,19.0,F,2008,Barbados
+Barbados,2010,19.0,F,2009,Barbados
+Barbados,2011,19.0,F,2010,Barbados
+Barbados,2012,19.0,F,2011,Barbados
+Barbados,2013,18.0,F,2012,Barbados
+Barbados,2014,18.0,F,2013,Barbados
+Barbados,2015,18.0,F,2014,Barbados
+Barbados,2016,18.0,F,2015,Barbados
+Barbados,2017,19.0,F,2016,Barbados
+Belarus,1994,66.0,NF,1993,Belarus
+Belarus,1995,67.0,NF,1994,Belarus
+Belarus,1996,70.0,NF,1995,Belarus
+Belarus,1997,85.0,NF,1996,Belarus
+Belarus,1998,90.0,NF,1997,Belarus
+Belarus,1999,80.0,NF,1998,Belarus
+Belarus,2000,80.0,NF,1999,Belarus
+Belarus,2001,80.0,NF,2000,Belarus
+Belarus,2002,82.0,NF,2001,Belarus
+Belarus,2003,82.0,NF,2002,Belarus
+Belarus,2004,84.0,NF,2003,Belarus
+Belarus,2005,86.0,NF,2004,Belarus
+Belarus,2006,88.0,NF,2005,Belarus
+Belarus,2007,89.0,NF,2006,Belarus
+Belarus,2008,91.0,NF,2007,Belarus
+Belarus,2009,91.0,NF,2008,Belarus
+Belarus,2010,92.0,NF,2009,Belarus
+Belarus,2011,93.0,NF,2010,Belarus
+Belarus,2012,93.0,NF,2011,Belarus
+Belarus,2013,93.0,NF,2012,Belarus
+Belarus,2014,93.0,NF,2013,Belarus
+Belarus,2015,93.0,NF,2014,Belarus
+Belarus,2016,91.0,NF,2015,Belarus
+Belarus,2017,83.0,NF,2016,Belarus
+Belgium,1994,7.0,F,1993,Belgium
+Belgium,1995,7.0,F,1994,Belgium
+Belgium,1996,10.0,F,1995,Belgium
+Belgium,1997,10.0,F,1996,Belgium
+Belgium,1998,10.0,F,1997,Belgium
+Belgium,1999,9.0,F,1998,Belgium
+Belgium,2000,9.0,F,1999,Belgium
+Belgium,2001,9.0,F,2000,Belgium
+Belgium,2002,9.0,F,2001,Belgium
+Belgium,2003,9.0,F,2002,Belgium
+Belgium,2004,9.0,F,2003,Belgium
+Belgium,2005,11.0,F,2004,Belgium
+Belgium,2006,11.0,F,2005,Belgium
+Belgium,2007,11.0,F,2006,Belgium
+Belgium,2008,11.0,F,2007,Belgium
+Belgium,2009,12.0,F,2008,Belgium
+Belgium,2010,12.0,F,2009,Belgium
+Belgium,2011,12.0,F,2010,Belgium
+Belgium,2012,11.0,F,2011,Belgium
+Belgium,2013,11.0,F,2012,Belgium
+Belgium,2014,11.0,F,2013,Belgium
+Belgium,2015,11.0,F,2014,Belgium
+Belgium,2016,11.0,F,2015,Belgium
+Belgium,2017,12.0,F,2016,Belgium
+Belize,1994,29.0,F,1993,Belize
+Belize,1995,22.0,F,1994,Belize
+Belize,1996,25.0,F,1995,Belize
+Belize,1997,25.0,F,1996,Belize
+Belize,1998,25.0,F,1997,Belize
+Belize,1999,25.0,F,1998,Belize
+Belize,2000,25.0,F,1999,Belize
+Belize,2001,25.0,F,2000,Belize
+Belize,2002,24.0,F,2001,Belize
+Belize,2003,23.0,F,2002,Belize
+Belize,2004,22.0,F,2003,Belize
+Belize,2005,20.0,F,2004,Belize
+Belize,2006,21.0,F,2005,Belize
+Belize,2007,21.0,F,2006,Belize
+Belize,2008,22.0,F,2007,Belize
+Belize,2009,21.0,F,2008,Belize
+Belize,2010,21.0,F,2009,Belize
+Belize,2011,23.0,F,2010,Belize
+Belize,2012,21.0,F,2011,Belize
+Belize,2013,22.0,F,2012,Belize
+Belize,2014,22.0,F,2013,Belize
+Belize,2015,22.0,F,2014,Belize
+Belize,2016,22.0,F,2015,Belize
+Belize,2017,27.0,F,2016,Belize
+Benin,1994,34.0,PF,1993,Benin
+Benin,1995,31.0,PF,1994,Benin
+Benin,1996,31.0,PF,1995,Benin
+Benin,1997,30.0,F,1996,Benin
+Benin,1998,30.0,F,1997,Benin
+Benin,1999,30.0,F,1998,Benin
+Benin,2000,30.0,F,1999,Benin
+Benin,2001,30.0,F,2000,Benin
+Benin,2002,30.0,F,2001,Benin
+Benin,2003,28.0,F,2002,Benin
+Benin,2004,30.0,F,2003,Benin
+Benin,2005,30.0,F,2004,Benin
+Benin,2006,30.0,F,2005,Benin
+Benin,2007,30.0,F,2006,Benin
+Benin,2008,31.0,PF,2007,Benin
+Benin,2009,31.0,PF,2008,Benin
+Benin,2010,33.0,PF,2009,Benin
+Benin,2011,33.0,PF,2010,Benin
+Benin,2012,34.0,PF,2011,Benin
+Benin,2013,34.0,PF,2012,Benin
+Benin,2014,36.0,PF,2013,Benin
+Benin,2015,38.0,PF,2014,Benin
+Benin,2016,38.0,PF,2015,Benin
+Benin,2017,37.0,PF,2016,Benin
+Bhutan,1994,66.0,NF,1993,Bhutan
+Bhutan,1995,62.0,NF,1994,Bhutan
+Bhutan,1996,62.0,NF,1995,Bhutan
+Bhutan,1997,65.0,NF,1996,Bhutan
+Bhutan,1998,65.0,NF,1997,Bhutan
+Bhutan,1999,80.0,NF,1998,Bhutan
+Bhutan,2000,76.0,NF,1999,Bhutan
+Bhutan,2001,76.0,NF,2000,Bhutan
+Bhutan,2002,72.0,NF,2001,Bhutan
+Bhutan,2003,70.0,NF,2002,Bhutan
+Bhutan,2004,68.0,NF,2003,Bhutan
+Bhutan,2005,66.0,NF,2004,Bhutan
+Bhutan,2006,65.0,NF,2005,Bhutan
+Bhutan,2007,62.0,NF,2006,Bhutan
+Bhutan,2008,61.0,NF,2007,Bhutan
+Bhutan,2009,61.0,NF,2008,Bhutan
+Bhutan,2010,57.0,PF,2009,Bhutan
+Bhutan,2011,57.0,PF,2010,Bhutan
+Bhutan,2012,58.0,PF,2011,Bhutan
+Bhutan,2013,58.0,PF,2012,Bhutan
+Bhutan,2014,59.0,PF,2013,Bhutan
+Bhutan,2015,59.0,PF,2014,Bhutan
+Bhutan,2016,58.0,PF,2015,Bhutan
+Bhutan,2017,58.0,PF,2016,Bhutan
+Bolivia,1994,20.0,F,1993,Bolivia
+Bolivia,1995,17.0,F,1994,Bolivia
+Bolivia,1996,17.0,F,1995,Bolivia
+Bolivia,1997,20.0,F,1996,Bolivia
+Bolivia,1998,18.0,F,1997,Bolivia
+Bolivia,1999,18.0,F,1998,Bolivia
+Bolivia,2000,22.0,F,1999,Bolivia
+Bolivia,2001,22.0,F,2000,Bolivia
+Bolivia,2002,25.0,F,2001,Bolivia
+Bolivia,2003,30.0,F,2002,Bolivia
+Bolivia,2004,37.0,PF,2003,Bolivia
+Bolivia,2005,35.0,PF,2004,Bolivia
+Bolivia,2006,33.0,PF,2005,Bolivia
+Bolivia,2007,37.0,PF,2006,Bolivia
+Bolivia,2008,39.0,PF,2007,Bolivia
+Bolivia,2009,42.0,PF,2008,Bolivia
+Bolivia,2010,43.0,PF,2009,Bolivia
+Bolivia,2011,46.0,PF,2010,Bolivia
+Bolivia,2012,47.0,PF,2011,Bolivia
+Bolivia,2013,48.0,PF,2012,Bolivia
+Bolivia,2014,48.0,PF,2013,Bolivia
+Bolivia,2015,47.0,PF,2014,Bolivia
+Bolivia,2016,49.0,PF,2015,Bolivia
+Bolivia,2017,53.0,PF,2016,Bolivia
+Bosnia and Herzegovina,1994,70.0,NF,1993,Bosnia Herzegovina
+Bosnia and Herzegovina,1995,72.0,NF,1994,Bosnia Herzegovina
+Bosnia and Herzegovina,1996,76.0,PF,1995,Bosnia Herzegovina
+Bosnia and Herzegovina,1997,71.0,NF,1996,Bosnia Herzegovina
+Bosnia and Herzegovina,1998,74.0,NF,1997,Bosnia Herzegovina
+Bosnia and Herzegovina,1999,56.0,PF,1998,Bosnia Herzegovina
+Bosnia and Herzegovina,2000,56.0,PF,1999,Bosnia Herzegovina
+Bosnia and Herzegovina,2001,54.0,PF,2000,Bosnia Herzegovina
+Bosnia and Herzegovina,2002,53.0,PF,2001,Bosnia Herzegovina
+Bosnia and Herzegovina,2003,49.0,PF,2002,Bosnia Herzegovina
+Bosnia and Herzegovina,2004,48.0,PF,2003,Bosnia Herzegovina
+Bosnia and Herzegovina,2005,45.0,PF,2004,Bosnia Herzegovina
+Bosnia and Herzegovina,2006,45.0,PF,2005,Bosnia Herzegovina
+Bosnia and Herzegovina,2007,45.0,PF,2006,Bosnia Herzegovina
+Bosnia and Herzegovina,2008,45.0,PF,2007,Bosnia Herzegovina
+Bosnia and Herzegovina,2009,47.0,PF,2008,Bosnia Herzegovina
+Bosnia and Herzegovina,2010,48.0,PF,2009,Bosnia Herzegovina
+Bosnia and Herzegovina,2011,48.0,PF,2010,Bosnia Herzegovina
+Bosnia and Herzegovina,2012,48.0,PF,2011,Bosnia Herzegovina
+Bosnia and Herzegovina,2013,49.0,PF,2012,Bosnia Herzegovina
+Bosnia and Herzegovina,2014,50.0,PF,2013,Bosnia Herzegovina
+Bosnia and Herzegovina,2015,51.0,PF,2014,Bosnia Herzegovina
+Bosnia and Herzegovina,2016,50.0,PF,2015,Bosnia Herzegovina
+Bosnia and Herzegovina,2017,51.0,PF,2016,Bosnia Herzegovina
+Botswana,1994,19.0,F,1993,Botswana
+Botswana,1995,28.0,F,1994,Botswana
+Botswana,1996,30.0,F,1995,Botswana
+Botswana,1997,30.0,F,1996,Botswana
+Botswana,1998,30.0,F,1997,Botswana
+Botswana,1999,30.0,F,1998,Botswana
+Botswana,2000,28.0,F,1999,Botswana
+Botswana,2001,27.0,F,2000,Botswana
+Botswana,2002,30.0,F,2001,Botswana
+Botswana,2003,30.0,F,2002,Botswana
+Botswana,2004,30.0,F,2003,Botswana
+Botswana,2005,30.0,F,2004,Botswana
+Botswana,2006,35.0,PF,2005,Botswana
+Botswana,2007,35.0,PF,2006,Botswana
+Botswana,2008,36.0,PF,2007,Botswana
+Botswana,2009,37.0,PF,2008,Botswana
+Botswana,2010,39.0,PF,2009,Botswana
+Botswana,2011,40.0,PF,2010,Botswana
+Botswana,2012,40.0,PF,2011,Botswana
+Botswana,2013,41.0,PF,2012,Botswana
+Botswana,2014,41.0,PF,2013,Botswana
+Botswana,2015,44.0,PF,2014,Botswana
+Botswana,2016,45.0,PF,2015,Botswana
+Botswana,2017,45.0,PF,2016,Botswana
+Brazil,1994,27.0,F,1993,Brazil
+Brazil,1995,30.0,F,1994,Brazil
+Brazil,1996,30.0,F,1995,Brazil
+Brazil,1997,30.0,F,1996,Brazil
+Brazil,1998,32.0,PF,1997,Brazil
+Brazil,1999,35.0,PF,1998,Brazil
+Brazil,2000,33.0,PF,1999,Brazil
+Brazil,2001,31.0,PF,2000,Brazil
+Brazil,2002,32.0,PF,2001,Brazil
+Brazil,2003,38.0,PF,2002,Brazil
+Brazil,2004,36.0,PF,2003,Brazil
+Brazil,2005,40.0,PF,2004,Brazil
+Brazil,2006,39.0,PF,2005,Brazil
+Brazil,2007,42.0,PF,2006,Brazil
+Brazil,2008,42.0,PF,2007,Brazil
+Brazil,2009,42.0,PF,2008,Brazil
+Brazil,2010,43.0,PF,2009,Brazil
+Brazil,2011,44.0,PF,2010,Brazil
+Brazil,2012,44.0,PF,2011,Brazil
+Brazil,2013,46.0,PF,2012,Brazil
+Brazil,2014,45.0,PF,2013,Brazil
+Brazil,2015,45.0,PF,2014,Brazil
+Brazil,2016,46.0,PF,2015,Brazil
+Brazil,2017,47.0,PF,2016,Brazil
+Brunei,1994,66.0,NF,1993,Brunei Darussalam
+Brunei,1995,73.0,NF,1994,Brunei Darussalam
+Brunei,1996,74.0,NF,1995,Brunei Darussalam
+Brunei,1997,74.0,NF,1996,Brunei Darussalam
+Brunei,1998,74.0,NF,1997,Brunei Darussalam
+Brunei,1999,74.0,NF,1998,Brunei Darussalam
+Brunei,2000,74.0,NF,1999,Brunei Darussalam
+Brunei,2001,74.0,NF,2000,Brunei Darussalam
+Brunei,2002,78.0,NF,2001,Brunei Darussalam
+Brunei,2003,76.0,NF,2002,Brunei Darussalam
+Brunei,2004,74.0,NF,2003,Brunei Darussalam
+Brunei,2005,75.0,NF,2004,Brunei Darussalam
+Brunei,2006,77.0,NF,2005,Brunei Darussalam
+Brunei,2007,76.0,NF,2006,Brunei Darussalam
+Brunei,2008,75.0,NF,2007,Brunei Darussalam
+Brunei,2009,75.0,NF,2008,Brunei Darussalam
+Brunei,2010,75.0,NF,2009,Brunei Darussalam
+Brunei,2011,75.0,NF,2010,Brunei Darussalam
+Brunei,2012,75.0,NF,2011,Brunei Darussalam
+Brunei,2013,75.0,NF,2012,Brunei Darussalam
+Brunei,2014,75.0,NF,2013,Brunei Darussalam
+Brunei,2015,75.0,NF,2014,Brunei Darussalam
+Brunei,2016,76.0,NF,2015,Brunei Darussalam
+Brunei,2017,76.0,NF,2016,Brunei Darussalam
+Bulgaria,1994,43.0,PF,1993,Bulgaria
+Bulgaria,1995,39.0,PF,1994,Bulgaria
+Bulgaria,1996,46.0,PF,1995,Bulgaria
+Bulgaria,1997,44.0,PF,1996,Bulgaria
+Bulgaria,1998,36.0,PF,1997,Bulgaria
+Bulgaria,1999,39.0,PF,1998,Bulgaria
+Bulgaria,2000,30.0,F,1999,Bulgaria
+Bulgaria,2001,26.0,F,2000,Bulgaria
+Bulgaria,2002,29.0,F,2001,Bulgaria
+Bulgaria,2003,30.0,F,2002,Bulgaria
+Bulgaria,2004,35.0,PF,2003,Bulgaria
+Bulgaria,2005,35.0,PF,2004,Bulgaria
+Bulgaria,2006,34.0,PF,2005,Bulgaria
+Bulgaria,2007,34.0,PF,2006,Bulgaria
+Bulgaria,2008,33.0,PF,2007,Bulgaria
+Bulgaria,2009,36.0,PF,2008,Bulgaria
+Bulgaria,2010,34.0,PF,2009,Bulgaria
+Bulgaria,2011,35.0,PF,2010,Bulgaria
+Bulgaria,2012,36.0,PF,2011,Bulgaria
+Bulgaria,2013,37.0,PF,2012,Bulgaria
+Bulgaria,2014,39.0,PF,2013,Bulgaria
+Bulgaria,2015,38.0,PF,2014,Bulgaria
+Bulgaria,2016,40.0,PF,2015,Bulgaria
+Bulgaria,2017,42.0,PF,2016,Bulgaria
+Burkina Faso,1994,40.0,PF,1993,Burkina Faso
+Burkina Faso,1995,37.0,PF,1994,Burkina Faso
+Burkina Faso,1996,37.0,PF,1995,Burkina Faso
+Burkina Faso,1997,37.0,PF,1996,Burkina Faso
+Burkina Faso,1998,39.0,PF,1997,Burkina Faso
+Burkina Faso,1999,39.0,PF,1998,Burkina Faso
+Burkina Faso,2000,40.0,PF,1999,Burkina Faso
+Burkina Faso,2001,39.0,PF,2000,Burkina Faso
+Burkina Faso,2002,39.0,PF,2001,Burkina Faso
+Burkina Faso,2003,39.0,PF,2002,Burkina Faso
+Burkina Faso,2004,39.0,PF,2003,Burkina Faso
+Burkina Faso,2005,40.0,PF,2004,Burkina Faso
+Burkina Faso,2006,38.0,PF,2005,Burkina Faso
+Burkina Faso,2007,39.0,PF,2006,Burkina Faso
+Burkina Faso,2008,41.0,PF,2007,Burkina Faso
+Burkina Faso,2009,41.0,PF,2008,Burkina Faso
+Burkina Faso,2010,41.0,PF,2009,Burkina Faso
+Burkina Faso,2011,41.0,PF,2010,Burkina Faso
+Burkina Faso,2012,42.0,PF,2011,Burkina Faso
+Burkina Faso,2013,42.0,PF,2012,Burkina Faso
+Burkina Faso,2014,44.0,PF,2013,Burkina Faso
+Burkina Faso,2015,44.0,PF,2014,Burkina Faso
+Burkina Faso,2016,41.0,PF,2015,Burkina Faso
+Burkina Faso,2017,41.0,PF,2016,Burkina Faso
+Burundi,1994,88.0,NF,1993,Burundi
+Burundi,1995,88.0,NF,1994,Burundi
+Burundi,1996,85.0,NF,1995,Burundi
+Burundi,1997,85.0,NF,1996,Burundi
+Burundi,1998,85.0,NF,1997,Burundi
+Burundi,1999,83.0,NF,1998,Burundi
+Burundi,2000,83.0,NF,1999,Burundi
+Burundi,2001,80.0,NF,2000,Burundi
+Burundi,2002,77.0,NF,2001,Burundi
+Burundi,2003,76.0,NF,2002,Burundi
+Burundi,2004,75.0,NF,2003,Burundi
+Burundi,2005,74.0,NF,2004,Burundi
+Burundi,2006,74.0,NF,2005,Burundi
+Burundi,2007,77.0,NF,2006,Burundi
+Burundi,2008,74.0,NF,2007,Burundi
+Burundi,2009,75.0,NF,2008,Burundi
+Burundi,2010,73.0,NF,2009,Burundi
+Burundi,2011,74.0,NF,2010,Burundi
+Burundi,2012,72.0,NF,2011,Burundi
+Burundi,2013,72.0,NF,2012,Burundi
+Burundi,2014,74.0,NF,2013,Burundi
+Burundi,2015,74.0,NF,2014,Burundi
+Burundi,2016,80.0,NF,2015,Burundi
+Burundi,2017,85.0,NF,2016,Burundi
+Cambodia,1994,50.0,PF,1993,Cambodia
+Cambodia,1995,60.0,PF,1994,Cambodia
+Cambodia,1996,65.0,NF,1995,Cambodia
+Cambodia,1997,65.0,NF,1996,Cambodia
+Cambodia,1998,65.0,NF,1997,Cambodia
+Cambodia,1999,62.0,NF,1998,Cambodia
+Cambodia,2000,61.0,NF,1999,Cambodia
+Cambodia,2001,61.0,NF,2000,Cambodia
+Cambodia,2002,68.0,NF,2001,Cambodia
+Cambodia,2003,64.0,NF,2002,Cambodia
+Cambodia,2004,63.0,NF,2003,Cambodia
+Cambodia,2005,62.0,NF,2004,Cambodia
+Cambodia,2006,61.0,NF,2005,Cambodia
+Cambodia,2007,58.0,PF,2006,Cambodia
+Cambodia,2008,60.0,PF,2007,Cambodia
+Cambodia,2009,61.0,NF,2008,Cambodia
+Cambodia,2010,61.0,NF,2009,Cambodia
+Cambodia,2011,63.0,NF,2010,Cambodia
+Cambodia,2012,63.0,NF,2011,Cambodia
+Cambodia,2013,66.0,NF,2012,Cambodia
+Cambodia,2014,66.0,NF,2013,Cambodia
+Cambodia,2015,69.0,NF,2014,Cambodia
+Cambodia,2016,69.0,NF,2015,Cambodia
+Cambodia,2017,70.0,NF,2016,Cambodia
+Cameroon,1994,79.0,NF,1993,Cameroon
+Cameroon,1995,78.0,NF,1994,Cameroon
+Cameroon,1996,72.0,NF,1995,Cameroon
+Cameroon,1997,72.0,NF,1996,Cameroon
+Cameroon,1998,77.0,NF,1997,Cameroon
+Cameroon,1999,77.0,NF,1998,Cameroon
+Cameroon,2000,77.0,NF,1999,Cameroon
+Cameroon,2001,71.0,NF,2000,Cameroon
+Cameroon,2002,68.0,NF,2001,Cameroon
+Cameroon,2003,65.0,NF,2002,Cameroon
+Cameroon,2004,67.0,NF,2003,Cameroon
+Cameroon,2005,68.0,NF,2004,Cameroon
+Cameroon,2006,65.0,NF,2005,Cameroon
+Cameroon,2007,67.0,NF,2006,Cameroon
+Cameroon,2008,65.0,NF,2007,Cameroon
+Cameroon,2009,65.0,NF,2008,Cameroon
+Cameroon,2010,66.0,NF,2009,Cameroon
+Cameroon,2011,67.0,NF,2010,Cameroon
+Cameroon,2012,68.0,NF,2011,Cameroon
+Cameroon,2013,66.0,NF,2012,Cameroon
+Cameroon,2014,66.0,NF,2013,Cameroon
+Cameroon,2015,66.0,NF,2014,Cameroon
+Cameroon,2016,65.0,NF,2015,Cameroon
+Cameroon,2017,66.0,NF,2016,Cameroon
+Canada,1994,13.0,F,1993,Canada
+Canada,1995,18.0,F,1994,Canada
+Canada,1996,23.0,F,1995,Canada
+Canada,1997,11.0,F,1996,Canada
+Canada,1998,11.0,F,1997,Canada
+Canada,1999,16.0,F,1998,Canada
+Canada,2000,14.0,F,1999,Canada
+Canada,2001,15.0,F,2000,Canada
+Canada,2002,16.0,F,2001,Canada
+Canada,2003,17.0,F,2002,Canada
+Canada,2004,15.0,F,2003,Canada
+Canada,2005,17.0,F,2004,Canada
+Canada,2006,18.0,F,2005,Canada
+Canada,2007,17.0,F,2006,Canada
+Canada,2008,18.0,F,2007,Canada
+Canada,2009,19.0,F,2008,Canada
+Canada,2010,19.0,F,2009,Canada
+Canada,2011,19.0,F,2010,Canada
+Canada,2012,19.0,F,2011,Canada
+Canada,2013,20.0,F,2012,Canada
+Canada,2014,19.0,F,2013,Canada
+Canada,2015,18.0,F,2014,Canada
+Canada,2016,18.0,F,2015,Canada
+Canada,2017,18.0,F,2016,Canada
+Cape Verde,1994,34.0,PF,1993,Cape Verde
+Cape Verde,1995,32.0,PF,1994,Cape Verde
+Cape Verde,1996,32.0,PF,1995,Cape Verde
+Cape Verde,1997,32.0,PF,1996,Cape Verde
+Cape Verde,1998,32.0,PF,1997,Cape Verde
+Cape Verde,1999,33.0,PF,1998,Cape Verde
+Cape Verde,2000,32.0,PF,1999,Cape Verde
+Cape Verde,2001,32.0,PF,2000,Cape Verde
+Cape Verde,2002,30.0,F,2001,Cape Verde
+Cape Verde,2003,30.0,F,2002,Cape Verde
+Cape Verde,2004,36.0,PF,2003,Cape Verde
+Cape Verde,2005,32.0,PF,2004,Cape Verde
+Cape Verde,2006,32.0,PF,2005,Cape Verde
+Cape Verde,2007,29.0,F,2006,Cape Verde
+Cape Verde,2008,28.0,F,2007,Cape Verde
+Cape Verde,2009,28.0,F,2008,Cape Verde
+Cape Verde,2010,28.0,F,2009,Cape Verde
+Cape Verde,2011,27.0,F,2010,Cape Verde
+Cape Verde,2012,27.0,F,2011,Cape Verde
+Cape Verde,2013,27.0,F,2012,Cape Verde
+Cape Verde,2014,27.0,F,2013,Cape Verde
+Cape Verde,2015,27.0,F,2014,Cape Verde
+Cape Verde,2016,27.0,F,2015,Cape Verde
+Cape Verde,2017,27.0,F,2016,Cape Verde
+Central African Republic,1994,80.0,NF,1993,Central African Republic
+Central African Republic,1995,65.0,NF,1994,Central African Republic
+Central African Republic,1996,65.0,NF,1995,Central African Republic
+Central African Republic,1997,65.0,NF,1996,Central African Republic
+Central African Republic,1998,60.0,PF,1997,Central African Republic
+Central African Republic,1999,60.0,PF,1998,Central African Republic
+Central African Republic,2000,60.0,PF,1999,Central African Republic
+Central African Republic,2001,61.0,NF,2000,Central African Republic
+Central African Republic,2002,69.0,NF,2001,Central African Republic
+Central African Republic,2003,67.0,NF,2002,Central African Republic
+Central African Republic,2004,64.0,NF,2003,Central African Republic
+Central African Republic,2005,63.0,NF,2004,Central African Republic
+Central African Republic,2006,61.0,NF,2005,Central African Republic
+Central African Republic,2007,58.0,PF,2006,Central African Republic
+Central African Republic,2008,61.0,NF,2007,Central African Republic
+Central African Republic,2009,61.0,NF,2008,Central African Republic
+Central African Republic,2010,61.0,NF,2009,Central African Republic
+Central African Republic,2011,61.0,NF,2010,Central African Republic
+Central African Republic,2012,62.0,NF,2011,Central African Republic
+Central African Republic,2013,62.0,NF,2012,Central African Republic
+Central African Republic,2014,77.0,NF,2013,Central African Republic
+Central African Republic,2015,72.0,NF,2014,Central African Republic
+Central African Republic,2016,71.0,NF,2015,Central African Republic
+Central African Republic,2017,71.0,NF,2016,Central African Republic
+Chad,1994,87.0,NF,1993,Chad
+Chad,1995,72.0,NF,1994,Chad
+Chad,1996,72.0,NF,1995,Chad
+Chad,1997,72.0,NF,1996,Chad
+Chad,1998,70.0,NF,1997,Chad
+Chad,1999,75.0,NF,1998,Chad
+Chad,2000,72.0,NF,1999,Chad
+Chad,2001,72.0,NF,2000,Chad
+Chad,2002,74.0,NF,2001,Chad
+Chad,2003,67.0,NF,2002,Chad
+Chad,2004,74.0,NF,2003,Chad
+Chad,2005,73.0,NF,2004,Chad
+Chad,2006,73.0,NF,2005,Chad
+Chad,2007,74.0,NF,2006,Chad
+Chad,2008,74.0,NF,2007,Chad
+Chad,2009,76.0,NF,2008,Chad
+Chad,2010,77.0,NF,2009,Chad
+Chad,2011,75.0,NF,2010,Chad
+Chad,2012,75.0,NF,2011,Chad
+Chad,2013,76.0,NF,2012,Chad
+Chad,2014,75.0,NF,2013,Chad
+Chad,2015,74.0,NF,2014,Chad
+Chad,2016,74.0,NF,2015,Chad
+Chad,2017,74.0,NF,2016,Chad
+Chile,1994,30.0,F,1993,Chile
+Chile,1995,30.0,F,1994,Chile
+Chile,1996,28.0,F,1995,Chile
+Chile,1997,30.0,F,1996,Chile
+Chile,1998,27.0,F,1997,Chile
+Chile,1999,27.0,F,1998,Chile
+Chile,2000,27.0,F,1999,Chile
+Chile,2001,27.0,F,2000,Chile
+Chile,2002,22.0,F,2001,Chile
+Chile,2003,22.0,F,2002,Chile
+Chile,2004,23.0,F,2003,Chile
+Chile,2005,24.0,F,2004,Chile
+Chile,2006,26.0,F,2005,Chile
+Chile,2007,30.0,F,2006,Chile
+Chile,2008,30.0,F,2007,Chile
+Chile,2009,29.0,F,2008,Chile
+Chile,2010,30.0,F,2009,Chile
+Chile,2011,29.0,F,2010,Chile
+Chile,2012,31.0,PF,2011,Chile
+Chile,2013,31.0,PF,2012,Chile
+Chile,2014,31.0,PF,2013,Chile
+Chile,2015,31.0,PF,2014,Chile
+Chile,2016,29.0,F,2015,Chile
+Chile,2017,29.0,F,2016,Chile
+China,1994,89.0,NF,1993,China
+China,1995,83.0,NF,1994,China
+China,1996,83.0,NF,1995,China
+China,1997,83.0,NF,1996,China
+China,1998,81.0,NF,1997,China
+China,1999,81.0,NF,1998,China
+China,2000,80.0,NF,1999,China
+China,2001,80.0,NF,2000,China
+China,2002,80.0,NF,2001,China
+China,2003,80.0,NF,2002,China
+China,2004,80.0,NF,2003,China
+China,2005,82.0,NF,2004,China
+China,2006,83.0,NF,2005,China
+China,2007,84.0,NF,2006,China
+China,2008,84.0,NF,2007,China
+China,2009,85.0,NF,2008,China
+China,2010,84.0,NF,2009,China
+China,2011,85.0,NF,2010,China
+China,2012,85.0,NF,2011,China
+China,2013,83.0,NF,2012,China
+China,2014,84.0,NF,2013,China
+China,2015,86.0,NF,2014,China
+China,2016,87.0,NF,2015,China
+China,2017,87.0,NF,2016,China
+Colombia,1994,49.0,NF,1993,Colombia
+Colombia,1995,48.0,PF,1994,Colombia
+Colombia,1996,54.0,PF,1995,Colombia
+Colombia,1997,55.0,PF,1996,Colombia
+Colombia,1998,55.0,PF,1997,Colombia
+Colombia,1999,60.0,PF,1998,Colombia
+Colombia,2000,59.0,PF,1999,Colombia
+Colombia,2001,60.0,PF,2000,Colombia
+Colombia,2002,60.0,PF,2001,Colombia
+Colombia,2003,63.0,NF,2002,Colombia
+Colombia,2004,63.0,NF,2003,Colombia
+Colombia,2005,63.0,NF,2004,Colombia
+Colombia,2006,61.0,NF,2005,Colombia
+Colombia,2007,57.0,PF,2006,Colombia
+Colombia,2008,59.0,PF,2007,Colombia
+Colombia,2009,59.0,PF,2008,Colombia
+Colombia,2010,60.0,PF,2009,Colombia
+Colombia,2011,56.0,PF,2010,Colombia
+Colombia,2012,55.0,PF,2011,Colombia
+Colombia,2013,53.0,PF,2012,Colombia
+Colombia,2014,54.0,PF,2013,Colombia
+Colombia,2015,55.0,PF,2014,Colombia
+Colombia,2016,56.0,PF,2015,Colombia
+Colombia,2017,57.0,PF,2016,Colombia
+Comoros,1994,44.0,PF,1993,Comoros
+Comoros,1995,46.0,PF,1994,Comoros
+Comoros,1996,35.0,PF,1995,Comoros
+Comoros,1997,38.0,PF,1996,Comoros
+Comoros,1998,38.0,PF,1997,Comoros
+Comoros,1999,38.0,PF,1998,Comoros
+Comoros,2000,40.0,PF,1999,Comoros
+Comoros,2001,38.0,PF,2000,Comoros
+Comoros,2002,41.0,PF,2001,Comoros
+Comoros,2003,43.0,PF,2002,Comoros
+Comoros,2004,45.0,PF,2003,Comoros
+Comoros,2005,44.0,PF,2004,Comoros
+Comoros,2006,47.0,PF,2005,Comoros
+Comoros,2007,48.0,PF,2006,Comoros
+Comoros,2008,54.0,PF,2007,Comoros
+Comoros,2009,50.0,PF,2008,Comoros
+Comoros,2010,50.0,PF,2009,Comoros
+Comoros,2011,48.0,PF,2010,Comoros
+Comoros,2012,48.0,PF,2011,Comoros
+Comoros,2013,49.0,PF,2012,Comoros
+Comoros,2014,49.0,PF,2013,Comoros
+Comoros,2015,49.0,PF,2014,Comoros
+Comoros,2016,49.0,PF,2015,Comoros
+Comoros,2017,49.0,PF,2016,Comoros
+Congo (Brazzaville),1994,59.0,PF,1993,Democratic Republic of Congo
+Congo (Brazzaville),1995,53.0,PF,1994,Democratic Republic of Congo
+Congo (Brazzaville),1996,52.0,PF,1995,Democratic Republic of Congo
+Congo (Brazzaville),1997,45.0,PF,1996,Democratic Republic of Congo
+Congo (Brazzaville),1998,72.0,NF,1997,Democratic Republic of Congo
+Congo (Brazzaville),1999,75.0,NF,1998,Democratic Republic of Congo
+Congo (Brazzaville),2000,77.0,NF,1999,Democratic Republic of Congo
+Congo (Brazzaville),2001,71.0,NF,2000,Democratic Republic of Congo
+Congo (Brazzaville),2002,53.0,PF,2001,Democratic Republic of Congo
+Congo (Brazzaville),2003,55.0,PF,2002,Democratic Republic of Congo
+Congo (Brazzaville),2004,54.0,PF,2003,Democratic Republic of Congo
+Congo (Brazzaville),2005,51.0,PF,2004,Democratic Republic of Congo
+Congo (Brazzaville),2006,51.0,PF,2005,Democratic Republic of Congo
+Congo (Brazzaville),2007,51.0,PF,2006,Democratic Republic of Congo
+Congo (Brazzaville),2008,51.0,PF,2007,Democratic Republic of Congo
+Congo (Brazzaville),2009,53.0,PF,2008,Democratic Republic of Congo
+Congo (Brazzaville),2010,54.0,PF,2009,Democratic Republic of Congo
+Congo (Brazzaville),2011,54.0,PF,2010,Democratic Republic of Congo
+Congo (Brazzaville),2012,55.0,PF,2011,Democratic Republic of Congo
+Congo (Brazzaville),2013,56.0,PF,2012,Democratic Republic of Congo
+Congo (Brazzaville),2014,57.0,PF,2013,Democratic Republic of Congo
+Congo (Brazzaville),2015,79.0,NF,2014,Democratic Republic of Congo
+Congo (Brazzaville),2016,59.0,PF,2015,Democratic Republic of Congo
+Congo (Brazzaville),2017,60.0,PF,2016,Democratic Republic of Congo
+Congo (Kinshasa),1994,88.0,NF,1993,Congo
+Congo (Kinshasa),1995,85.0,NF,1994,Congo
+Congo (Kinshasa),1996,84.0,NF,1995,Congo
+Congo (Kinshasa),1997,84.0,NF,1996,Congo
+Congo (Kinshasa),1998,84.0,NF,1997,Congo
+Congo (Kinshasa),1999,90.0,NF,1998,Congo
+Congo (Kinshasa),2000,90.0,NF,1999,Congo
+Congo (Kinshasa),2001,83.0,NF,2000,Congo
+Congo (Kinshasa),2002,86.0,NF,2001,Congo
+Congo (Kinshasa),2003,82.0,NF,2002,Congo
+Congo (Kinshasa),2004,80.0,NF,2003,Congo
+Congo (Kinshasa),2005,81.0,NF,2004,Congo
+Congo (Kinshasa),2006,81.0,NF,2005,Congo
+Congo (Kinshasa),2007,80.0,NF,2006,Congo
+Congo (Kinshasa),2008,81.0,NF,2007,Congo
+Congo (Kinshasa),2009,81.0,NF,2008,Congo
+Congo (Kinshasa),2010,81.0,NF,2009,Congo
+Congo (Kinshasa),2011,81.0,NF,2010,Congo
+Congo (Kinshasa),2012,83.0,NF,2011,Congo
+Congo (Kinshasa),2013,83.0,NF,2012,Congo
+Congo (Kinshasa),2014,79.0,NF,2013,Congo
+Congo (Kinshasa),2015,59.0,PF,2014,Congo
+Congo (Kinshasa),2016,78.0,NF,2015,Congo
+Congo (Kinshasa),2017,82.0,NF,2016,Congo
+Costa Rica,1994,16.0,F,1993,Costa Rica
+Costa Rica,1995,21.0,F,1994,Costa Rica
+Costa Rica,1996,18.0,F,1995,Costa Rica
+Costa Rica,1997,16.0,F,1996,Costa Rica
+Costa Rica,1998,16.0,F,1997,Costa Rica
+Costa Rica,1999,16.0,F,1998,Costa Rica
+Costa Rica,2000,16.0,F,1999,Costa Rica
+Costa Rica,2001,16.0,F,2000,Costa Rica
+Costa Rica,2002,17.0,F,2001,Costa Rica
+Costa Rica,2003,14.0,F,2002,Costa Rica
+Costa Rica,2004,19.0,F,2003,Costa Rica
+Costa Rica,2005,19.0,F,2004,Costa Rica
+Costa Rica,2006,18.0,F,2005,Costa Rica
+Costa Rica,2007,20.0,F,2006,Costa Rica
+Costa Rica,2008,19.0,F,2007,Costa Rica
+Costa Rica,2009,19.0,F,2008,Costa Rica
+Costa Rica,2010,19.0,F,2009,Costa Rica
+Costa Rica,2011,18.0,F,2010,Costa Rica
+Costa Rica,2012,19.0,F,2011,Costa Rica
+Costa Rica,2013,18.0,F,2012,Costa Rica
+Costa Rica,2014,18.0,F,2013,Costa Rica
+Costa Rica,2015,17.0,F,2014,Costa Rica
+Costa Rica,2016,17.0,F,2015,Costa Rica
+Costa Rica,2017,16.0,F,2016,Costa Rica
+Crimea,2015,94.0,NF,2014,
+Crimea,2016,94.0,NF,2015,
+Crimea,2017,94.0,NF,2016,
+Croatia,1994,56.0,PF,1993,Croatia
+Croatia,1995,56.0,PF,1994,Croatia
+Croatia,1996,58.0,PF,1995,Croatia
+Croatia,1997,63.0,NF,1996,Croatia
+Croatia,1998,63.0,NF,1997,Croatia
+Croatia,1999,63.0,NF,1998,Croatia
+Croatia,2000,63.0,NF,1999,Croatia
+Croatia,2001,50.0,PF,2000,Croatia
+Croatia,2002,33.0,PF,2001,Croatia
+Croatia,2003,33.0,PF,2002,Croatia
+Croatia,2004,37.0,PF,2003,Croatia
+Croatia,2005,37.0,PF,2004,Croatia
+Croatia,2006,39.0,PF,2005,Croatia
+Croatia,2007,37.0,PF,2006,Croatia
+Croatia,2008,36.0,PF,2007,Croatia
+Croatia,2009,38.0,PF,2008,Croatia
+Croatia,2010,40.0,PF,2009,Croatia
+Croatia,2011,41.0,PF,2010,Croatia
+Croatia,2012,40.0,PF,2011,Croatia
+Croatia,2013,40.0,PF,2012,Croatia
+Croatia,2014,40.0,PF,2013,Croatia
+Croatia,2015,40.0,PF,2014,Croatia
+Croatia,2016,42.0,PF,2015,Croatia
+Croatia,2017,41.0,PF,2016,Croatia
+Cuba,1994,96.0,NF,1993,Cuba
+Cuba,1995,90.0,NF,1994,Cuba
+Cuba,1996,90.0,NF,1995,Cuba
+Cuba,1997,95.0,NF,1996,Cuba
+Cuba,1998,95.0,NF,1997,Cuba
+Cuba,1999,94.0,NF,1998,Cuba
+Cuba,2000,94.0,NF,1999,Cuba
+Cuba,2001,94.0,NF,2000,Cuba
+Cuba,2002,96.0,NF,2001,Cuba
+Cuba,2003,94.0,NF,2002,Cuba
+Cuba,2004,96.0,NF,2003,Cuba
+Cuba,2005,96.0,NF,2004,Cuba
+Cuba,2006,96.0,NF,2005,Cuba
+Cuba,2007,96.0,NF,2006,Cuba
+Cuba,2008,94.0,NF,2007,Cuba
+Cuba,2009,94.0,NF,2008,Cuba
+Cuba,2010,93.0,NF,2009,Cuba
+Cuba,2011,92.0,NF,2010,Cuba
+Cuba,2012,91.0,NF,2011,Cuba
+Cuba,2013,92.0,NF,2012,Cuba
+Cuba,2014,90.0,NF,2013,Cuba
+Cuba,2015,91.0,NF,2014,Cuba
+Cuba,2016,91.0,NF,2015,Cuba
+Cuba,2017,91.0,NF,2016,Cuba
+Cyprus,1994,30.0,F,1993,Cyprus
+Cyprus,1995,24.0,F,1994,Cyprus
+Cyprus,1996,16.0,F,1995,Cyprus
+Cyprus,1997,18.0,F,1996,Cyprus
+Cyprus,1998,18.0,F,1997,Cyprus
+Cyprus,1999,16.0,F,1998,Cyprus
+Cyprus,2000,16.0,F,1999,Cyprus
+Cyprus,2001,18.0,F,2000,Cyprus
+Cyprus,2002,18.0,F,2001,Cyprus
+Cyprus,2003,18.0,F,2002,Cyprus
+Cyprus,2004,18.0,F,2003,Cyprus
+Cyprus,2005,22.0,F,2004,Cyprus
+Cyprus,2006,22.0,F,2005,Cyprus
+Cyprus,2007,22.0,F,2006,Cyprus
+Cyprus,2008,22.0,F,2007,Cyprus
+Cyprus,2009,22.0,F,2008,Cyprus
+Cyprus,2010,22.0,F,2009,Cyprus
+Cyprus,2011,22.0,F,2010,Cyprus
+Cyprus,2012,22.0,F,2011,Cyprus
+Cyprus,2013,25.0,F,2012,Cyprus
+Cyprus,2014,25.0,F,2013,Cyprus
+Cyprus,2015,25.0,F,2014,Cyprus
+Cyprus,2016,24.0,F,2015,Cyprus
+Cyprus,2017,23.0,F,2016,Cyprus
+Czech Republic,1994,20.0,F,1993,Czech Republic
+Czech Republic,1995,21.0,F,1994,Czech Republic
+Czech Republic,1996,19.0,F,1995,Czech Republic
+Czech Republic,1997,19.0,F,1996,Czech Republic
+Czech Republic,1998,19.0,F,1997,Czech Republic
+Czech Republic,1999,20.0,F,1998,Czech Republic
+Czech Republic,2000,20.0,F,1999,Czech Republic
+Czech Republic,2001,24.0,F,2000,Czech Republic
+Czech Republic,2002,25.0,F,2001,Czech Republic
+Czech Republic,2003,23.0,F,2002,Czech Republic
+Czech Republic,2004,23.0,F,2003,Czech Republic
+Czech Republic,2005,22.0,F,2004,Czech Republic
+Czech Republic,2006,20.0,F,2005,Czech Republic
+Czech Republic,2007,18.0,F,2006,Czech Republic
+Czech Republic,2008,18.0,F,2007,Czech Republic
+Czech Republic,2009,18.0,F,2008,Czech Republic
+Czech Republic,2010,18.0,F,2009,Czech Republic
+Czech Republic,2011,19.0,F,2010,Czech Republic
+Czech Republic,2012,19.0,F,2011,Czech Republic
+Czech Republic,2013,19.0,F,2012,Czech Republic
+Czech Republic,2014,20.0,F,2013,Czech Republic
+Czech Republic,2015,21.0,F,2014,Czech Republic
+Czech Republic,2016,21.0,F,2015,Czech Republic
+Czech Republic,2017,21.0,F,2016,Czech Republic
+Côte d'Ivoire,1994,61.0,NF,1993,Ivory Coast
+Côte d'Ivoire,1995,63.0,NF,1994,Ivory Coast
+Côte d'Ivoire,1996,74.0,NF,1995,Ivory Coast
+Côte d'Ivoire,1997,74.0,NF,1996,Ivory Coast
+Côte d'Ivoire,1998,74.0,NF,1997,Ivory Coast
+Côte d'Ivoire,1999,74.0,NF,1998,Ivory Coast
+Côte d'Ivoire,2000,74.0,NF,1999,Ivory Coast
+Côte d'Ivoire,2001,77.0,NF,2000,Ivory Coast
+Côte d'Ivoire,2002,66.0,NF,2001,Ivory Coast
+Côte d'Ivoire,2003,68.0,NF,2002,Ivory Coast
+Côte d'Ivoire,2004,65.0,NF,2003,Ivory Coast
+Côte d'Ivoire,2005,69.0,NF,2004,Ivory Coast
+Côte d'Ivoire,2006,65.0,NF,2005,Ivory Coast
+Côte d'Ivoire,2007,68.0,NF,2006,Ivory Coast
+Côte d'Ivoire,2008,66.0,NF,2007,Ivory Coast
+Côte d'Ivoire,2009,67.0,NF,2008,Ivory Coast
+Côte d'Ivoire,2010,66.0,NF,2009,Ivory Coast
+Côte d'Ivoire,2011,68.0,NF,2010,Ivory Coast
+Côte d'Ivoire,2012,70.0,NF,2011,Ivory Coast
+Côte d'Ivoire,2013,61.0,NF,2012,Ivory Coast
+Côte d'Ivoire,2014,55.0,PF,2013,Ivory Coast
+Côte d'Ivoire,2015,53.0,PF,2014,Ivory Coast
+Côte d'Ivoire,2016,51.0,PF,2015,Ivory Coast
+Côte d'Ivoire,2017,51.0,PF,2016,Ivory Coast
+Denmark,1994,11.0,F,1993,Denmark
+Denmark,1995,9.0,F,1994,Denmark
+Denmark,1996,9.0,F,1995,Denmark
+Denmark,1997,9.0,F,1996,Denmark
+Denmark,1998,9.0,F,1997,Denmark
+Denmark,1999,9.0,F,1998,Denmark
+Denmark,2000,9.0,F,1999,Denmark
+Denmark,2001,9.0,F,2000,Denmark
+Denmark,2002,9.0,F,2001,Denmark
+Denmark,2003,11.0,F,2002,Denmark
+Denmark,2004,8.0,F,2003,Denmark
+Denmark,2005,10.0,F,2004,Denmark
+Denmark,2006,10.0,F,2005,Denmark
+Denmark,2007,11.0,F,2006,Denmark
+Denmark,2008,10.0,F,2007,Denmark
+Denmark,2009,11.0,F,2008,Denmark
+Denmark,2010,11.0,F,2009,Denmark
+Denmark,2011,13.0,F,2010,Denmark
+Denmark,2012,12.0,F,2011,Denmark
+Denmark,2013,12.0,F,2012,Denmark
+Denmark,2014,12.0,F,2013,Denmark
+Denmark,2015,12.0,F,2014,Denmark
+Denmark,2016,12.0,F,2015,Denmark
+Denmark,2017,12.0,F,2016,Denmark
+Djibouti,1994,71.0,NF,1993,Djibouti
+Djibouti,1995,58.0,PF,1994,Djibouti
+Djibouti,1996,52.0,PF,1995,Djibouti
+Djibouti,1997,52.0,PF,1996,Djibouti
+Djibouti,1998,62.0,NF,1997,Djibouti
+Djibouti,1999,62.0,NF,1998,Djibouti
+Djibouti,2000,63.0,NF,1999,Djibouti
+Djibouti,2001,63.0,NF,2000,Djibouti
+Djibouti,2002,67.0,NF,2001,Djibouti
+Djibouti,2003,65.0,NF,2002,Djibouti
+Djibouti,2004,66.0,NF,2003,Djibouti
+Djibouti,2005,67.0,NF,2004,Djibouti
+Djibouti,2006,69.0,NF,2005,Djibouti
+Djibouti,2007,69.0,NF,2006,Djibouti
+Djibouti,2008,72.0,NF,2007,Djibouti
+Djibouti,2009,73.0,NF,2008,Djibouti
+Djibouti,2010,73.0,NF,2009,Djibouti
+Djibouti,2011,73.0,NF,2010,Djibouti
+Djibouti,2012,74.0,NF,2011,Djibouti
+Djibouti,2013,74.0,NF,2012,Djibouti
+Djibouti,2014,75.0,NF,2013,Djibouti
+Djibouti,2015,75.0,NF,2014,Djibouti
+Djibouti,2016,75.0,NF,2015,Djibouti
+Djibouti,2017,77.0,NF,2016,Djibouti
+Dominica,1994,20.0,F,1993,Dominica
+Dominica,1995,16.0,F,1994,Dominica
+Dominica,1996,16.0,F,1995,Dominica
+Dominica,1997,16.0,F,1996,Dominica
+Dominica,1998,16.0,F,1997,Dominica
+Dominica,1999,16.0,F,1998,Dominica
+Dominica,2000,16.0,F,1999,Dominica
+Dominica,2001,16.0,F,2000,Dominica
+Dominica,2002,16.0,F,2001,Dominica
+Dominica,2003,14.0,F,2002,Dominica
+Dominica,2004,17.0,F,2003,Dominica
+Dominica,2005,17.0,F,2004,Dominica
+Dominica,2006,19.0,F,2005,Dominica
+Dominica,2007,20.0,F,2006,Dominica
+Dominica,2008,22.0,F,2007,Dominica
+Dominica,2009,22.0,F,2008,Dominica
+Dominica,2010,23.0,F,2009,Dominica
+Dominica,2011,23.0,F,2010,Dominica
+Dominica,2012,23.0,F,2011,Dominica
+Dominica,2013,24.0,F,2012,Dominica
+Dominica,2014,25.0,F,2013,Dominica
+Dominica,2015,25.0,F,2014,Dominica
+Dominica,2016,26.0,F,2015,Dominica
+Dominica,2017,25.0,F,2016,Dominica
+Dominican Republic,1994,27.0,F,1993,Dominican Republic
+Dominican Republic,1995,35.0,PF,1994,Dominican Republic
+Dominican Republic,1996,38.0,PF,1995,Dominican Republic
+Dominican Republic,1997,32.0,PF,1996,Dominican Republic
+Dominican Republic,1998,30.0,F,1997,Dominican Republic
+Dominican Republic,1999,30.0,F,1998,Dominican Republic
+Dominican Republic,2000,30.0,F,1999,Dominican Republic
+Dominican Republic,2001,30.0,F,2000,Dominican Republic
+Dominican Republic,2002,30.0,F,2001,Dominican Republic
+Dominican Republic,2003,33.0,PF,2002,Dominican Republic
+Dominican Republic,2004,39.0,PF,2003,Dominican Republic
+Dominican Republic,2005,38.0,PF,2004,Dominican Republic
+Dominican Republic,2006,37.0,PF,2005,Dominican Republic
+Dominican Republic,2007,40.0,PF,2006,Dominican Republic
+Dominican Republic,2008,39.0,PF,2007,Dominican Republic
+Dominican Republic,2009,40.0,PF,2008,Dominican Republic
+Dominican Republic,2010,39.0,PF,2009,Dominican Republic
+Dominican Republic,2011,40.0,PF,2010,Dominican Republic
+Dominican Republic,2012,41.0,PF,2011,Dominican Republic
+Dominican Republic,2013,40.0,PF,2012,Dominican Republic
+Dominican Republic,2014,41.0,PF,2013,Dominican Republic
+Dominican Republic,2015,42.0,PF,2014,Dominican Republic
+Dominican Republic,2016,42.0,PF,2015,Dominican Republic
+Dominican Republic,2017,42.0,PF,2016,Dominican Republic
+Ecuador,1994,23.0,F,1993,Ecuador
+Ecuador,1995,41.0,PF,1994,Ecuador
+Ecuador,1996,38.0,PF,1995,Ecuador
+Ecuador,1997,40.0,PF,1996,Ecuador
+Ecuador,1998,40.0,PF,1997,Ecuador
+Ecuador,1999,40.0,PF,1998,Ecuador
+Ecuador,2000,44.0,PF,1999,Ecuador
+Ecuador,2001,40.0,PF,2000,Ecuador
+Ecuador,2002,40.0,PF,2001,Ecuador
+Ecuador,2003,41.0,PF,2002,Ecuador
+Ecuador,2004,42.0,PF,2003,Ecuador
+Ecuador,2005,41.0,PF,2004,Ecuador
+Ecuador,2006,41.0,PF,2005,Ecuador
+Ecuador,2007,41.0,PF,2006,Ecuador
+Ecuador,2008,41.0,PF,2007,Ecuador
+Ecuador,2009,44.0,PF,2008,Ecuador
+Ecuador,2010,47.0,PF,2009,Ecuador
+Ecuador,2011,52.0,PF,2010,Ecuador
+Ecuador,2012,58.0,PF,2011,Ecuador
+Ecuador,2013,61.0,NF,2012,Ecuador
+Ecuador,2014,62.0,NF,2013,Ecuador
+Ecuador,2015,64.0,NF,2014,Ecuador
+Ecuador,2016,66.0,NF,2015,Ecuador
+Ecuador,2017,66.0,NF,2016,Ecuador
+Egypt,1994,75.0,NF,1993,Egypt
+Egypt,1995,81.0,NF,1994,Egypt
+Egypt,1996,80.0,NF,1995,Egypt
+Egypt,1997,70.0,NF,1996,Egypt
+Egypt,1998,69.0,NF,1997,Egypt
+Egypt,1999,69.0,NF,1998,Egypt
+Egypt,2000,69.0,NF,1999,Egypt
+Egypt,2001,69.0,NF,2000,Egypt
+Egypt,2002,77.0,NF,2001,Egypt
+Egypt,2003,79.0,NF,2002,Egypt
+Egypt,2004,76.0,NF,2003,Egypt
+Egypt,2005,68.0,NF,2004,Egypt
+Egypt,2006,61.0,NF,2005,Egypt
+Egypt,2007,62.0,NF,2006,Egypt
+Egypt,2008,59.0,PF,2007,Egypt
+Egypt,2009,60.0,PF,2008,Egypt
+Egypt,2010,60.0,PF,2009,Egypt
+Egypt,2011,65.0,NF,2010,Egypt
+Egypt,2012,57.0,PF,2011,Egypt
+Egypt,2013,62.0,NF,2012,Egypt
+Egypt,2014,68.0,NF,2013,Egypt
+Egypt,2015,73.0,NF,2014,Egypt
+Egypt,2016,77.0,NF,2015,Egypt
+Egypt,2017,77.0,NF,2016,Egypt
+El Salvador,1994,41.0,PF,1993,El Salvador
+El Salvador,1995,32.0,PF,1994,El Salvador
+El Salvador,1996,41.0,PF,1995,El Salvador
+El Salvador,1997,53.0,PF,1996,El Salvador
+El Salvador,1998,53.0,PF,1997,El Salvador
+El Salvador,1999,53.0,PF,1998,El Salvador
+El Salvador,2000,40.0,PF,1999,El Salvador
+El Salvador,2001,37.0,PF,2000,El Salvador
+El Salvador,2002,35.0,PF,2001,El Salvador
+El Salvador,2003,38.0,PF,2002,El Salvador
+El Salvador,2004,42.0,NF,2003,El Salvador
+El Salvador,2005,41.0,PF,2004,El Salvador
+El Salvador,2006,43.0,PF,2005,El Salvador
+El Salvador,2007,42.0,PF,2006,El Salvador
+El Salvador,2008,42.0,PF,2007,El Salvador
+El Salvador,2009,42.0,PF,2008,El Salvador
+El Salvador,2010,43.0,PF,2009,El Salvador
+El Salvador,2011,42.0,PF,2010,El Salvador
+El Salvador,2012,40.0,PF,2011,El Salvador
+El Salvador,2013,41.0,PF,2012,El Salvador
+El Salvador,2014,39.0,PF,2013,El Salvador
+El Salvador,2015,39.0,PF,2014,El Salvador
+El Salvador,2016,39.0,PF,2015,El Salvador
+El Salvador,2017,41.0,PF,2016,El Salvador
+Equatorial Guinea,1994,76.0,NF,1993,Equatorial Guinea
+Equatorial Guinea,1995,74.0,NF,1994,Equatorial Guinea
+Equatorial Guinea,1996,78.0,NF,1995,Equatorial Guinea
+Equatorial Guinea,1997,78.0,NF,1996,Equatorial Guinea
+Equatorial Guinea,1998,78.0,NF,1997,Equatorial Guinea
+Equatorial Guinea,1999,78.0,NF,1998,Equatorial Guinea
+Equatorial Guinea,2000,78.0,NF,1999,Equatorial Guinea
+Equatorial Guinea,2001,79.0,NF,2000,Equatorial Guinea
+Equatorial Guinea,2002,80.0,NF,2001,Equatorial Guinea
+Equatorial Guinea,2003,81.0,NF,2002,Equatorial Guinea
+Equatorial Guinea,2004,89.0,NF,2003,Equatorial Guinea
+Equatorial Guinea,2005,88.0,NF,2004,Equatorial Guinea
+Equatorial Guinea,2006,88.0,NF,2005,Equatorial Guinea
+Equatorial Guinea,2007,89.0,NF,2006,Equatorial Guinea
+Equatorial Guinea,2008,89.0,NF,2007,Equatorial Guinea
+Equatorial Guinea,2009,90.0,NF,2008,Equatorial Guinea
+Equatorial Guinea,2010,90.0,NF,2009,Equatorial Guinea
+Equatorial Guinea,2011,90.0,NF,2010,Equatorial Guinea
+Equatorial Guinea,2012,91.0,NF,2011,Equatorial Guinea
+Equatorial Guinea,2013,91.0,NF,2012,Equatorial Guinea
+Equatorial Guinea,2014,90.0,NF,2013,Equatorial Guinea
+Equatorial Guinea,2015,90.0,NF,2014,Equatorial Guinea
+Equatorial Guinea,2016,91.0,NF,2015,Equatorial Guinea
+Equatorial Guinea,2017,91.0,NF,2016,Equatorial Guinea
+Eritrea,1994,80.0,NF,1993,Eritrea
+Eritrea,1995,68.0,NF,1994,Eritrea
+Eritrea,1996,68.0,NF,1995,Eritrea
+Eritrea,1997,68.0,NF,1996,Eritrea
+Eritrea,1998,69.0,NF,1997,Eritrea
+Eritrea,1999,68.0,NF,1998,Eritrea
+Eritrea,2000,68.0,NF,1999,Eritrea
+Eritrea,2001,68.0,NF,2000,Eritrea
+Eritrea,2002,79.0,NF,2001,Eritrea
+Eritrea,2003,83.0,NF,2002,Eritrea
+Eritrea,2004,89.0,NF,2003,Eritrea
+Eritrea,2005,91.0,NF,2004,Eritrea
+Eritrea,2006,91.0,NF,2005,Eritrea
+Eritrea,2007,94.0,NF,2006,Eritrea
+Eritrea,2008,94.0,NF,2007,Eritrea
+Eritrea,2009,94.0,NF,2008,Eritrea
+Eritrea,2010,94.0,NF,2009,Eritrea
+Eritrea,2011,94.0,NF,2010,Eritrea
+Eritrea,2012,94.0,NF,2011,Eritrea
+Eritrea,2013,94.0,NF,2012,Eritrea
+Eritrea,2014,94.0,NF,2013,Eritrea
+Eritrea,2015,94.0,NF,2014,Eritrea
+Eritrea,2016,94.0,NF,2015,Eritrea
+Eritrea,2017,94.0,NF,2016,Eritrea
+Estonia,1994,28.0,F,1993,Estonia
+Estonia,1995,25.0,F,1994,Estonia
+Estonia,1996,24.0,F,1995,Estonia
+Estonia,1997,22.0,F,1996,Estonia
+Estonia,1998,20.0,F,1997,Estonia
+Estonia,1999,20.0,F,1998,Estonia
+Estonia,2000,20.0,F,1999,Estonia
+Estonia,2001,20.0,F,2000,Estonia
+Estonia,2002,18.0,F,2001,Estonia
+Estonia,2003,17.0,F,2002,Estonia
+Estonia,2004,17.0,F,2003,Estonia
+Estonia,2005,17.0,F,2004,Estonia
+Estonia,2006,16.0,F,2005,Estonia
+Estonia,2007,16.0,F,2006,Estonia
+Estonia,2008,16.0,F,2007,Estonia
+Estonia,2009,15.0,F,2008,Estonia
+Estonia,2010,17.0,F,2009,Estonia
+Estonia,2011,18.0,F,2010,Estonia
+Estonia,2012,18.0,F,2011,Estonia
+Estonia,2013,16.0,F,2012,Estonia
+Estonia,2014,16.0,F,2013,Estonia
+Estonia,2015,16.0,F,2014,Estonia
+Estonia,2016,16.0,F,2015,Estonia
+Estonia,2017,16.0,F,2016,Estonia
+Ethiopia,1994,73.0,NF,1993,Ethiopia
+Ethiopia,1995,59.0,PF,1994,Ethiopia
+Ethiopia,1996,57.0,PF,1995,Ethiopia
+Ethiopia,1997,62.0,NF,1996,Ethiopia
+Ethiopia,1998,62.0,NF,1997,Ethiopia
+Ethiopia,1999,64.0,NF,1998,Ethiopia
+Ethiopia,2000,62.0,NF,1999,Ethiopia
+Ethiopia,2001,64.0,NF,2000,Ethiopia
+Ethiopia,2002,61.0,NF,2001,Ethiopia
+Ethiopia,2003,64.0,NF,2002,Ethiopia
+Ethiopia,2004,66.0,NF,2003,Ethiopia
+Ethiopia,2005,68.0,NF,2004,Ethiopia
+Ethiopia,2006,75.0,NF,2005,Ethiopia
+Ethiopia,2007,77.0,NF,2006,Ethiopia
+Ethiopia,2008,76.0,NF,2007,Ethiopia
+Ethiopia,2009,76.0,NF,2008,Ethiopia
+Ethiopia,2010,78.0,NF,2009,Ethiopia
+Ethiopia,2011,78.0,NF,2010,Ethiopia
+Ethiopia,2012,81.0,NF,2011,Ethiopia
+Ethiopia,2013,82.0,NF,2012,Ethiopia
+Ethiopia,2014,81.0,NF,2013,Ethiopia
+Ethiopia,2015,83.0,NF,2014,Ethiopia
+Ethiopia,2016,83.0,NF,2015,Ethiopia
+Ethiopia,2017,86.0,NF,2016,Ethiopia
+Fiji,1994,55.0,PF,1993,Fiji
+Fiji,1995,56.0,PF,1994,Fiji
+Fiji,1996,57.0,PF,1995,Fiji
+Fiji,1997,60.0,PF,1996,Fiji
+Fiji,1998,60.0,PF,1997,Fiji
+Fiji,1999,59.0,PF,1998,Fiji
+Fiji,2000,58.0,PF,1999,Fiji
+Fiji,2001,44.0,PF,2000,Fiji
+Fiji,2002,33.0,PF,2001,Fiji
+Fiji,2003,29.0,F,2002,Fiji
+Fiji,2004,29.0,F,2003,Fiji
+Fiji,2005,30.0,F,2004,Fiji
+Fiji,2006,28.0,F,2005,Fiji
+Fiji,2007,39.0,PF,2006,Fiji
+Fiji,2008,37.0,PF,2007,Fiji
+Fiji,2009,40.0,PF,2008,Fiji
+Fiji,2010,54.0,PF,2009,Fiji
+Fiji,2011,57.0,PF,2010,Fiji
+Fiji,2012,58.0,PF,2011,Fiji
+Fiji,2013,56.0,PF,2012,Fiji
+Fiji,2014,54.0,PF,2013,Fiji
+Fiji,2015,52.0,PF,2014,Fiji
+Fiji,2016,48.0,PF,2015,Fiji
+Fiji,2017,44.0,PF,2016,Fiji
+Finland,1994,17.0,F,1993,Finland
+Finland,1995,15.0,F,1994,Finland
+Finland,1996,15.0,F,1995,Finland
+Finland,1997,15.0,F,1996,Finland
+Finland,1998,15.0,F,1997,Finland
+Finland,1999,15.0,F,1998,Finland
+Finland,2000,15.0,F,1999,Finland
+Finland,2001,14.0,F,2000,Finland
+Finland,2002,10.0,F,2001,Finland
+Finland,2003,10.0,F,2002,Finland
+Finland,2004,9.0,F,2003,Finland
+Finland,2005,9.0,F,2004,Finland
+Finland,2006,9.0,F,2005,Finland
+Finland,2007,9.0,F,2006,Finland
+Finland,2008,9.0,F,2007,Finland
+Finland,2009,10.0,F,2008,Finland
+Finland,2010,10.0,F,2009,Finland
+Finland,2011,10.0,F,2010,Finland
+Finland,2012,10.0,F,2011,Finland
+Finland,2013,11.0,F,2012,Finland
+Finland,2014,11.0,F,2013,Finland
+Finland,2015,11.0,F,2014,Finland
+Finland,2016,11.0,F,2015,Finland
+Finland,2017,12.0,F,2016,Finland
+France,1994,19.0,F,1993,France
+France,1995,27.0,F,1994,France
+France,1996,30.0,F,1995,France
+France,1997,26.0,F,1996,France
+France,1998,26.0,F,1997,France
+France,1999,27.0,F,1998,France
+France,2000,24.0,F,1999,France
+France,2001,21.0,F,2000,France
+France,2002,17.0,F,2001,France
+France,2003,17.0,F,2002,France
+France,2004,19.0,F,2003,France
+France,2005,20.0,F,2004,France
+France,2006,21.0,F,2005,France
+France,2007,21.0,F,2006,France
+France,2008,22.0,F,2007,France
+France,2009,22.0,F,2008,France
+France,2010,23.0,F,2009,France
+France,2011,23.0,F,2010,France
+France,2012,24.0,F,2011,France
+France,2013,22.0,F,2012,France
+France,2014,22.0,F,2013,France
+France,2015,23.0,F,2014,France
+France,2016,28.0,F,2015,France
+France,2017,26.0,F,2016,France
+Gabon,1994,58.0,PF,1993,Gabon
+Gabon,1995,52.0,PF,1994,Gabon
+Gabon,1996,49.0,PF,1995,Gabon
+Gabon,1997,50.0,PF,1996,Gabon
+Gabon,1998,50.0,PF,1997,Gabon
+Gabon,1999,52.0,PF,1998,Gabon
+Gabon,2000,55.0,PF,1999,Gabon
+Gabon,2001,55.0,PF,2000,Gabon
+Gabon,2002,52.0,PF,2001,Gabon
+Gabon,2003,58.0,PF,2002,Gabon
+Gabon,2004,62.0,NF,2003,Gabon
+Gabon,2005,66.0,NF,2004,Gabon
+Gabon,2006,67.0,NF,2005,Gabon
+Gabon,2007,69.0,NF,2006,Gabon
+Gabon,2008,69.0,NF,2007,Gabon
+Gabon,2009,69.0,NF,2008,Gabon
+Gabon,2010,71.0,NF,2009,Gabon
+Gabon,2011,69.0,NF,2010,Gabon
+Gabon,2012,70.0,NF,2011,Gabon
+Gabon,2013,71.0,NF,2012,Gabon
+Gabon,2014,70.0,NF,2013,Gabon
+Gabon,2015,70.0,NF,2014,Gabon
+Gabon,2016,68.0,NF,2015,Gabon
+Gabon,2017,71.0,NF,2016,Gabon
+Georgia,1994,73.0,NF,1993,Georgia
+Georgia,1995,70.0,NF,1994,Georgia
+Georgia,1996,68.0,NF,1995,Georgia
+Georgia,1997,55.0,PF,1996,Georgia
+Georgia,1998,56.0,PF,1997,Georgia
+Georgia,1999,57.0,PF,1998,Georgia
+Georgia,2000,47.0,PF,1999,Georgia
+Georgia,2001,53.0,PF,2000,Georgia
+Georgia,2002,53.0,PF,2001,Georgia
+Georgia,2003,54.0,PF,2002,Georgia
+Georgia,2004,54.0,PF,2003,Georgia
+Georgia,2005,56.0,PF,2004,Georgia
+Georgia,2006,56.0,PF,2005,Georgia
+Georgia,2007,57.0,PF,2006,Georgia
+Georgia,2008,60.0,PF,2007,Georgia
+Georgia,2009,60.0,PF,2008,Georgia
+Georgia,2010,59.0,PF,2009,Georgia
+Georgia,2011,55.0,PF,2010,Georgia
+Georgia,2012,52.0,PF,2011,Georgia
+Georgia,2013,49.0,PF,2012,Georgia
+Georgia,2014,47.0,PF,2013,Georgia
+Georgia,2015,48.0,PF,2014,Georgia
+Georgia,2016,49.0,PF,2015,Georgia
+Georgia,2017,50.0,PF,2016,Georgia
+Germany,1994,11.0,F,1993,Germany
+Germany,1995,18.0,F,1994,Germany
+Germany,1996,21.0,F,1995,Germany
+Germany,1997,11.0,F,1996,Germany
+Germany,1998,11.0,F,1997,Germany
+Germany,1999,13.0,F,1998,Germany
+Germany,2000,13.0,F,1999,Germany
+Germany,2001,13.0,F,2000,Germany
+Germany,2002,15.0,F,2001,Germany
+Germany,2003,15.0,F,2002,Germany
+Germany,2004,16.0,F,2003,Germany
+Germany,2005,16.0,F,2004,Germany
+Germany,2006,16.0,F,2005,Germany
+Germany,2007,16.0,F,2006,Germany
+Germany,2008,16.0,F,2007,Germany
+Germany,2009,16.0,F,2008,Germany
+Germany,2010,17.0,F,2009,Germany
+Germany,2011,17.0,F,2010,Germany
+Germany,2012,17.0,F,2011,Germany
+Germany,2013,17.0,F,2012,Germany
+Germany,2014,17.0,F,2013,Germany
+Germany,2015,18.0,F,2014,Germany
+Germany,2016,20.0,F,2015,Germany
+Germany,2017,20.0,F,2016,Germany
+Ghana,1994,63.0,NF,1993,Ghana
+Ghana,1995,62.0,NF,1994,Ghana
+Ghana,1996,62.0,NF,1995,Ghana
+Ghana,1997,59.0,PF,1996,Ghana
+Ghana,1998,60.0,PF,1997,Ghana
+Ghana,1999,61.0,NF,1998,Ghana
+Ghana,2000,61.0,NF,1999,Ghana
+Ghana,2001,55.0,PF,2000,Ghana
+Ghana,2002,27.0,F,2001,Ghana
+Ghana,2003,30.0,F,2002,Ghana
+Ghana,2004,28.0,F,2003,Ghana
+Ghana,2005,26.0,F,2004,Ghana
+Ghana,2006,28.0,F,2005,Ghana
+Ghana,2007,26.0,F,2006,Ghana
+Ghana,2008,27.0,F,2007,Ghana
+Ghana,2009,26.0,F,2008,Ghana
+Ghana,2010,26.0,F,2009,Ghana
+Ghana,2011,26.0,F,2010,Ghana
+Ghana,2012,28.0,F,2011,Ghana
+Ghana,2013,28.0,F,2012,Ghana
+Ghana,2014,28.0,F,2013,Ghana
+Ghana,2015,28.0,F,2014,Ghana
+Ghana,2016,31.0,PF,2015,Ghana
+Ghana,2017,33.0,PF,2016,Ghana
+Greece,1994,30.0,F,1993,Greece
+Greece,1995,26.0,F,1994,Greece
+Greece,1996,29.0,F,1995,Greece
+Greece,1997,27.0,F,1996,Greece
+Greece,1998,30.0,F,1997,Greece
+Greece,1999,30.0,F,1998,Greece
+Greece,2000,30.0,F,1999,Greece
+Greece,2001,30.0,F,2000,Greece
+Greece,2002,30.0,F,2001,Greece
+Greece,2003,28.0,F,2002,Greece
+Greece,2004,28.0,F,2003,Greece
+Greece,2005,28.0,F,2004,Greece
+Greece,2006,28.0,F,2005,Greece
+Greece,2007,25.0,F,2006,Greece
+Greece,2008,27.0,F,2007,Greece
+Greece,2009,29.0,F,2008,Greece
+Greece,2010,29.0,F,2009,Greece
+Greece,2011,30.0,F,2010,Greece
+Greece,2012,30.0,F,2011,Greece
+Greece,2013,41.0,PF,2012,Greece
+Greece,2014,46.0,PF,2013,Greece
+Greece,2015,51.0,PF,2014,Greece
+Greece,2016,48.0,PF,2015,Greece
+Greece,2017,44.0,PF,2016,Greece
+Grenada,1994,22.0,F,1993,Grenada
+Grenada,1995,20.0,F,1994,Grenada
+Grenada,1996,20.0,F,1995,Grenada
+Grenada,1997,20.0,F,1996,Grenada
+Grenada,1998,20.0,F,1997,Grenada
+Grenada,1999,20.0,F,1998,Grenada
+Grenada,2000,20.0,F,1999,Grenada
+Grenada,2001,20.0,F,2000,Grenada
+Grenada,2002,16.0,F,2001,Grenada
+Grenada,2003,14.0,F,2002,Grenada
+Grenada,2004,16.0,F,2003,Grenada
+Grenada,2005,20.0,F,2004,Grenada
+Grenada,2006,23.0,F,2005,Grenada
+Grenada,2007,23.0,F,2006,Grenada
+Grenada,2008,24.0,F,2007,Grenada
+Grenada,2009,24.0,F,2008,Grenada
+Grenada,2010,24.0,F,2009,Grenada
+Grenada,2011,24.0,F,2010,Grenada
+Grenada,2012,24.0,F,2011,Grenada
+Grenada,2013,23.0,F,2012,Grenada
+Grenada,2014,24.0,F,2013,Grenada
+Grenada,2015,23.0,F,2014,Grenada
+Grenada,2016,24.0,F,2015,Grenada
+Grenada,2017,26.0,F,2016,Grenada
+Guatemala,1994,59.0,PF,1993,Guatemala
+Guatemala,1995,60.0,PF,1994,Guatemala
+Guatemala,1996,56.0,PF,1995,Guatemala
+Guatemala,1997,56.0,PF,1996,Guatemala
+Guatemala,1998,59.0,PF,1997,Guatemala
+Guatemala,1999,60.0,PF,1998,Guatemala
+Guatemala,2000,54.0,PF,1999,Guatemala
+Guatemala,2001,49.0,PF,2000,Guatemala
+Guatemala,2002,49.0,PF,2001,Guatemala
+Guatemala,2003,58.0,PF,2002,Guatemala
+Guatemala,2004,62.0,NF,2003,Guatemala
+Guatemala,2005,58.0,PF,2004,Guatemala
+Guatemala,2006,58.0,PF,2005,Guatemala
+Guatemala,2007,59.0,PF,2006,Guatemala
+Guatemala,2008,58.0,PF,2007,Guatemala
+Guatemala,2009,60.0,PF,2008,Guatemala
+Guatemala,2010,60.0,PF,2009,Guatemala
+Guatemala,2011,59.0,PF,2010,Guatemala
+Guatemala,2012,60.0,PF,2011,Guatemala
+Guatemala,2013,59.0,PF,2012,Guatemala
+Guatemala,2014,60.0,PF,2013,Guatemala
+Guatemala,2015,60.0,PF,2014,Guatemala
+Guatemala,2016,58.0,PF,2015,Guatemala
+Guatemala,2017,58.0,PF,2016,Guatemala
+Guinea,1994,63.0,NF,1993,Guinea
+Guinea,1995,66.0,NF,1994,Guinea
+Guinea,1996,61.0,NF,1995,Guinea
+Guinea,1997,63.0,NF,1996,Guinea
+Guinea,1998,69.0,NF,1997,Guinea
+Guinea,1999,71.0,NF,1998,Guinea
+Guinea,2000,71.0,NF,1999,Guinea
+Guinea,2001,71.0,NF,2000,Guinea
+Guinea,2002,74.0,NF,2001,Guinea
+Guinea,2003,74.0,NF,2002,Guinea
+Guinea,2004,71.0,NF,2003,Guinea
+Guinea,2005,73.0,NF,2004,Guinea
+Guinea,2006,67.0,NF,2005,Guinea
+Guinea,2007,67.0,NF,2006,Guinea
+Guinea,2008,66.0,NF,2007,Guinea
+Guinea,2009,66.0,NF,2008,Guinea
+Guinea,2010,71.0,NF,2009,Guinea
+Guinea,2011,59.0,PF,2010,Guinea
+Guinea,2012,62.0,NF,2011,Guinea
+Guinea,2013,62.0,NF,2012,Guinea
+Guinea,2014,64.0,NF,2013,Guinea
+Guinea,2015,64.0,NF,2014,Guinea
+Guinea,2016,65.0,NF,2015,Guinea
+Guinea,2017,66.0,NF,2016,Guinea
+Guinea-Bissau,1994,48.0,PF,1993,Guinea-Bissau
+Guinea-Bissau,1995,50.0,PF,1994,Guinea-Bissau
+Guinea-Bissau,1996,49.0,PF,1995,Guinea-Bissau
+Guinea-Bissau,1997,57.0,PF,1996,Guinea-Bissau
+Guinea-Bissau,1998,57.0,PF,1997,Guinea-Bissau
+Guinea-Bissau,1999,57.0,PF,1998,Guinea-Bissau
+Guinea-Bissau,2000,56.0,PF,1999,Guinea-Bissau
+Guinea-Bissau,2001,56.0,PF,2000,Guinea-Bissau
+Guinea-Bissau,2002,56.0,PF,2001,Guinea-Bissau
+Guinea-Bissau,2003,60.0,PF,2002,Guinea-Bissau
+Guinea-Bissau,2004,63.0,NF,2003,Guinea-Bissau
+Guinea-Bissau,2005,55.0,PF,2004,Guinea-Bissau
+Guinea-Bissau,2006,47.0,PF,2005,Guinea-Bissau
+Guinea-Bissau,2007,48.0,PF,2006,Guinea-Bissau
+Guinea-Bissau,2008,53.0,PF,2007,Guinea-Bissau
+Guinea-Bissau,2009,52.0,PF,2008,Guinea-Bissau
+Guinea-Bissau,2010,54.0,PF,2009,Guinea-Bissau
+Guinea-Bissau,2011,57.0,PF,2010,Guinea-Bissau
+Guinea-Bissau,2012,57.0,PF,2011,Guinea-Bissau
+Guinea-Bissau,2013,65.0,NF,2012,Guinea-Bissau
+Guinea-Bissau,2014,67.0,NF,2013,Guinea-Bissau
+Guinea-Bissau,2015,59.0,PF,2014,Guinea-Bissau
+Guinea-Bissau,2016,60.0,PF,2015,Guinea-Bissau
+Guinea-Bissau,2017,59.0,PF,2016,Guinea-Bissau
+Guyana,1994,41.0,PF,1993,Guyana
+Guyana,1995,28.0,F,1994,Guyana
+Guyana,1996,26.0,F,1995,Guyana
+Guyana,1997,26.0,F,1996,Guyana
+Guyana,1998,22.0,F,1997,Guyana
+Guyana,1999,22.0,F,1998,Guyana
+Guyana,2000,22.0,F,1999,Guyana
+Guyana,2001,22.0,F,2000,Guyana
+Guyana,2002,23.0,F,2001,Guyana
+Guyana,2003,21.0,F,2002,Guyana
+Guyana,2004,20.0,F,2003,Guyana
+Guyana,2005,23.0,F,2004,Guyana
+Guyana,2006,27.0,F,2005,Guyana
+Guyana,2007,29.0,F,2006,Guyana
+Guyana,2008,31.0,PF,2007,Guyana
+Guyana,2009,30.0,F,2008,Guyana
+Guyana,2010,30.0,F,2009,Guyana
+Guyana,2011,30.0,F,2010,Guyana
+Guyana,2012,33.0,PF,2011,Guyana
+Guyana,2013,33.0,PF,2012,Guyana
+Guyana,2014,34.0,PF,2013,Guyana
+Guyana,2015,36.0,PF,2014,Guyana
+Guyana,2016,36.0,PF,2015,Guyana
+Guyana,2017,38.0,PF,2016,Guyana
+Haiti,1994,87.0,NF,1993,Haiti
+Haiti,1995,51.0,PF,1994,Haiti
+Haiti,1996,59.0,PF,1995,Haiti
+Haiti,1997,59.0,PF,1996,Haiti
+Haiti,1998,59.0,PF,1997,Haiti
+Haiti,1999,58.0,PF,1998,Haiti
+Haiti,2000,58.0,PF,1999,Haiti
+Haiti,2001,59.0,PF,2000,Haiti
+Haiti,2002,72.0,NF,2001,Haiti
+Haiti,2003,79.0,NF,2002,Haiti
+Haiti,2004,79.0,NF,2003,Haiti
+Haiti,2005,66.0,NF,2004,Haiti
+Haiti,2006,68.0,NF,2005,Haiti
+Haiti,2007,59.0,PF,2006,Haiti
+Haiti,2008,56.0,PF,2007,Haiti
+Haiti,2009,53.0,PF,2008,Haiti
+Haiti,2010,49.0,PF,2009,Haiti
+Haiti,2011,49.0,PF,2010,Haiti
+Haiti,2012,50.0,PF,2011,Haiti
+Haiti,2013,49.0,PF,2012,Haiti
+Haiti,2014,50.0,PF,2013,Haiti
+Haiti,2015,50.0,PF,2014,Haiti
+Haiti,2016,52.0,PF,2015,Haiti
+Haiti,2017,52.0,PF,2016,Haiti
+Honduras,1994,55.0,PF,1993,Honduras
+Honduras,1995,45.0,PF,1994,Honduras
+Honduras,1996,34.0,PF,1995,Honduras
+Honduras,1997,47.0,PF,1996,Honduras
+Honduras,1998,47.0,PF,1997,Honduras
+Honduras,1999,48.0,PF,1998,Honduras
+Honduras,2000,48.0,PF,1999,Honduras
+Honduras,2001,45.0,PF,2000,Honduras
+Honduras,2002,43.0,PF,2001,Honduras
+Honduras,2003,51.0,PF,2002,Honduras
+Honduras,2004,52.0,PF,2003,Honduras
+Honduras,2005,51.0,PF,2004,Honduras
+Honduras,2006,52.0,PF,2005,Honduras
+Honduras,2007,51.0,PF,2006,Honduras
+Honduras,2008,51.0,PF,2007,Honduras
+Honduras,2009,52.0,PF,2008,Honduras
+Honduras,2010,59.0,PF,2009,Honduras
+Honduras,2011,61.0,NF,2010,Honduras
+Honduras,2012,62.0,NF,2011,Honduras
+Honduras,2013,62.0,NF,2012,Honduras
+Honduras,2014,64.0,NF,2013,Honduras
+Honduras,2015,68.0,NF,2014,Honduras
+Honduras,2016,67.0,NF,2015,Honduras
+Honduras,2017,66.0,NF,2016,Honduras
+Hong Kong,1994,30.0,F,1993,Hong Kong
+Hong Kong,1995,30.0,F,1994,Hong Kong
+Hong Kong,1996,30.0,F,1995,Hong Kong
+Hong Kong,1997,41.0,PF,1996,Hong Kong
+Hong Kong,2005,28.0,F,2004,Hong Kong
+Hong Kong,2006,29.0,F,2005,Hong Kong
+Hong Kong,2007,30.0,F,2006,Hong Kong
+Hong Kong,2008,30.0,F,2007,Hong Kong
+Hong Kong,2009,33.0,PF,2008,Hong Kong
+Hong Kong,2010,33.0,PF,2009,Hong Kong
+Hong Kong,2011,32.0,PF,2010,Hong Kong
+Hong Kong,2012,33.0,PF,2011,Hong Kong
+Hong Kong,2013,35.0,PF,2012,Hong Kong
+Hong Kong,2014,37.0,PF,2013,Hong Kong
+Hong Kong,2015,41.0,PF,2014,Hong Kong
+Hong Kong,2016,39.0,PF,2015,Hong Kong
+Hong Kong,2017,42.0,PF,2016,Hong Kong
+Hungary,1994,30.0,F,1993,Hungary
+Hungary,1995,38.0,PF,1994,Hungary
+Hungary,1996,34.0,PF,1995,Hungary
+Hungary,1997,31.0,PF,1996,Hungary
+Hungary,1998,28.0,F,1997,Hungary
+Hungary,1999,28.0,F,1998,Hungary
+Hungary,2000,30.0,F,1999,Hungary
+Hungary,2001,28.0,F,2000,Hungary
+Hungary,2002,23.0,F,2001,Hungary
+Hungary,2003,23.0,F,2002,Hungary
+Hungary,2004,20.0,F,2003,Hungary
+Hungary,2005,21.0,F,2004,Hungary
+Hungary,2006,21.0,F,2005,Hungary
+Hungary,2007,21.0,F,2006,Hungary
+Hungary,2008,21.0,F,2007,Hungary
+Hungary,2009,21.0,F,2008,Hungary
+Hungary,2010,23.0,F,2009,Hungary
+Hungary,2011,30.0,F,2010,Hungary
+Hungary,2012,36.0,PF,2011,Hungary
+Hungary,2013,36.0,PF,2012,Hungary
+Hungary,2014,35.0,PF,2013,Hungary
+Hungary,2015,37.0,PF,2014,Hungary
+Hungary,2016,40.0,PF,2015,Hungary
+Hungary,2017,44.0,PF,2016,Hungary
+Iceland,1994,14.0,F,1993,Iceland
+Iceland,1995,12.0,F,1994,Iceland
+Iceland,1996,12.0,F,1995,Iceland
+Iceland,1997,12.0,F,1996,Iceland
+Iceland,1998,12.0,F,1997,Iceland
+Iceland,1999,12.0,F,1998,Iceland
+Iceland,2000,12.0,F,1999,Iceland
+Iceland,2001,12.0,F,2000,Iceland
+Iceland,2002,8.0,F,2001,Iceland
+Iceland,2003,8.0,F,2002,Iceland
+Iceland,2004,8.0,F,2003,Iceland
+Iceland,2005,9.0,F,2004,Iceland
+Iceland,2006,9.0,F,2005,Iceland
+Iceland,2007,9.0,F,2006,Iceland
+Iceland,2008,9.0,F,2007,Iceland
+Iceland,2009,9.0,F,2008,Iceland
+Iceland,2010,10.0,F,2009,Iceland
+Iceland,2011,12.0,F,2010,Iceland
+Iceland,2012,14.0,F,2011,Iceland
+Iceland,2013,14.0,F,2012,Iceland
+Iceland,2014,12.0,F,2013,Iceland
+Iceland,2015,16.0,F,2014,Iceland
+Iceland,2016,15.0,F,2015,Iceland
+Iceland,2017,15.0,F,2016,Iceland
+India,1994,38.0,PF,1993,India
+India,1995,49.0,PF,1994,India
+India,1996,48.0,PF,1995,India
+India,1997,40.0,PF,1996,India
+India,1998,37.0,PF,1997,India
+India,1999,37.0,PF,1998,India
+India,2000,42.0,PF,1999,India
+India,2001,42.0,PF,2000,India
+India,2002,42.0,PF,2001,India
+India,2003,45.0,PF,2002,India
+India,2004,41.0,PF,2003,India
+India,2005,38.0,PF,2004,India
+India,2006,37.0,PF,2005,India
+India,2007,35.0,PF,2006,India
+India,2008,35.0,PF,2007,India
+India,2009,36.0,PF,2008,India
+India,2010,33.0,PF,2009,India
+India,2011,35.0,PF,2010,India
+India,2012,37.0,PF,2011,India
+India,2013,38.0,PF,2012,India
+India,2014,39.0,PF,2013,India
+India,2015,40.0,PF,2014,India
+India,2016,41.0,PF,2015,India
+India,2017,43.0,PF,2016,India
+Indonesia,1994,58.0,PF,1993,Indonesia
+Indonesia,1995,71.0,NF,1994,Indonesia
+Indonesia,1996,74.0,NF,1995,Indonesia
+Indonesia,1997,77.0,NF,1996,Indonesia
+Indonesia,1998,77.0,NF,1997,Indonesia
+Indonesia,1999,53.0,PF,1998,Indonesia
+Indonesia,2000,49.0,PF,1999,Indonesia
+Indonesia,2001,47.0,PF,2000,Indonesia
+Indonesia,2002,53.0,PF,2001,Indonesia
+Indonesia,2003,56.0,PF,2002,Indonesia
+Indonesia,2004,55.0,PF,2003,Indonesia
+Indonesia,2005,58.0,PF,2004,Indonesia
+Indonesia,2006,58.0,PF,2005,Indonesia
+Indonesia,2007,54.0,PF,2006,Indonesia
+Indonesia,2008,54.0,PF,2007,Indonesia
+Indonesia,2009,54.0,PF,2008,Indonesia
+Indonesia,2010,52.0,PF,2009,Indonesia
+Indonesia,2011,53.0,PF,2010,Indonesia
+Indonesia,2012,49.0,PF,2011,Indonesia
+Indonesia,2013,49.0,PF,2012,Indonesia
+Indonesia,2014,49.0,PF,2013,Indonesia
+Indonesia,2015,49.0,PF,2014,Indonesia
+Indonesia,2016,49.0,PF,2015,Indonesia
+Indonesia,2017,49.0,PF,2016,Indonesia
+Iran,1994,81.0,NF,1993,Iran
+Iran,1995,83.0,NF,1994,Iran
+Iran,1996,80.0,NF,1995,Iran
+Iran,1997,80.0,NF,1996,Iran
+Iran,1998,78.0,NF,1997,Iran
+Iran,1999,76.0,NF,1998,Iran
+Iran,2000,68.0,NF,1999,Iran
+Iran,2001,72.0,NF,2000,Iran
+Iran,2002,75.0,NF,2001,Iran
+Iran,2003,76.0,NF,2002,Iran
+Iran,2004,79.0,NF,2003,Iran
+Iran,2005,80.0,NF,2004,Iran
+Iran,2006,84.0,NF,2005,Iran
+Iran,2007,84.0,NF,2006,Iran
+Iran,2008,85.0,NF,2007,Iran
+Iran,2009,85.0,NF,2008,Iran
+Iran,2010,89.0,NF,2009,Iran
+Iran,2011,91.0,NF,2010,Iran
+Iran,2012,92.0,NF,2011,Iran
+Iran,2013,92.0,NF,2012,Iran
+Iran,2014,90.0,NF,2013,Iran
+Iran,2015,90.0,NF,2014,Iran
+Iran,2016,90.0,NF,2015,Iran
+Iran,2017,90.0,NF,2016,Iran
+Iraq,1994,99.0,NF,1993,Iraq
+Iraq,1995,100.0,NF,1994,Iraq
+Iraq,1996,100.0,NF,1995,Iraq
+Iraq,1997,100.0,NF,1996,Iraq
+Iraq,1998,100.0,NF,1997,Iraq
+Iraq,1999,98.0,NF,1998,Iraq
+Iraq,2000,98.0,NF,1999,Iraq
+Iraq,2001,100.0,NF,2000,Iraq
+Iraq,2002,96.0,NF,2001,Iraq
+Iraq,2003,95.0,NF,2002,Iraq
+Iraq,2004,66.0,NF,2003,Iraq
+Iraq,2005,70.0,NF,2004,Iraq
+Iraq,2006,71.0,NF,2005,Iraq
+Iraq,2007,70.0,NF,2006,Iraq
+Iraq,2008,69.0,NF,2007,Iraq
+Iraq,2009,67.0,NF,2008,Iraq
+Iraq,2010,65.0,NF,2009,Iraq
+Iraq,2011,68.0,NF,2010,Iraq
+Iraq,2012,69.0,NF,2011,Iraq
+Iraq,2013,67.0,NF,2012,Iraq
+Iraq,2014,69.0,NF,2013,Iraq
+Iraq,2015,72.0,NF,2014,Iraq
+Iraq,2016,71.0,NF,2015,Iraq
+Iraq,2017,71.0,NF,2016,Iraq
+Ireland,1994,16.0,F,1993,Ireland
+Ireland,1995,15.0,F,1994,Ireland
+Ireland,1996,18.0,F,1995,Ireland
+Ireland,1997,19.0,F,1996,Ireland
+Ireland,1998,21.0,F,1997,Ireland
+Ireland,1999,20.0,F,1998,Ireland
+Ireland,2000,21.0,F,1999,Ireland
+Ireland,2001,18.0,F,2000,Ireland
+Ireland,2002,16.0,F,2001,Ireland
+Ireland,2003,16.0,F,2002,Ireland
+Ireland,2004,16.0,F,2003,Ireland
+Ireland,2005,15.0,F,2004,Ireland
+Ireland,2006,15.0,F,2005,Ireland
+Ireland,2007,16.0,F,2006,Ireland
+Ireland,2008,15.0,F,2007,Ireland
+Ireland,2009,15.0,F,2008,Ireland
+Ireland,2010,15.0,F,2009,Ireland
+Ireland,2011,16.0,F,2010,Ireland
+Ireland,2012,16.0,F,2011,Ireland
+Ireland,2013,16.0,F,2012,Ireland
+Ireland,2014,16.0,F,2013,Ireland
+Ireland,2015,16.0,F,2014,Ireland
+Ireland,2016,17.0,F,2015,Ireland
+Ireland,2017,18.0,F,2016,Ireland
+Israel,1994,30.0,F,1993,Israel
+Israel,1995,30.0,F,1994,Israel
+Israel,1996,30.0,F,1995,Israel
+Israel,1997,28.0,F,1996,Israel
+Israel,1998,28.0,F,1997,Israel
+Israel,1999,28.0,F,1998,Israel
+Israel,2000,30.0,F,1999,Israel
+Israel,2001,30.0,F,2000,Israel
+Israel,2002,30.0,F,2001,Israel
+Israel,2003,27.0,F,2002,Israel
+Israel,2004,28.0,F,2003,Israel
+Israel,2005,28.0,F,2004,Israel
+Israel,2006,28.0,F,2005,Israel
+Israel,2007,29.0,F,2006,Israel
+Israel,2008,28.0,F,2007,Israel
+Israel,2009,31.0,PF,2008,Israel
+Israel,2010,29.0,F,2009,Israel
+Israel,2011,29.0,F,2010,Israel
+Israel,2012,30.0,F,2011,Israel
+Israel,2013,31.0,PF,2012,Israel
+Israel,2014,30.0,F,2013,Israel
+Israel,2015,30.0,F,2014,Israel
+Israel,2016,32.0,PF,2015,Israel
+Israel,2017,33.0,PF,2016,Israel
+Israeli-Occupied Territories and Palestinian Authority,1995,94.0,NF,1994,
+Israeli-Occupied Territories and Palestinian Authority,1996,58.0,PF,1995,
+Israeli-Occupied Territories and Palestinian Authority,1997,63.0,NF,1996,
+Israeli-Occupied Territories and Palestinian Authority,1998,65.0,NF,1997,
+Israeli-Occupied Territories and Palestinian Authority,1999,65.0,NF,1998,
+Israeli-Occupied Territories and Palestinian Authority,2000,65.0,NF,1999,
+Israeli-Occupied Territories and Palestinian Authority,2001,70.0,NF,2000,
+Israeli-Occupied Territories and Palestinian Authority,2002,84.0,NF,2001,
+Israeli-Occupied Territories and Palestinian Authority,2003,86.0,NF,2002,
+Israeli-Occupied Territories and Palestinian Authority,2004,86.0,NF,2003,
+Israeli-Occupied Territories and Palestinian Authority,2005,84.0,NF,2004,
+Israeli-Occupied Territories and Palestinian Authority,2006,86.0,NF,2005,
+Israeli-Occupied Territories and Palestinian Authority,2007,84.0,NF,2006,
+Israeli-Occupied Territories and Palestinian Authority,2008,84.0,NF,2007,
+Israeli-Occupied Territories and Palestinian Authority,2009,86.0,NF,2008,
+Israeli-Occupied Territories and Palestinian Authority,2010,84.0,NF,2009,
+Israeli-Occupied Territories and Palestinian Authority,2011,83.0,NF,2010,
+Italy,1994,25.0,F,1993,Italy
+Italy,1995,30.0,F,1994,Italy
+Italy,1996,30.0,F,1995,Italy
+Italy,1997,27.0,F,1996,Italy
+Italy,1998,27.0,F,1997,Italy
+Italy,1999,28.0,F,1998,Italy
+Italy,2000,27.0,F,1999,Italy
+Italy,2001,27.0,F,2000,Italy
+Italy,2002,27.0,F,2001,Italy
+Italy,2003,28.0,F,2002,Italy
+Italy,2004,33.0,PF,2003,Italy
+Italy,2005,35.0,PF,2004,Italy
+Italy,2006,35.0,PF,2005,Italy
+Italy,2007,29.0,F,2006,Italy
+Italy,2008,29.0,F,2007,Italy
+Italy,2009,32.0,PF,2008,Italy
+Italy,2010,33.0,PF,2009,Italy
+Italy,2011,34.0,PF,2010,Italy
+Italy,2012,33.0,PF,2011,Italy
+Italy,2013,33.0,PF,2012,Italy
+Italy,2014,31.0,PF,2013,Italy
+Italy,2015,31.0,PF,2014,Italy
+Italy,2016,31.0,PF,2015,Italy
+Italy,2017,31.0,PF,2016,Italy
+Jamaica,1994,23.0,F,1993,Jamaica
+Jamaica,1995,18.0,F,1994,Jamaica
+Jamaica,1996,11.0,F,1995,Jamaica
+Jamaica,1997,11.0,F,1996,Jamaica
+Jamaica,1998,11.0,F,1997,Jamaica
+Jamaica,1999,11.0,F,1998,Jamaica
+Jamaica,2000,11.0,F,1999,Jamaica
+Jamaica,2001,11.0,F,2000,Jamaica
+Jamaica,2002,17.0,F,2001,Jamaica
+Jamaica,2003,20.0,F,2002,Jamaica
+Jamaica,2004,17.0,F,2003,Jamaica
+Jamaica,2005,15.0,F,2004,Jamaica
+Jamaica,2006,17.0,F,2005,Jamaica
+Jamaica,2007,15.0,F,2006,Jamaica
+Jamaica,2008,15.0,F,2007,Jamaica
+Jamaica,2009,15.0,F,2008,Jamaica
+Jamaica,2010,16.0,F,2009,Jamaica
+Jamaica,2011,18.0,F,2010,Jamaica
+Jamaica,2012,18.0,F,2011,Jamaica
+Jamaica,2013,18.0,F,2012,Jamaica
+Jamaica,2014,17.0,F,2013,Jamaica
+Jamaica,2015,17.0,F,2014,Jamaica
+Jamaica,2016,18.0,F,2015,Jamaica
+Jamaica,2017,19.0,F,2016,Jamaica
+Japan,1994,21.0,F,1993,Japan
+Japan,1995,20.0,F,1994,Japan
+Japan,1996,21.0,F,1995,Japan
+Japan,1997,20.0,F,1996,Japan
+Japan,1998,19.0,F,1997,Japan
+Japan,1999,19.0,F,1998,Japan
+Japan,2000,19.0,F,1999,Japan
+Japan,2001,23.0,F,2000,Japan
+Japan,2002,17.0,F,2001,Japan
+Japan,2003,17.0,F,2002,Japan
+Japan,2004,18.0,F,2003,Japan
+Japan,2005,20.0,F,2004,Japan
+Japan,2006,20.0,F,2005,Japan
+Japan,2007,21.0,F,2006,Japan
+Japan,2008,21.0,F,2007,Japan
+Japan,2009,21.0,F,2008,Japan
+Japan,2010,21.0,F,2009,Japan
+Japan,2011,21.0,F,2010,Japan
+Japan,2012,22.0,F,2011,Japan
+Japan,2013,24.0,F,2012,Japan
+Japan,2014,25.0,F,2013,Japan
+Japan,2015,25.0,F,2014,Japan
+Japan,2016,26.0,F,2015,Japan
+Japan,2017,27.0,F,2016,Japan
+Jordan,1994,52.0,PF,1993,Jordan
+Jordan,1995,48.0,PF,1994,Jordan
+Jordan,1996,45.0,PF,1995,Jordan
+Jordan,1997,48.0,PF,1996,Jordan
+Jordan,1998,60.0,PF,1997,Jordan
+Jordan,1999,65.0,NF,1998,Jordan
+Jordan,2000,57.0,PF,1999,Jordan
+Jordan,2001,60.0,PF,2000,Jordan
+Jordan,2002,60.0,PF,2001,Jordan
+Jordan,2003,65.0,NF,2002,Jordan
+Jordan,2004,63.0,NF,2003,Jordan
+Jordan,2005,62.0,NF,2004,Jordan
+Jordan,2006,61.0,NF,2005,Jordan
+Jordan,2007,61.0,NF,2006,Jordan
+Jordan,2008,63.0,NF,2007,Jordan
+Jordan,2009,64.0,NF,2008,Jordan
+Jordan,2010,63.0,NF,2009,Jordan
+Jordan,2011,63.0,NF,2010,Jordan
+Jordan,2012,63.0,NF,2011,Jordan
+Jordan,2013,63.0,NF,2012,Jordan
+Jordan,2014,68.0,NF,2013,Jordan
+Jordan,2015,66.0,NF,2014,Jordan
+Jordan,2016,66.0,NF,2015,Jordan
+Jordan,2017,68.0,NF,2016,Jordan
+Kazakhstan,1994,60.0,PF,1993,Kazakhstan
+Kazakhstan,1995,61.0,NF,1994,Kazakhstan
+Kazakhstan,1996,62.0,NF,1995,Kazakhstan
+Kazakhstan,1997,64.0,NF,1996,Kazakhstan
+Kazakhstan,1998,66.0,NF,1997,Kazakhstan
+Kazakhstan,1999,68.0,NF,1998,Kazakhstan
+Kazakhstan,2000,68.0,NF,1999,Kazakhstan
+Kazakhstan,2001,70.0,NF,2000,Kazakhstan
+Kazakhstan,2002,69.0,NF,2001,Kazakhstan
+Kazakhstan,2003,73.0,NF,2002,Kazakhstan
+Kazakhstan,2004,74.0,NF,2003,Kazakhstan
+Kazakhstan,2005,75.0,NF,2004,Kazakhstan
+Kazakhstan,2006,75.0,NF,2005,Kazakhstan
+Kazakhstan,2007,76.0,NF,2006,Kazakhstan
+Kazakhstan,2008,78.0,NF,2007,Kazakhstan
+Kazakhstan,2009,78.0,NF,2008,Kazakhstan
+Kazakhstan,2010,78.0,NF,2009,Kazakhstan
+Kazakhstan,2011,80.0,NF,2010,Kazakhstan
+Kazakhstan,2012,81.0,NF,2011,Kazakhstan
+Kazakhstan,2013,84.0,NF,2012,Kazakhstan
+Kazakhstan,2014,85.0,NF,2013,Kazakhstan
+Kazakhstan,2015,85.0,NF,2014,Kazakhstan
+Kazakhstan,2016,84.0,NF,2015,Kazakhstan
+Kazakhstan,2017,85.0,NF,2016,Kazakhstan
+Kenya,1994,60.0,PF,1993,Kenya
+Kenya,1995,52.0,PF,1994,Kenya
+Kenya,1996,62.0,NF,1995,Kenya
+Kenya,1997,59.0,PF,1996,Kenya
+Kenya,1998,63.0,NF,1997,Kenya
+Kenya,1999,70.0,NF,1998,Kenya
+Kenya,2000,70.0,NF,1999,Kenya
+Kenya,2001,70.0,NF,2000,Kenya
+Kenya,2002,67.0,NF,2001,Kenya
+Kenya,2003,68.0,NF,2002,Kenya
+Kenya,2004,60.0,PF,2003,Kenya
+Kenya,2005,61.0,NF,2004,Kenya
+Kenya,2006,58.0,PF,2005,Kenya
+Kenya,2007,59.0,PF,2006,Kenya
+Kenya,2008,60.0,PF,2007,Kenya
+Kenya,2009,60.0,PF,2008,Kenya
+Kenya,2010,57.0,PF,2009,Kenya
+Kenya,2011,54.0,PF,2010,Kenya
+Kenya,2012,52.0,PF,2011,Kenya
+Kenya,2013,53.0,PF,2012,Kenya
+Kenya,2014,57.0,PF,2013,Kenya
+Kenya,2015,57.0,PF,2014,Kenya
+Kenya,2016,58.0,PF,2015,Kenya
+Kenya,2017,58.0,PF,2016,Kenya
+Kiribati,1994,26.0,F,1993,Kiribati
+Kiribati,1995,24.0,F,1994,Kiribati
+Kiribati,1996,18.0,F,1995,Kiribati
+Kiribati,1997,18.0,F,1996,Kiribati
+Kiribati,1998,17.0,F,1997,Kiribati
+Kiribati,1999,17.0,F,1998,Kiribati
+Kiribati,2000,17.0,F,1999,Kiribati
+Kiribati,2001,22.0,F,2000,Kiribati
+Kiribati,2002,21.0,F,2001,Kiribati
+Kiribati,2003,26.0,F,2002,Kiribati
+Kiribati,2004,27.0,F,2003,Kiribati
+Kiribati,2005,26.0,F,2004,Kiribati
+Kiribati,2006,28.0,F,2005,Kiribati
+Kiribati,2007,26.0,F,2006,Kiribati
+Kiribati,2008,26.0,F,2007,Kiribati
+Kiribati,2009,27.0,F,2008,Kiribati
+Kiribati,2010,27.0,F,2009,Kiribati
+Kiribati,2011,27.0,F,2010,Kiribati
+Kiribati,2012,27.0,F,2011,Kiribati
+Kiribati,2013,27.0,F,2012,Kiribati
+Kiribati,2014,29.0,F,2013,Kiribati
+Kiribati,2015,29.0,F,2014,Kiribati
+Kiribati,2016,30.0,F,2015,Kiribati
+Kiribati,2017,30.0,F,2016,Kiribati
+Kosovo,2010,53.0,PF,2009,Kosovo
+Kosovo,2011,51.0,PF,2010,Kosovo
+Kosovo,2012,49.0,PF,2011,Kosovo
+Kosovo,2013,49.0,PF,2012,Kosovo
+Kosovo,2014,49.0,PF,2013,Kosovo
+Kosovo,2015,49.0,PF,2014,Kosovo
+Kosovo,2016,49.0,PF,2015,Kosovo
+Kosovo,2017,48.0,PF,2016,Kosovo
+Kuwait,1994,67.0,NF,1993,Kuwait
+Kuwait,1995,70.0,NF,1994,Kuwait
+Kuwait,1996,42.0,PF,1995,Kuwait
+Kuwait,1997,44.0,PF,1996,Kuwait
+Kuwait,1998,44.0,PF,1997,Kuwait
+Kuwait,1999,45.0,PF,1998,Kuwait
+Kuwait,2000,48.0,PF,1999,Kuwait
+Kuwait,2001,48.0,PF,2000,Kuwait
+Kuwait,2002,49.0,PF,2001,Kuwait
+Kuwait,2003,54.0,PF,2002,Kuwait
+Kuwait,2004,57.0,PF,2003,Kuwait
+Kuwait,2005,58.0,PF,2004,Kuwait
+Kuwait,2006,56.0,PF,2005,Kuwait
+Kuwait,2007,56.0,PF,2006,Kuwait
+Kuwait,2008,54.0,PF,2007,Kuwait
+Kuwait,2009,55.0,PF,2008,Kuwait
+Kuwait,2010,55.0,PF,2009,Kuwait
+Kuwait,2011,57.0,PF,2010,Kuwait
+Kuwait,2012,57.0,PF,2011,Kuwait
+Kuwait,2013,59.0,PF,2012,Kuwait
+Kuwait,2014,59.0,PF,2013,Kuwait
+Kuwait,2015,59.0,PF,2014,Kuwait
+Kuwait,2016,59.0,PF,2015,Kuwait
+Kuwait,2017,60.0,PF,2016,Kuwait
+Kyrgyzstan,1994,49.0,PF,1993,Kyrgyzstan
+Kyrgyzstan,1995,52.0,PF,1994,Kyrgyzstan
+Kyrgyzstan,1996,60.0,PF,1995,Kyrgyzstan
+Kyrgyzstan,1997,61.0,NF,1996,Kyrgyzstan
+Kyrgyzstan,1998,64.0,NF,1997,Kyrgyzstan
+Kyrgyzstan,1999,64.0,NF,1998,Kyrgyzstan
+Kyrgyzstan,2000,61.0,NF,1999,Kyrgyzstan
+Kyrgyzstan,2001,61.0,NF,2000,Kyrgyzstan
+Kyrgyzstan,2002,68.0,NF,2001,Kyrgyzstan
+Kyrgyzstan,2003,71.0,NF,2002,Kyrgyzstan
+Kyrgyzstan,2004,71.0,NF,2003,Kyrgyzstan
+Kyrgyzstan,2005,71.0,NF,2004,Kyrgyzstan
+Kyrgyzstan,2006,64.0,NF,2005,Kyrgyzstan
+Kyrgyzstan,2007,67.0,NF,2006,Kyrgyzstan
+Kyrgyzstan,2008,70.0,NF,2007,Kyrgyzstan
+Kyrgyzstan,2009,72.0,NF,2008,Kyrgyzstan
+Kyrgyzstan,2010,73.0,NF,2009,Kyrgyzstan
+Kyrgyzstan,2011,70.0,NF,2010,Kyrgyzstan
+Kyrgyzstan,2012,69.0,NF,2011,Kyrgyzstan
+Kyrgyzstan,2013,69.0,NF,2012,Kyrgyzstan
+Kyrgyzstan,2014,66.0,NF,2013,Kyrgyzstan
+Kyrgyzstan,2015,67.0,NF,2014,Kyrgyzstan
+Kyrgyzstan,2016,67.0,NF,2015,Kyrgyzstan
+Kyrgyzstan,2017,67.0,NF,2016,Kyrgyzstan
+Laos,1994,70.0,NF,1993,Laos
+Laos,1995,68.0,NF,1994,Laos
+Laos,1996,62.0,NF,1995,Laos
+Laos,1997,62.0,NF,1996,Laos
+Laos,1998,66.0,NF,1997,Laos
+Laos,1999,66.0,NF,1998,Laos
+Laos,2000,66.0,NF,1999,Laos
+Laos,2001,69.0,NF,2000,Laos
+Laos,2002,82.0,NF,2001,Laos
+Laos,2003,80.0,NF,2002,Laos
+Laos,2004,82.0,NF,2003,Laos
+Laos,2005,83.0,NF,2004,Laos
+Laos,2006,81.0,NF,2005,Laos
+Laos,2007,81.0,NF,2006,Laos
+Laos,2008,83.0,NF,2007,Laos
+Laos,2009,86.0,NF,2008,Laos
+Laos,2010,84.0,NF,2009,Laos
+Laos,2011,85.0,NF,2010,Laos
+Laos,2012,84.0,NF,2011,Laos
+Laos,2013,84.0,NF,2012,Laos
+Laos,2014,84.0,NF,2013,Laos
+Laos,2015,84.0,NF,2014,Laos
+Laos,2016,84.0,NF,2015,Laos
+Laos,2017,85.0,NF,2016,Laos
+Latvia,1994,29.0,F,1993,Latvia
+Latvia,1995,29.0,F,1994,Latvia
+Latvia,1996,21.0,F,1995,Latvia
+Latvia,1997,21.0,F,1996,Latvia
+Latvia,1998,21.0,F,1997,Latvia
+Latvia,1999,21.0,F,1998,Latvia
+Latvia,2000,24.0,F,1999,Latvia
+Latvia,2001,24.0,F,2000,Latvia
+Latvia,2002,19.0,F,2001,Latvia
+Latvia,2003,18.0,F,2002,Latvia
+Latvia,2004,17.0,F,2003,Latvia
+Latvia,2005,17.0,F,2004,Latvia
+Latvia,2006,19.0,F,2005,Latvia
+Latvia,2007,19.0,F,2006,Latvia
+Latvia,2008,22.0,F,2007,Latvia
+Latvia,2009,23.0,F,2008,Latvia
+Latvia,2010,26.0,F,2009,Latvia
+Latvia,2011,26.0,F,2010,Latvia
+Latvia,2012,27.0,F,2011,Latvia
+Latvia,2013,28.0,F,2012,Latvia
+Latvia,2014,27.0,F,2013,Latvia
+Latvia,2015,28.0,F,2014,Latvia
+Latvia,2016,28.0,F,2015,Latvia
+Latvia,2017,26.0,F,2016,Latvia
+Lebanon,1994,46.0,PF,1993,Lebanon
+Lebanon,1995,56.0,PF,1994,Lebanon
+Lebanon,1996,46.0,PF,1995,Lebanon
+Lebanon,1997,46.0,PF,1996,Lebanon
+Lebanon,1998,62.0,NF,1997,Lebanon
+Lebanon,1999,62.0,NF,1998,Lebanon
+Lebanon,2000,61.0,NF,1999,Lebanon
+Lebanon,2001,61.0,NF,2000,Lebanon
+Lebanon,2002,74.0,NF,2001,Lebanon
+Lebanon,2003,71.0,NF,2002,Lebanon
+Lebanon,2004,66.0,NF,2003,Lebanon
+Lebanon,2005,60.0,PF,2004,Lebanon
+Lebanon,2006,60.0,PF,2005,Lebanon
+Lebanon,2007,59.0,PF,2006,Lebanon
+Lebanon,2008,55.0,PF,2007,Lebanon
+Lebanon,2009,56.0,PF,2008,Lebanon
+Lebanon,2010,55.0,PF,2009,Lebanon
+Lebanon,2011,53.0,PF,2010,Lebanon
+Lebanon,2012,51.0,PF,2011,Lebanon
+Lebanon,2013,53.0,PF,2012,Lebanon
+Lebanon,2014,53.0,PF,2013,Lebanon
+Lebanon,2015,55.0,PF,2014,Lebanon
+Lebanon,2016,56.0,PF,2015,Lebanon
+Lebanon,2017,56.0,PF,2016,Lebanon
+Lesotho,1994,47.0,PF,1993,Lesotho
+Lesotho,1995,52.0,PF,1994,Lesotho
+Lesotho,1996,55.0,PF,1995,Lesotho
+Lesotho,1997,58.0,PF,1996,Lesotho
+Lesotho,1998,58.0,PF,1997,Lesotho
+Lesotho,1999,59.0,PF,1998,Lesotho
+Lesotho,2000,56.0,PF,1999,Lesotho
+Lesotho,2001,52.0,PF,2000,Lesotho
+Lesotho,2002,46.0,PF,2001,Lesotho
+Lesotho,2003,42.0,PF,2002,Lesotho
+Lesotho,2004,40.0,PF,2003,Lesotho
+Lesotho,2005,42.0,PF,2004,Lesotho
+Lesotho,2006,42.0,PF,2005,Lesotho
+Lesotho,2007,42.0,PF,2006,Lesotho
+Lesotho,2008,46.0,PF,2007,Lesotho
+Lesotho,2009,48.0,PF,2008,Lesotho
+Lesotho,2010,48.0,PF,2009,Lesotho
+Lesotho,2011,48.0,PF,2010,Lesotho
+Lesotho,2012,49.0,PF,2011,Lesotho
+Lesotho,2013,49.0,PF,2012,Lesotho
+Lesotho,2014,47.0,PF,2013,Lesotho
+Lesotho,2015,48.0,PF,2014,Lesotho
+Lesotho,2016,49.0,PF,2015,Lesotho
+Lesotho,2017,51.0,PF,2016,Lesotho
+Liberia,1994,80.0,NF,1993,Liberia
+Liberia,1995,71.0,NF,1994,Liberia
+Liberia,1996,70.0,NF,1995,Liberia
+Liberia,1997,70.0,NF,1996,Liberia
+Liberia,1998,70.0,NF,1997,Liberia
+Liberia,1999,70.0,NF,1998,Liberia
+Liberia,2000,67.0,NF,1999,Liberia
+Liberia,2001,68.0,NF,2000,Liberia
+Liberia,2002,77.0,NF,2001,Liberia
+Liberia,2003,79.0,NF,2002,Liberia
+Liberia,2004,75.0,NF,2003,Liberia
+Liberia,2005,73.0,NF,2004,Liberia
+Liberia,2006,64.0,NF,2005,Liberia
+Liberia,2007,65.0,NF,2006,Liberia
+Liberia,2008,65.0,NF,2007,Liberia
+Liberia,2009,63.0,NF,2008,Liberia
+Liberia,2010,61.0,NF,2009,Liberia
+Liberia,2011,59.0,PF,2010,Liberia
+Liberia,2012,60.0,PF,2011,Liberia
+Liberia,2013,56.0,PF,2012,Liberia
+Liberia,2014,58.0,PF,2013,Liberia
+Liberia,2015,60.0,PF,2014,Liberia
+Liberia,2016,58.0,PF,2015,Liberia
+Liberia,2017,60.0,PF,2016,Liberia
+Libya,1994,87.0,NF,1993,Libya
+Libya,1995,85.0,NF,1994,Libya
+Libya,1996,89.0,NF,1995,Libya
+Libya,1997,90.0,NF,1996,Libya
+Libya,1998,90.0,NF,1997,Libya
+Libya,1999,92.0,NF,1998,Libya
+Libya,2000,90.0,NF,1999,Libya
+Libya,2001,90.0,NF,2000,Libya
+Libya,2002,88.0,NF,2001,Libya
+Libya,2003,89.0,NF,2002,Libya
+Libya,2004,94.0,NF,2003,Libya
+Libya,2005,95.0,NF,2004,Libya
+Libya,2006,96.0,NF,2005,Libya
+Libya,2007,96.0,NF,2006,Libya
+Libya,2008,94.0,NF,2007,Libya
+Libya,2009,94.0,NF,2008,Libya
+Libya,2010,94.0,NF,2009,Libya
+Libya,2011,94.0,NF,2010,Libya
+Libya,2012,60.0,PF,2011,Libya
+Libya,2013,59.0,PF,2012,Libya
+Libya,2014,62.0,NF,2013,Libya
+Libya,2015,73.0,NF,2014,Libya
+Libya,2016,75.0,NF,2015,Libya
+Libya,2017,77.0,NF,2016,Libya
+Liechtenstein,2003,11.0,F,2002,Liechtenstein
+Liechtenstein,2004,12.0,F,2003,Liechtenstein
+Liechtenstein,2005,14.0,F,2004,Liechtenstein
+Liechtenstein,2006,13.0,F,2005,Liechtenstein
+Liechtenstein,2007,14.0,F,2006,Liechtenstein
+Liechtenstein,2008,14.0,F,2007,Liechtenstein
+Liechtenstein,2009,14.0,F,2008,Liechtenstein
+Liechtenstein,2010,14.0,F,2009,Liechtenstein
+Liechtenstein,2011,14.0,F,2010,Liechtenstein
+Liechtenstein,2012,14.0,F,2011,Liechtenstein
+Liechtenstein,2013,14.0,F,2012,Liechtenstein
+Liechtenstein,2014,14.0,F,2013,Liechtenstein
+Liechtenstein,2015,14.0,F,2014,Liechtenstein
+Liechtenstein,2016,14.0,F,2015,Liechtenstein
+Liechtenstein,2017,15.0,F,2016,Liechtenstein
+Lithuania,1994,30.0,F,1993,Lithuania
+Lithuania,1995,29.0,F,1994,Lithuania
+Lithuania,1996,25.0,F,1995,Lithuania
+Lithuania,1997,20.0,F,1996,Lithuania
+Lithuania,1998,17.0,F,1997,Lithuania
+Lithuania,1999,18.0,F,1998,Lithuania
+Lithuania,2000,20.0,F,1999,Lithuania
+Lithuania,2001,20.0,F,2000,Lithuania
+Lithuania,2002,19.0,F,2001,Lithuania
+Lithuania,2003,18.0,F,2002,Lithuania
+Lithuania,2004,18.0,F,2003,Lithuania
+Lithuania,2005,18.0,F,2004,Lithuania
+Lithuania,2006,18.0,F,2005,Lithuania
+Lithuania,2007,18.0,F,2006,Lithuania
+Lithuania,2008,18.0,F,2007,Lithuania
+Lithuania,2009,18.0,F,2008,Lithuania
+Lithuania,2010,21.0,F,2009,Lithuania
+Lithuania,2011,22.0,F,2010,Lithuania
+Lithuania,2012,23.0,F,2011,Lithuania
+Lithuania,2013,24.0,F,2012,Lithuania
+Lithuania,2014,24.0,F,2013,Lithuania
+Lithuania,2015,25.0,F,2014,Lithuania
+Lithuania,2016,23.0,F,2015,Lithuania
+Lithuania,2017,21.0,F,2016,Lithuania
+Luxembourg,1994,12.0,F,1993,Luxembourg
+Luxembourg,1995,10.0,F,1994,Luxembourg
+Luxembourg,1996,10.0,F,1995,Luxembourg
+Luxembourg,1997,10.0,F,1996,Luxembourg
+Luxembourg,1998,10.0,F,1997,Luxembourg
+Luxembourg,1999,10.0,F,1998,Luxembourg
+Luxembourg,2000,10.0,F,1999,Luxembourg
+Luxembourg,2001,10.0,F,2000,Luxembourg
+Luxembourg,2002,14.0,F,2001,Luxembourg
+Luxembourg,2003,14.0,F,2002,Luxembourg
+Luxembourg,2004,12.0,F,2003,Luxembourg
+Luxembourg,2005,11.0,F,2004,Luxembourg
+Luxembourg,2006,11.0,F,2005,Luxembourg
+Luxembourg,2007,12.0,F,2006,Luxembourg
+Luxembourg,2008,12.0,F,2007,Luxembourg
+Luxembourg,2009,12.0,F,2008,Luxembourg
+Luxembourg,2010,12.0,F,2009,Luxembourg
+Luxembourg,2011,12.0,F,2010,Luxembourg
+Luxembourg,2012,12.0,F,2011,Luxembourg
+Luxembourg,2013,12.0,F,2012,Luxembourg
+Luxembourg,2014,12.0,F,2013,Luxembourg
+Luxembourg,2015,12.0,F,2014,Luxembourg
+Luxembourg,2016,13.0,F,2015,Luxembourg
+Luxembourg,2017,14.0,F,2016,Luxembourg
+Macedonia,1995,34.0,PF,1994,Macedonia
+Macedonia,1996,36.0,PF,1995,Macedonia
+Macedonia,1997,33.0,PF,1996,Macedonia
+Macedonia,1998,44.0,PF,1997,Macedonia
+Macedonia,1999,42.0,PF,1998,Macedonia
+Macedonia,2000,42.0,PF,1999,Macedonia
+Macedonia,2001,44.0,PF,2000,Macedonia
+Macedonia,2002,46.0,PF,2001,Macedonia
+Macedonia,2003,50.0,PF,2002,Macedonia
+Macedonia,2004,53.0,PF,2003,Macedonia
+Macedonia,2005,51.0,PF,2004,Macedonia
+Macedonia,2006,49.0,PF,2005,Macedonia
+Macedonia,2007,45.0,PF,2006,Macedonia
+Macedonia,2008,47.0,PF,2007,Macedonia
+Macedonia,2009,47.0,PF,2008,Macedonia
+Macedonia,2010,46.0,PF,2009,Macedonia
+Macedonia,2011,48.0,PF,2010,Macedonia
+Macedonia,2012,54.0,PF,2011,Macedonia
+Macedonia,2013,56.0,PF,2012,Macedonia
+Macedonia,2014,57.0,PF,2013,Macedonia
+Macedonia,2015,58.0,PF,2014,Macedonia
+Macedonia,2016,62.0,NF,2015,Macedonia
+Macedonia,2017,64.0,NF,2016,Macedonia
+Madagascar,1994,45.0,PF,1993,Madagascar
+Madagascar,1995,44.0,PF,1994,Madagascar
+Madagascar,1996,32.0,PF,1995,Madagascar
+Madagascar,1997,32.0,PF,1996,Madagascar
+Madagascar,1998,32.0,PF,1997,Madagascar
+Madagascar,1999,32.0,PF,1998,Madagascar
+Madagascar,2000,32.0,PF,1999,Madagascar
+Madagascar,2001,32.0,PF,2000,Madagascar
+Madagascar,2002,31.0,PF,2001,Madagascar
+Madagascar,2003,38.0,PF,2002,Madagascar
+Madagascar,2004,41.0,PF,2003,Madagascar
+Madagascar,2005,50.0,PF,2004,Madagascar
+Madagascar,2006,49.0,PF,2005,Madagascar
+Madagascar,2007,50.0,PF,2006,Madagascar
+Madagascar,2008,48.0,PF,2007,Madagascar
+Madagascar,2009,51.0,PF,2008,Madagascar
+Madagascar,2010,61.0,NF,2009,Madagascar
+Madagascar,2011,64.0,NF,2010,Madagascar
+Madagascar,2012,63.0,NF,2011,Madagascar
+Madagascar,2013,66.0,NF,2012,Madagascar
+Madagascar,2014,63.0,NF,2013,Madagascar
+Madagascar,2015,59.0,PF,2014,Madagascar
+Madagascar,2016,58.0,PF,2015,Madagascar
+Madagascar,2017,58.0,PF,2016,Madagascar
+Malawi,1994,41.0,PF,1993,Malawi
+Malawi,1995,43.0,PF,1994,Malawi
+Malawi,1996,36.0,PF,1995,Malawi
+Malawi,1997,38.0,PF,1996,Malawi
+Malawi,1998,40.0,PF,1997,Malawi
+Malawi,1999,42.0,PF,1998,Malawi
+Malawi,2000,52.0,PF,1999,Malawi
+Malawi,2001,52.0,PF,2000,Malawi
+Malawi,2002,54.0,PF,2001,Malawi
+Malawi,2003,57.0,PF,2002,Malawi
+Malawi,2004,52.0,PF,2003,Malawi
+Malawi,2005,54.0,PF,2004,Malawi
+Malawi,2006,55.0,PF,2005,Malawi
+Malawi,2007,53.0,PF,2006,Malawi
+Malawi,2008,55.0,PF,2007,Malawi
+Malawi,2009,56.0,PF,2008,Malawi
+Malawi,2010,56.0,PF,2009,Malawi
+Malawi,2011,55.0,PF,2010,Malawi
+Malawi,2012,60.0,PF,2011,Malawi
+Malawi,2013,53.0,PF,2012,Malawi
+Malawi,2014,51.0,PF,2013,Malawi
+Malawi,2015,49.0,PF,2014,Malawi
+Malawi,2016,45.0,PF,2015,Malawi
+Malawi,2017,45.0,PF,2016,Malawi
+Malaysia,1994,58.0,PF,1993,Malaysia
+Malaysia,1995,64.0,NF,1994,Malaysia
+Malaysia,1996,61.0,NF,1995,Malaysia
+Malaysia,1997,61.0,NF,1996,Malaysia
+Malaysia,1998,61.0,NF,1997,Malaysia
+Malaysia,1999,66.0,NF,1998,Malaysia
+Malaysia,2000,70.0,NF,1999,Malaysia
+Malaysia,2001,70.0,NF,2000,Malaysia
+Malaysia,2002,71.0,NF,2001,Malaysia
+Malaysia,2003,71.0,NF,2002,Malaysia
+Malaysia,2004,69.0,NF,2003,Malaysia
+Malaysia,2005,69.0,NF,2004,Malaysia
+Malaysia,2006,65.0,NF,2005,Malaysia
+Malaysia,2007,68.0,NF,2006,Malaysia
+Malaysia,2008,65.0,NF,2007,Malaysia
+Malaysia,2009,65.0,NF,2008,Malaysia
+Malaysia,2010,64.0,NF,2009,Malaysia
+Malaysia,2011,64.0,NF,2010,Malaysia
+Malaysia,2012,63.0,NF,2011,Malaysia
+Malaysia,2013,64.0,NF,2012,Malaysia
+Malaysia,2014,64.0,NF,2013,Malaysia
+Malaysia,2015,65.0,NF,2014,Malaysia
+Malaysia,2016,67.0,NF,2015,Malaysia
+Malaysia,2017,69.0,NF,2016,Malaysia
+Maldives,1994,68.0,NF,1993,Maldives
+Maldives,1995,62.0,NF,1994,Maldives
+Maldives,1996,68.0,NF,1995,Maldives
+Maldives,1997,65.0,NF,1996,Maldives
+Maldives,1998,66.0,NF,1997,Maldives
+Maldives,1999,66.0,NF,1998,Maldives
+Maldives,2000,65.0,NF,1999,Maldives
+Maldives,2001,65.0,NF,2000,Maldives
+Maldives,2002,61.0,NF,2001,Maldives
+Maldives,2003,64.0,NF,2002,Maldives
+Maldives,2004,64.0,NF,2003,Maldives
+Maldives,2005,68.0,NF,2004,Maldives
+Maldives,2006,70.0,NF,2005,Maldives
+Maldives,2007,68.0,NF,2006,Maldives
+Maldives,2008,66.0,NF,2007,Maldives
+Maldives,2009,56.0,PF,2008,Maldives
+Maldives,2010,50.0,PF,2009,Maldives
+Maldives,2011,50.0,PF,2010,Maldives
+Maldives,2012,51.0,PF,2011,Maldives
+Maldives,2013,55.0,PF,2012,Maldives
+Maldives,2014,55.0,PF,2013,Maldives
+Maldives,2015,55.0,PF,2014,Maldives
+Maldives,2016,58.0,PF,2015,Maldives
+Maldives,2017,62.0,NF,2016,Maldives
+Mali,1994,43.0,PF,1993,Mali
+Mali,1995,52.0,PF,1994,Mali
+Mali,1996,24.0,F,1995,Mali
+Mali,1997,24.0,F,1996,Mali
+Mali,1998,30.0,F,1997,Mali
+Mali,1999,27.0,F,1998,Mali
+Mali,2000,26.0,F,1999,Mali
+Mali,2001,22.0,F,2000,Mali
+Mali,2002,23.0,F,2001,Mali
+Mali,2003,24.0,F,2002,Mali
+Mali,2004,27.0,F,2003,Mali
+Mali,2005,23.0,F,2004,Mali
+Mali,2006,24.0,F,2005,Mali
+Mali,2007,24.0,F,2006,Mali
+Mali,2008,27.0,F,2007,Mali
+Mali,2009,26.0,F,2008,Mali
+Mali,2010,25.0,F,2009,Mali
+Mali,2011,24.0,F,2010,Mali
+Mali,2012,24.0,F,2011,Mali
+Mali,2013,46.0,PF,2012,Mali
+Mali,2014,37.0,PF,2013,Mali
+Mali,2015,37.0,PF,2014,Mali
+Mali,2016,37.0,PF,2015,Mali
+Mali,2017,37.0,PF,2016,Mali
+Malta,1994,27.0,F,1993,Malta
+Malta,1995,24.0,F,1994,Malta
+Malta,1996,17.0,F,1995,Malta
+Malta,1997,17.0,F,1996,Malta
+Malta,1998,17.0,F,1997,Malta
+Malta,1999,17.0,F,1998,Malta
+Malta,2000,17.0,F,1999,Malta
+Malta,2001,14.0,F,2000,Malta
+Malta,2002,13.0,F,2001,Malta
+Malta,2003,13.0,F,2002,Malta
+Malta,2004,15.0,F,2003,Malta
+Malta,2005,18.0,F,2004,Malta
+Malta,2006,18.0,F,2005,Malta
+Malta,2007,17.0,F,2006,Malta
+Malta,2008,20.0,F,2007,Malta
+Malta,2009,22.0,F,2008,Malta
+Malta,2010,22.0,F,2009,Malta
+Malta,2011,22.0,F,2010,Malta
+Malta,2012,22.0,F,2011,Malta
+Malta,2013,22.0,F,2012,Malta
+Malta,2014,23.0,F,2013,Malta
+Malta,2015,23.0,F,2014,Malta
+Malta,2016,23.0,F,2015,Malta
+Malta,2017,23.0,F,2016,Malta
+Marshall Islands,1994,18.0,F,1993,Marshall Islands
+Marshall Islands,1995,19.0,F,1994,Marshall Islands
+Marshall Islands,1996,8.0,F,1995,Marshall Islands
+Marshall Islands,1997,8.0,F,1996,Marshall Islands
+Marshall Islands,1998,8.0,F,1997,Marshall Islands
+Marshall Islands,1999,8.0,F,1998,Marshall Islands
+Marshall Islands,2000,8.0,F,1999,Marshall Islands
+Marshall Islands,2001,8.0,F,2000,Marshall Islands
+Marshall Islands,2002,10.0,F,2001,Marshall Islands
+Marshall Islands,2003,10.0,F,2002,Marshall Islands
+Marshall Islands,2004,12.0,F,2003,Marshall Islands
+Marshall Islands,2005,13.0,F,2004,Marshall Islands
+Marshall Islands,2006,15.0,F,2005,Marshall Islands
+Marshall Islands,2007,17.0,F,2006,Marshall Islands
+Marshall Islands,2008,17.0,F,2007,Marshall Islands
+Marshall Islands,2009,17.0,F,2008,Marshall Islands
+Marshall Islands,2010,17.0,F,2009,Marshall Islands
+Marshall Islands,2011,17.0,F,2010,Marshall Islands
+Marshall Islands,2012,17.0,F,2011,Marshall Islands
+Marshall Islands,2013,17.0,F,2012,Marshall Islands
+Marshall Islands,2014,17.0,F,2013,Marshall Islands
+Marshall Islands,2015,17.0,F,2014,Marshall Islands
+Marshall Islands,2016,17.0,F,2015,Marshall Islands
+Marshall Islands,2017,17.0,F,2016,Marshall Islands
+Mauritania,1994,68.0,NF,1993,Mauritania
+Mauritania,1995,77.0,NF,1994,Mauritania
+Mauritania,1996,71.0,NF,1995,Mauritania
+Mauritania,1997,71.0,NF,1996,Mauritania
+Mauritania,1998,71.0,NF,1997,Mauritania
+Mauritania,1999,71.0,NF,1998,Mauritania
+Mauritania,2000,67.0,NF,1999,Mauritania
+Mauritania,2001,67.0,NF,2000,Mauritania
+Mauritania,2002,61.0,NF,2001,Mauritania
+Mauritania,2003,61.0,NF,2002,Mauritania
+Mauritania,2004,64.0,NF,2003,Mauritania
+Mauritania,2005,65.0,NF,2004,Mauritania
+Mauritania,2006,57.0,PF,2005,Mauritania
+Mauritania,2007,55.0,PF,2006,Mauritania
+Mauritania,2008,56.0,PF,2007,Mauritania
+Mauritania,2009,58.0,PF,2008,Mauritania
+Mauritania,2010,56.0,PF,2009,Mauritania
+Mauritania,2011,53.0,PF,2010,Mauritania
+Mauritania,2012,52.0,PF,2011,Mauritania
+Mauritania,2013,47.0,PF,2012,Mauritania
+Mauritania,2014,48.0,PF,2013,Mauritania
+Mauritania,2015,50.0,PF,2014,Mauritania
+Mauritania,2016,51.0,PF,2015,Mauritania
+Mauritania,2017,53.0,PF,2016,Mauritania
+Mauritius,1994,30.0,F,1993,Mauritius
+Mauritius,1995,30.0,F,1994,Mauritius
+Mauritius,1996,25.0,F,1995,Mauritius
+Mauritius,1997,25.0,F,1996,Mauritius
+Mauritius,1998,20.0,F,1997,Mauritius
+Mauritius,1999,20.0,F,1998,Mauritius
+Mauritius,2000,17.0,F,1999,Mauritius
+Mauritius,2001,17.0,F,2000,Mauritius
+Mauritius,2002,17.0,F,2001,Mauritius
+Mauritius,2003,24.0,F,2002,Mauritius
+Mauritius,2004,26.0,F,2003,Mauritius
+Mauritius,2005,28.0,F,2004,Mauritius
+Mauritius,2006,26.0,F,2005,Mauritius
+Mauritius,2007,26.0,F,2006,Mauritius
+Mauritius,2008,26.0,F,2007,Mauritius
+Mauritius,2009,26.0,F,2008,Mauritius
+Mauritius,2010,27.0,F,2009,Mauritius
+Mauritius,2011,28.0,F,2010,Mauritius
+Mauritius,2012,29.0,F,2011,Mauritius
+Mauritius,2013,30.0,F,2012,Mauritius
+Mauritius,2014,30.0,F,2013,Mauritius
+Mauritius,2015,30.0,F,2014,Mauritius
+Mauritius,2016,29.0,F,2015,Mauritius
+Mauritius,2017,29.0,F,2016,Mauritius
+Mexico,1994,60.0,PF,1993,Mexico
+Mexico,1995,54.0,PF,1994,Mexico
+Mexico,1996,52.0,PF,1995,Mexico
+Mexico,1997,52.0,PF,1996,Mexico
+Mexico,1998,54.0,PF,1997,Mexico
+Mexico,1999,54.0,PF,1998,Mexico
+Mexico,2000,50.0,PF,1999,Mexico
+Mexico,2001,46.0,PF,2000,Mexico
+Mexico,2002,40.0,PF,2001,Mexico
+Mexico,2003,38.0,PF,2002,Mexico
+Mexico,2004,36.0,PF,2003,Mexico
+Mexico,2005,42.0,PF,2004,Mexico
+Mexico,2006,48.0,PF,2005,Mexico
+Mexico,2007,48.0,PF,2006,Mexico
+Mexico,2008,51.0,PF,2007,Mexico
+Mexico,2009,55.0,PF,2008,Mexico
+Mexico,2010,60.0,PF,2009,Mexico
+Mexico,2011,62.0,NF,2010,Mexico
+Mexico,2012,62.0,NF,2011,Mexico
+Mexico,2013,61.0,NF,2012,Mexico
+Mexico,2014,61.0,NF,2013,Mexico
+Mexico,2015,63.0,NF,2014,Mexico
+Mexico,2016,64.0,NF,2015,Mexico
+Mexico,2017,64.0,NF,2016,Mexico
+Micronesia,1994,25.0,F,1993,Micronesia
+Micronesia,1995,23.0,F,1994,Micronesia
+Micronesia,1996,23.0,F,1995,Micronesia
+Micronesia,1997,23.0,F,1996,Micronesia
+Micronesia,1998,26.0,F,1997,Micronesia
+Micronesia,1999,26.0,F,1998,Micronesia
+Micronesia,2000,24.0,F,1999,Micronesia
+Micronesia,2001,22.0,F,2000,Micronesia
+Micronesia,2002,20.0,F,2001,Micronesia
+Micronesia,2003,17.0,F,2002,Micronesia
+Micronesia,2004,19.0,F,2003,Micronesia
+Micronesia,2005,18.0,F,2004,Micronesia
+Micronesia,2006,20.0,F,2005,Micronesia
+Micronesia,2007,20.0,F,2006,Micronesia
+Micronesia,2008,21.0,F,2007,Micronesia
+Micronesia,2009,21.0,F,2008,Micronesia
+Micronesia,2010,21.0,F,2009,Micronesia
+Micronesia,2011,21.0,F,2010,Micronesia
+Micronesia,2012,21.0,F,2011,Micronesia
+Micronesia,2013,21.0,F,2012,Micronesia
+Micronesia,2014,21.0,F,2013,Micronesia
+Micronesia,2015,21.0,F,2014,Micronesia
+Micronesia,2016,21.0,F,2015,Micronesia
+Micronesia,2017,21.0,F,2016,Micronesia
+Moldova,1994,41.0,PF,1993,Moldova
+Moldova,1995,47.0,PF,1994,Moldova
+Moldova,1996,62.0,NF,1995,Moldova
+Moldova,1997,57.0,PF,1996,Moldova
+Moldova,1998,58.0,PF,1997,Moldova
+Moldova,1999,56.0,PF,1998,Moldova
+Moldova,2000,58.0,PF,1999,Moldova
+Moldova,2001,59.0,PF,2000,Moldova
+Moldova,2002,59.0,PF,2001,Moldova
+Moldova,2003,59.0,PF,2002,Moldova
+Moldova,2004,63.0,NF,2003,Moldova
+Moldova,2005,65.0,NF,2004,Moldova
+Moldova,2006,65.0,NF,2005,Moldova
+Moldova,2007,65.0,NF,2006,Moldova
+Moldova,2008,66.0,NF,2007,Moldova
+Moldova,2009,67.0,NF,2008,Moldova
+Moldova,2010,65.0,NF,2009,Moldova
+Moldova,2011,55.0,PF,2010,Moldova
+Moldova,2012,54.0,PF,2011,Moldova
+Moldova,2013,53.0,PF,2012,Moldova
+Moldova,2014,53.0,PF,2013,Moldova
+Moldova,2015,55.0,PF,2014,Moldova
+Moldova,2016,56.0,PF,2015,Moldova
+Moldova,2017,56.0,PF,2016,Moldova
+Monaco,2003,9.0,F,2002,Monaco
+Monaco,2004,13.0,F,2003,Monaco
+Monaco,2005,14.0,F,2004,Monaco
+Monaco,2006,16.0,F,2005,Monaco
+Monaco,2007,16.0,F,2006,Monaco
+Monaco,2008,16.0,F,2007,Monaco
+Monaco,2009,16.0,F,2008,Monaco
+Monaco,2010,16.0,F,2009,Monaco
+Monaco,2011,16.0,F,2010,Monaco
+Monaco,2012,16.0,F,2011,Monaco
+Monaco,2013,16.0,F,2012,Monaco
+Monaco,2014,15.0,F,2013,Monaco
+Monaco,2015,15.0,F,2014,Monaco
+Monaco,2016,15.0,F,2015,Monaco
+Monaco,2017,16.0,F,2016,Monaco
+Mongolia,1994,40.0,PF,1993,Mongolia
+Mongolia,1995,41.0,PF,1994,Mongolia
+Mongolia,1996,34.0,PF,1995,Mongolia
+Mongolia,1997,34.0,PF,1996,Mongolia
+Mongolia,1998,34.0,PF,1997,Mongolia
+Mongolia,1999,30.0,F,1998,Mongolia
+Mongolia,2000,29.0,F,1999,Mongolia
+Mongolia,2001,28.0,F,2000,Mongolia
+Mongolia,2002,31.0,PF,2001,Mongolia
+Mongolia,2003,36.0,PF,2002,Mongolia
+Mongolia,2004,36.0,PF,2003,Mongolia
+Mongolia,2005,35.0,PF,2004,Mongolia
+Mongolia,2006,34.0,PF,2005,Mongolia
+Mongolia,2007,36.0,PF,2006,Mongolia
+Mongolia,2008,38.0,PF,2007,Mongolia
+Mongolia,2009,41.0,PF,2008,Mongolia
+Mongolia,2010,39.0,PF,2009,Mongolia
+Mongolia,2011,39.0,PF,2010,Mongolia
+Mongolia,2012,37.0,PF,2011,Mongolia
+Mongolia,2013,37.0,PF,2012,Mongolia
+Mongolia,2014,37.0,PF,2013,Mongolia
+Mongolia,2015,37.0,PF,2014,Mongolia
+Mongolia,2016,37.0,PF,2015,Mongolia
+Mongolia,2017,37.0,PF,2016,Mongolia
+Montenegro,2007,37.0,PF,2006,Montenegro
+Montenegro,2008,38.0,PF,2007,Montenegro
+Montenegro,2009,37.0,PF,2008,Montenegro
+Montenegro,2010,37.0,PF,2009,Montenegro
+Montenegro,2011,37.0,PF,2010,Montenegro
+Montenegro,2012,35.0,PF,2011,Montenegro
+Montenegro,2013,36.0,PF,2012,Montenegro
+Montenegro,2014,39.0,PF,2013,Montenegro
+Montenegro,2015,39.0,PF,2014,Montenegro
+Montenegro,2016,41.0,PF,2015,Montenegro
+Montenegro,2017,44.0,PF,2016,Montenegro
+Morocco,1994,59.0,PF,1993,Morocco
+Morocco,1995,53.0,PF,1994,Morocco
+Morocco,1996,48.0,PF,1995,Morocco
+Morocco,1997,51.0,PF,1996,Morocco
+Morocco,1998,51.0,PF,1997,Morocco
+Morocco,1999,51.0,PF,1998,Morocco
+Morocco,2000,49.0,PF,1999,Morocco
+Morocco,2001,53.0,PF,2000,Morocco
+Morocco,2002,58.0,PF,2001,Morocco
+Morocco,2003,57.0,PF,2002,Morocco
+Morocco,2004,61.0,NF,2003,Morocco
+Morocco,2005,63.0,NF,2004,Morocco
+Morocco,2006,61.0,NF,2005,Morocco
+Morocco,2007,62.0,NF,2006,Morocco
+Morocco,2008,64.0,NF,2007,Morocco
+Morocco,2009,64.0,NF,2008,Morocco
+Morocco,2010,66.0,NF,2009,Morocco
+Morocco,2011,68.0,NF,2010,Morocco
+Morocco,2012,68.0,NF,2011,Morocco
+Morocco,2013,66.0,NF,2012,Morocco
+Morocco,2014,66.0,NF,2013,Morocco
+Morocco,2015,66.0,NF,2014,Morocco
+Morocco,2016,66.0,NF,2015,Morocco
+Morocco,2017,66.0,NF,2016,Morocco
+Mozambique,1994,61.0,NF,1993,Mozambique
+Mozambique,1995,54.0,PF,1994,Mozambique
+Mozambique,1996,36.0,PF,1995,Mozambique
+Mozambique,1997,50.0,PF,1996,Mozambique
+Mozambique,1998,48.0,PF,1997,Mozambique
+Mozambique,1999,48.0,PF,1998,Mozambique
+Mozambique,2000,48.0,PF,1999,Mozambique
+Mozambique,2001,48.0,PF,2000,Mozambique
+Mozambique,2002,48.0,PF,2001,Mozambique
+Mozambique,2003,47.0,PF,2002,Mozambique
+Mozambique,2004,45.0,PF,2003,Mozambique
+Mozambique,2005,45.0,PF,2004,Mozambique
+Mozambique,2006,43.0,PF,2005,Mozambique
+Mozambique,2007,40.0,PF,2006,Mozambique
+Mozambique,2008,40.0,PF,2007,Mozambique
+Mozambique,2009,41.0,PF,2008,Mozambique
+Mozambique,2010,42.0,PF,2009,Mozambique
+Mozambique,2011,44.0,PF,2010,Mozambique
+Mozambique,2012,43.0,PF,2011,Mozambique
+Mozambique,2013,42.0,PF,2012,Mozambique
+Mozambique,2014,45.0,PF,2013,Mozambique
+Mozambique,2015,44.0,PF,2014,Mozambique
+Mozambique,2016,46.0,PF,2015,Mozambique
+Mozambique,2017,48.0,PF,2016,Mozambique
+Myanmar,1994,90.0,NF,1993,Myanmar
+Myanmar,1995,99.0,NF,1994,Myanmar
+Myanmar,1996,99.0,NF,1995,Myanmar
+Myanmar,1997,99.0,NF,1996,Myanmar
+Myanmar,1998,99.0,NF,1997,Myanmar
+Myanmar,1999,97.0,NF,1998,Myanmar
+Myanmar,2000,100.0,NF,1999,Myanmar
+Myanmar,2001,100.0,NF,2000,Myanmar
+Myanmar,2002,96.0,NF,2001,Myanmar
+Myanmar,2003,94.0,NF,2002,Myanmar
+Myanmar,2004,95.0,NF,2003,Myanmar
+Myanmar,2005,96.0,NF,2004,Myanmar
+Myanmar,2006,96.0,NF,2005,Myanmar
+Myanmar,2007,96.0,NF,2006,Myanmar
+Myanmar,2008,97.0,NF,2007,Myanmar
+Myanmar,2009,96.0,NF,2008,Myanmar
+Myanmar,2010,95.0,NF,2009,Myanmar
+Myanmar,2011,94.0,NF,2010,Myanmar
+Myanmar,2012,85.0,NF,2011,Myanmar
+Myanmar,2013,72.0,NF,2012,Myanmar
+Myanmar,2014,70.0,NF,2013,Myanmar
+Myanmar,2015,73.0,NF,2014,Myanmar
+Myanmar,2016,73.0,NF,2015,Myanmar
+Myanmar,2017,73.0,NF,2016,Myanmar
+Namibia,1994,23.0,F,1993,Namibia
+Namibia,1995,23.0,F,1994,Namibia
+Namibia,1996,30.0,F,1995,Namibia
+Namibia,1997,30.0,F,1996,Namibia
+Namibia,1998,30.0,F,1997,Namibia
+Namibia,1999,38.0,PF,1998,Namibia
+Namibia,2000,34.0,PF,1999,Namibia
+Namibia,2001,34.0,PF,2000,Namibia
+Namibia,2002,34.0,PF,2001,Namibia
+Namibia,2003,37.0,PF,2002,Namibia
+Namibia,2004,34.0,PF,2003,Namibia
+Namibia,2005,29.0,F,2004,Namibia
+Namibia,2006,30.0,F,2005,Namibia
+Namibia,2007,30.0,F,2006,Namibia
+Namibia,2008,30.0,F,2007,Namibia
+Namibia,2009,30.0,F,2008,Namibia
+Namibia,2010,34.0,PF,2009,Namibia
+Namibia,2011,34.0,PF,2010,Namibia
+Namibia,2012,32.0,PF,2011,Namibia
+Namibia,2013,31.0,PF,2012,Namibia
+Namibia,2014,31.0,PF,2013,Namibia
+Namibia,2015,33.0,PF,2014,Namibia
+Namibia,2016,33.0,PF,2015,Namibia
+Namibia,2017,32.0,PF,2016,Namibia
+Nauru,1994,20.0,F,1993,Nauru
+Nauru,1995,18.0,F,1994,Nauru
+Nauru,1996,6.0,F,1995,Nauru
+Nauru,1997,6.0,F,1996,Nauru
+Nauru,1998,6.0,F,1997,Nauru
+Nauru,1999,6.0,F,1998,Nauru
+Nauru,2000,6.0,F,1999,Nauru
+Nauru,2001,13.0,F,2000,Nauru
+Nauru,2002,27.0,F,2001,Nauru
+Nauru,2003,26.0,F,2002,Nauru
+Nauru,2004,25.0,F,2003,Nauru
+Nauru,2005,29.0,F,2004,Nauru
+Nauru,2006,30.0,F,2005,Nauru
+Nauru,2007,28.0,F,2006,Nauru
+Nauru,2008,28.0,F,2007,Nauru
+Nauru,2009,28.0,F,2008,Nauru
+Nauru,2010,28.0,F,2009,Nauru
+Nauru,2011,28.0,F,2010,Nauru
+Nauru,2012,28.0,F,2011,Nauru
+Nauru,2013,28.0,F,2012,Nauru
+Nauru,2014,31.0,PF,2013,Nauru
+Nauru,2015,32.0,PF,2014,Nauru
+Nauru,2016,41.0,PF,2015,Nauru
+Nauru,2017,46.0,PF,2016,Nauru
+Nepal,1994,53.0,PF,1993,Nepal
+Nepal,1995,54.0,PF,1994,Nepal
+Nepal,1996,52.0,PF,1995,Nepal
+Nepal,1997,56.0,PF,1996,Nepal
+Nepal,1998,59.0,PF,1997,Nepal
+Nepal,1999,59.0,PF,1998,Nepal
+Nepal,2000,59.0,PF,1999,Nepal
+Nepal,2001,57.0,PF,2000,Nepal
+Nepal,2002,60.0,PF,2001,Nepal
+Nepal,2003,65.0,NF,2002,Nepal
+Nepal,2004,65.0,NF,2003,Nepal
+Nepal,2005,69.0,NF,2004,Nepal
+Nepal,2006,77.0,NF,2005,Nepal
+Nepal,2007,58.0,PF,2006,Nepal
+Nepal,2008,57.0,PF,2007,Nepal
+Nepal,2009,57.0,PF,2008,Nepal
+Nepal,2010,59.0,PF,2009,Nepal
+Nepal,2011,59.0,PF,2010,Nepal
+Nepal,2012,55.0,PF,2011,Nepal
+Nepal,2013,58.0,PF,2012,Nepal
+Nepal,2014,55.0,PF,2013,Nepal
+Nepal,2015,55.0,PF,2014,Nepal
+Nepal,2016,54.0,PF,2015,Nepal
+Nepal,2017,52.0,PF,2016,Nepal
+Netherlands,1994,14.0,F,1993,Netherlands
+Netherlands,1995,18.0,F,1994,Netherlands
+Netherlands,1996,14.0,F,1995,Netherlands
+Netherlands,1997,14.0,F,1996,Netherlands
+Netherlands,1998,14.0,F,1997,Netherlands
+Netherlands,1999,14.0,F,1998,Netherlands
+Netherlands,2000,14.0,F,1999,Netherlands
+Netherlands,2001,15.0,F,2000,Netherlands
+Netherlands,2002,15.0,F,2001,Netherlands
+Netherlands,2003,15.0,F,2002,Netherlands
+Netherlands,2004,12.0,F,2003,Netherlands
+Netherlands,2005,11.0,F,2004,Netherlands
+Netherlands,2006,11.0,F,2005,Netherlands
+Netherlands,2007,13.0,F,2006,Netherlands
+Netherlands,2008,13.0,F,2007,Netherlands
+Netherlands,2009,13.0,F,2008,Netherlands
+Netherlands,2010,14.0,F,2009,Netherlands
+Netherlands,2011,14.0,F,2010,Netherlands
+Netherlands,2012,12.0,F,2011,Netherlands
+Netherlands,2013,11.0,F,2012,Netherlands
+Netherlands,2014,10.0,F,2013,Netherlands
+Netherlands,2015,11.0,F,2014,Netherlands
+Netherlands,2016,11.0,F,2015,Netherlands
+Netherlands,2017,11.0,F,2016,Netherlands
+New Zealand,1994,8.0,F,1993,New Zealand
+New Zealand,1995,8.0,F,1994,New Zealand
+New Zealand,1996,6.0,F,1995,New Zealand
+New Zealand,1997,6.0,F,1996,New Zealand
+New Zealand,1998,6.0,F,1997,New Zealand
+New Zealand,1999,8.0,F,1998,New Zealand
+New Zealand,2000,8.0,F,1999,New Zealand
+New Zealand,2001,8.0,F,2000,New Zealand
+New Zealand,2002,8.0,F,2001,New Zealand
+New Zealand,2003,8.0,F,2002,New Zealand
+New Zealand,2004,10.0,F,2003,New Zealand
+New Zealand,2005,12.0,F,2004,New Zealand
+New Zealand,2006,13.0,F,2005,New Zealand
+New Zealand,2007,13.0,F,2006,New Zealand
+New Zealand,2008,13.0,F,2007,New Zealand
+New Zealand,2009,14.0,F,2008,New Zealand
+New Zealand,2010,14.0,F,2009,New Zealand
+New Zealand,2011,15.0,F,2010,New Zealand
+New Zealand,2012,17.0,F,2011,New Zealand
+New Zealand,2013,16.0,F,2012,New Zealand
+New Zealand,2014,18.0,F,2013,New Zealand
+New Zealand,2015,19.0,F,2014,New Zealand
+New Zealand,2016,20.0,F,2015,New Zealand
+New Zealand,2017,19.0,F,2016,New Zealand
+Nicaragua,1994,56.0,PF,1993,Nicaragua
+Nicaragua,1995,53.0,PF,1994,Nicaragua
+Nicaragua,1996,44.0,PF,1995,Nicaragua
+Nicaragua,1997,44.0,PF,1996,Nicaragua
+Nicaragua,1998,40.0,PF,1997,Nicaragua
+Nicaragua,1999,40.0,PF,1998,Nicaragua
+Nicaragua,2000,40.0,PF,1999,Nicaragua
+Nicaragua,2001,40.0,PF,2000,Nicaragua
+Nicaragua,2002,32.0,PF,2001,Nicaragua
+Nicaragua,2003,40.0,PF,2002,Nicaragua
+Nicaragua,2004,37.0,PF,2003,Nicaragua
+Nicaragua,2005,42.0,PF,2004,Nicaragua
+Nicaragua,2006,44.0,PF,2005,Nicaragua
+Nicaragua,2007,42.0,PF,2006,Nicaragua
+Nicaragua,2008,43.0,PF,2007,Nicaragua
+Nicaragua,2009,45.0,PF,2008,Nicaragua
+Nicaragua,2010,47.0,PF,2009,Nicaragua
+Nicaragua,2011,47.0,PF,2010,Nicaragua
+Nicaragua,2012,49.0,PF,2011,Nicaragua
+Nicaragua,2013,51.0,PF,2012,Nicaragua
+Nicaragua,2014,52.0,PF,2013,Nicaragua
+Nicaragua,2015,52.0,PF,2014,Nicaragua
+Nicaragua,2016,54.0,PF,2015,Nicaragua
+Nicaragua,2017,55.0,PF,2016,Nicaragua
+Niger,1994,61.0,NF,1993,Niger
+Niger,1995,61.0,NF,1994,Niger
+Niger,1996,54.0,PF,1995,Niger
+Niger,1997,63.0,NF,1996,Niger
+Niger,1998,63.0,NF,1997,Niger
+Niger,1999,68.0,NF,1998,Niger
+Niger,2000,62.0,NF,1999,Niger
+Niger,2001,62.0,NF,2000,Niger
+Niger,2002,49.0,PF,2001,Niger
+Niger,2003,53.0,PF,2002,Niger
+Niger,2004,56.0,PF,2003,Niger
+Niger,2005,53.0,PF,2004,Niger
+Niger,2006,56.0,PF,2005,Niger
+Niger,2007,58.0,PF,2006,Niger
+Niger,2008,63.0,NF,2007,Niger
+Niger,2009,64.0,NF,2008,Niger
+Niger,2010,68.0,NF,2009,Niger
+Niger,2011,59.0,PF,2010,Niger
+Niger,2012,49.0,PF,2011,Niger
+Niger,2013,50.0,PF,2012,Niger
+Niger,2014,52.0,PF,2013,Niger
+Niger,2015,51.0,PF,2014,Niger
+Niger,2016,53.0,PF,2015,Niger
+Niger,2017,52.0,PF,2016,Niger
+Nigeria,1994,57.0,PF,1993,Nigeria
+Nigeria,1995,69.0,NF,1994,Nigeria
+Nigeria,1996,92.0,NF,1995,Nigeria
+Nigeria,1997,93.0,NF,1996,Nigeria
+Nigeria,1998,93.0,NF,1997,Nigeria
+Nigeria,1999,55.0,PF,1998,Nigeria
+Nigeria,2000,53.0,PF,1999,Nigeria
+Nigeria,2001,55.0,PF,2000,Nigeria
+Nigeria,2002,57.0,PF,2001,Nigeria
+Nigeria,2003,53.0,PF,2002,Nigeria
+Nigeria,2004,53.0,PF,2003,Nigeria
+Nigeria,2005,52.0,PF,2004,Nigeria
+Nigeria,2006,54.0,PF,2005,Nigeria
+Nigeria,2007,55.0,PF,2006,Nigeria
+Nigeria,2008,53.0,PF,2007,Nigeria
+Nigeria,2009,54.0,PF,2008,Nigeria
+Nigeria,2010,54.0,PF,2009,Nigeria
+Nigeria,2011,52.0,PF,2010,Nigeria
+Nigeria,2012,50.0,PF,2011,Nigeria
+Nigeria,2013,51.0,PF,2012,Nigeria
+Nigeria,2014,51.0,PF,2013,Nigeria
+Nigeria,2015,53.0,PF,2014,Nigeria
+Nigeria,2016,51.0,PF,2015,Nigeria
+Nigeria,2017,51.0,PF,2016,Nigeria
+North Korea,1994,90.0,NF,1993,North Korea
+North Korea,1995,92.0,NF,1994,North Korea
+North Korea,1996,100.0,NF,1995,North Korea
+North Korea,1997,100.0,NF,1996,North Korea
+North Korea,1998,100.0,NF,1997,North Korea
+North Korea,1999,100.0,NF,1998,North Korea
+North Korea,2000,100.0,NF,1999,North Korea
+North Korea,2001,100.0,NF,2000,North Korea
+North Korea,2002,96.0,NF,2001,North Korea
+North Korea,2003,96.0,NF,2002,North Korea
+North Korea,2004,98.0,NF,2003,North Korea
+North Korea,2005,97.0,NF,2004,North Korea
+North Korea,2006,97.0,NF,2005,North Korea
+North Korea,2007,97.0,NF,2006,North Korea
+North Korea,2008,98.0,NF,2007,North Korea
+North Korea,2009,98.0,NF,2008,North Korea
+North Korea,2010,99.0,NF,2009,North Korea
+North Korea,2011,97.0,NF,2010,North Korea
+North Korea,2012,97.0,NF,2011,North Korea
+North Korea,2013,96.0,NF,2012,North Korea
+North Korea,2014,97.0,NF,2013,North Korea
+North Korea,2015,97.0,NF,2014,North Korea
+North Korea,2016,97.0,NF,2015,North Korea
+North Korea,2017,98.0,NF,2016,North Korea
+Norway,1994,10.0,F,1993,Norway
+Norway,1995,8.0,F,1994,Norway
+Norway,1996,5.0,F,1995,Norway
+Norway,1997,5.0,F,1996,Norway
+Norway,1998,5.0,F,1997,Norway
+Norway,1999,5.0,F,1998,Norway
+Norway,2000,5.0,F,1999,Norway
+Norway,2001,5.0,F,2000,Norway
+Norway,2002,9.0,F,2001,Norway
+Norway,2003,9.0,F,2002,Norway
+Norway,2004,9.0,F,2003,Norway
+Norway,2005,10.0,F,2004,Norway
+Norway,2006,10.0,F,2005,Norway
+Norway,2007,11.0,F,2006,Norway
+Norway,2008,10.0,F,2007,Norway
+Norway,2009,10.0,F,2008,Norway
+Norway,2010,10.0,F,2009,Norway
+Norway,2011,11.0,F,2010,Norway
+Norway,2012,10.0,F,2011,Norway
+Norway,2013,10.0,F,2012,Norway
+Norway,2014,10.0,F,2013,Norway
+Norway,2015,10.0,F,2014,Norway
+Norway,2016,9.0,F,2015,Norway
+Norway,2017,8.0,F,2016,Norway
+Oman,1994,68.0,NF,1993,Oman
+Oman,1995,69.0,NF,1994,Oman
+Oman,1996,62.0,NF,1995,Oman
+Oman,1997,67.0,NF,1996,Oman
+Oman,1998,75.0,NF,1997,Oman
+Oman,1999,75.0,NF,1998,Oman
+Oman,2000,71.0,NF,1999,Oman
+Oman,2001,71.0,NF,2000,Oman
+Oman,2002,68.0,NF,2001,Oman
+Oman,2003,73.0,NF,2002,Oman
+Oman,2004,74.0,NF,2003,Oman
+Oman,2005,72.0,NF,2004,Oman
+Oman,2006,70.0,NF,2005,Oman
+Oman,2007,71.0,NF,2006,Oman
+Oman,2008,71.0,NF,2007,Oman
+Oman,2009,71.0,NF,2008,Oman
+Oman,2010,71.0,NF,2009,Oman
+Oman,2011,71.0,NF,2010,Oman
+Oman,2012,71.0,NF,2011,Oman
+Oman,2013,71.0,NF,2012,Oman
+Oman,2014,71.0,NF,2013,Oman
+Oman,2015,71.0,NF,2014,Oman
+Oman,2016,71.0,NF,2015,Oman
+Oman,2017,71.0,NF,2016,Oman
+Pakistan,1994,58.0,PF,1993,Pakistan
+Pakistan,1995,59.0,PF,1994,Pakistan
+Pakistan,1996,60.0,PF,1995,Pakistan
+Pakistan,1997,54.0,PF,1996,Pakistan
+Pakistan,1998,58.0,PF,1997,Pakistan
+Pakistan,1999,60.0,PF,1998,Pakistan
+Pakistan,2000,64.0,NF,1999,Pakistan
+Pakistan,2001,57.0,PF,2000,Pakistan
+Pakistan,2002,57.0,PF,2001,Pakistan
+Pakistan,2003,58.0,PF,2002,Pakistan
+Pakistan,2004,59.0,PF,2003,Pakistan
+Pakistan,2005,61.0,NF,2004,Pakistan
+Pakistan,2006,61.0,NF,2005,Pakistan
+Pakistan,2007,63.0,NF,2006,Pakistan
+Pakistan,2008,66.0,NF,2007,Pakistan
+Pakistan,2009,62.0,NF,2008,Pakistan
+Pakistan,2010,61.0,NF,2009,Pakistan
+Pakistan,2011,61.0,NF,2010,Pakistan
+Pakistan,2012,63.0,NF,2011,Pakistan
+Pakistan,2013,64.0,NF,2012,Pakistan
+Pakistan,2014,64.0,NF,2013,Pakistan
+Pakistan,2015,65.0,NF,2014,Pakistan
+Pakistan,2016,64.0,NF,2015,Pakistan
+Pakistan,2017,65.0,NF,2016,Pakistan
+Palau,2003,9.0,F,2002,Palau
+Palau,2004,11.0,F,2003,Palau
+Palau,2005,13.0,F,2004,Palau
+Palau,2006,14.0,F,2005,Palau
+Palau,2007,14.0,F,2006,Palau
+Palau,2008,14.0,F,2007,Palau
+Palau,2009,14.0,F,2008,Palau
+Palau,2010,14.0,F,2009,Palau
+Palau,2011,14.0,F,2010,Palau
+Palau,2012,16.0,F,2011,Palau
+Palau,2013,16.0,F,2012,Palau
+Palau,2014,15.0,F,2013,Palau
+Palau,2015,15.0,F,2014,Palau
+Palau,2016,15.0,F,2015,Palau
+Palau,2017,15.0,F,2016,Palau
+Panama,1994,27.0,F,1993,Panama
+Panama,1995,22.0,F,1994,Panama
+Panama,1996,30.0,F,1995,Panama
+Panama,1997,30.0,F,1996,Panama
+Panama,1998,30.0,F,1997,Panama
+Panama,1999,30.0,F,1998,Panama
+Panama,2000,30.0,F,1999,Panama
+Panama,2001,30.0,F,2000,Panama
+Panama,2002,30.0,F,2001,Panama
+Panama,2003,34.0,PF,2002,Panama
+Panama,2004,45.0,PF,2003,Panama
+Panama,2005,44.0,PF,2004,Panama
+Panama,2006,43.0,PF,2005,Panama
+Panama,2007,43.0,PF,2006,Panama
+Panama,2008,44.0,PF,2007,Panama
+Panama,2009,44.0,PF,2008,Panama
+Panama,2010,44.0,PF,2009,Panama
+Panama,2011,44.0,PF,2010,Panama
+Panama,2012,46.0,PF,2011,Panama
+Panama,2013,48.0,PF,2012,Panama
+Panama,2014,50.0,PF,2013,Panama
+Panama,2015,49.0,PF,2014,Panama
+Panama,2016,46.0,PF,2015,Panama
+Panama,2017,41.0,PF,2016,Panama
+Papua New Guinea,1994,25.0,F,1993,Papua New Guinea
+Papua New Guinea,1995,23.0,F,1994,Papua New Guinea
+Papua New Guinea,1996,30.0,F,1995,Papua New Guinea
+Papua New Guinea,1997,30.0,F,1996,Papua New Guinea
+Papua New Guinea,1998,28.0,F,1997,Papua New Guinea
+Papua New Guinea,1999,28.0,F,1998,Papua New Guinea
+Papua New Guinea,2000,28.0,F,1999,Papua New Guinea
+Papua New Guinea,2001,29.0,F,2000,Papua New Guinea
+Papua New Guinea,2002,26.0,F,2001,Papua New Guinea
+Papua New Guinea,2003,25.0,F,2002,Papua New Guinea
+Papua New Guinea,2004,25.0,F,2003,Papua New Guinea
+Papua New Guinea,2005,29.0,F,2004,Papua New Guinea
+Papua New Guinea,2006,29.0,F,2005,Papua New Guinea
+Papua New Guinea,2007,30.0,F,2006,Papua New Guinea
+Papua New Guinea,2008,28.0,F,2007,Papua New Guinea
+Papua New Guinea,2009,26.0,F,2008,Papua New Guinea
+Papua New Guinea,2010,24.0,F,2009,Papua New Guinea
+Papua New Guinea,2011,25.0,F,2010,Papua New Guinea
+Papua New Guinea,2012,27.0,F,2011,Papua New Guinea
+Papua New Guinea,2013,28.0,F,2012,Papua New Guinea
+Papua New Guinea,2014,29.0,F,2013,Papua New Guinea
+Papua New Guinea,2015,29.0,F,2014,Papua New Guinea
+Papua New Guinea,2016,29.0,F,2015,Papua New Guinea
+Papua New Guinea,2017,29.0,F,2016,Papua New Guinea
+Paraguay,1994,41.0,PF,1993,Paraguay
+Paraguay,1995,56.0,PF,1994,Paraguay
+Paraguay,1996,52.0,PF,1995,Paraguay
+Paraguay,1997,52.0,PF,1996,Paraguay
+Paraguay,1998,52.0,PF,1997,Paraguay
+Paraguay,1999,47.0,PF,1998,Paraguay
+Paraguay,2000,51.0,PF,1999,Paraguay
+Paraguay,2001,51.0,PF,2000,Paraguay
+Paraguay,2002,51.0,PF,2001,Paraguay
+Paraguay,2003,55.0,PF,2002,Paraguay
+Paraguay,2004,54.0,PF,2003,Paraguay
+Paraguay,2005,56.0,PF,2004,Paraguay
+Paraguay,2006,57.0,PF,2005,Paraguay
+Paraguay,2007,60.0,PF,2006,Paraguay
+Paraguay,2008,60.0,PF,2007,Paraguay
+Paraguay,2009,59.0,PF,2008,Paraguay
+Paraguay,2010,59.0,PF,2009,Paraguay
+Paraguay,2011,60.0,PF,2010,Paraguay
+Paraguay,2012,60.0,PF,2011,Paraguay
+Paraguay,2013,61.0,NF,2012,Paraguay
+Paraguay,2014,59.0,PF,2013,Paraguay
+Paraguay,2015,59.0,PF,2014,Paraguay
+Paraguay,2016,58.0,PF,2015,Paraguay
+Paraguay,2017,59.0,PF,2016,Paraguay
+Peru,1994,58.0,PF,1993,Peru
+Peru,1995,57.0,PF,1994,Peru
+Peru,1996,60.0,PF,1995,Peru
+Peru,1997,56.0,PF,1996,Peru
+Peru,1998,59.0,PF,1997,Peru
+Peru,1999,63.0,NF,1998,Peru
+Peru,2000,67.0,NF,1999,Peru
+Peru,2001,54.0,PF,2000,Peru
+Peru,2002,30.0,F,2001,Peru
+Peru,2003,35.0,PF,2002,Peru
+Peru,2004,34.0,PF,2003,Peru
+Peru,2005,40.0,PF,2004,Peru
+Peru,2006,39.0,PF,2005,Peru
+Peru,2007,42.0,PF,2006,Peru
+Peru,2008,44.0,PF,2007,Peru
+Peru,2009,44.0,PF,2008,Peru
+Peru,2010,44.0,PF,2009,Peru
+Peru,2011,43.0,PF,2010,Peru
+Peru,2012,44.0,PF,2011,Peru
+Peru,2013,43.0,PF,2012,Peru
+Peru,2014,44.0,PF,2013,Peru
+Peru,2015,47.0,PF,2014,Peru
+Peru,2016,46.0,PF,2015,Peru
+Peru,2017,45.0,PF,2016,Peru
+Philippines,1994,55.0,PF,1993,Philippines
+Philippines,1995,46.0,PF,1994,Philippines
+Philippines,1996,46.0,PF,1995,Philippines
+Philippines,1997,46.0,PF,1996,Philippines
+Philippines,1998,30.0,F,1997,Philippines
+Philippines,1999,30.0,F,1998,Philippines
+Philippines,2000,30.0,F,1999,Philippines
+Philippines,2001,30.0,F,2000,Philippines
+Philippines,2002,30.0,F,2001,Philippines
+Philippines,2003,30.0,F,2002,Philippines
+Philippines,2004,34.0,PF,2003,Philippines
+Philippines,2005,35.0,PF,2004,Philippines
+Philippines,2006,40.0,PF,2005,Philippines
+Philippines,2007,46.0,PF,2006,Philippines
+Philippines,2008,45.0,PF,2007,Philippines
+Philippines,2009,45.0,PF,2008,Philippines
+Philippines,2010,48.0,PF,2009,Philippines
+Philippines,2011,46.0,PF,2010,Philippines
+Philippines,2012,42.0,PF,2011,Philippines
+Philippines,2013,43.0,PF,2012,Philippines
+Philippines,2014,44.0,PF,2013,Philippines
+Philippines,2015,44.0,PF,2014,Philippines
+Philippines,2016,44.0,PF,2015,Philippines
+Philippines,2017,44.0,PF,2016,Philippines
+Poland,1994,30.0,F,1993,Poland
+Poland,1995,29.0,F,1994,Poland
+Poland,1996,21.0,F,1995,Poland
+Poland,1997,27.0,F,1996,Poland
+Poland,1998,25.0,F,1997,Poland
+Poland,1999,25.0,F,1998,Poland
+Poland,2000,19.0,F,1999,Poland
+Poland,2001,19.0,F,2000,Poland
+Poland,2002,18.0,F,2001,Poland
+Poland,2003,18.0,F,2002,Poland
+Poland,2004,19.0,F,2003,Poland
+Poland,2005,20.0,F,2004,Poland
+Poland,2006,21.0,F,2005,Poland
+Poland,2007,22.0,F,2006,Poland
+Poland,2008,24.0,F,2007,Poland
+Poland,2009,24.0,F,2008,Poland
+Poland,2010,24.0,F,2009,Poland
+Poland,2011,25.0,F,2010,Poland
+Poland,2012,25.0,F,2011,Poland
+Poland,2013,26.0,F,2012,Poland
+Poland,2014,27.0,F,2013,Poland
+Poland,2015,26.0,F,2014,Poland
+Poland,2016,28.0,F,2015,Poland
+Poland,2017,34.0,PF,2016,Poland
+Portugal,1994,18.0,F,1993,Portugal
+Portugal,1995,16.0,F,1994,Portugal
+Portugal,1996,17.0,F,1995,Portugal
+Portugal,1997,17.0,F,1996,Portugal
+Portugal,1998,17.0,F,1997,Portugal
+Portugal,1999,17.0,F,1998,Portugal
+Portugal,2000,17.0,F,1999,Portugal
+Portugal,2001,17.0,F,2000,Portugal
+Portugal,2002,15.0,F,2001,Portugal
+Portugal,2003,15.0,F,2002,Portugal
+Portugal,2004,14.0,F,2003,Portugal
+Portugal,2005,14.0,F,2004,Portugal
+Portugal,2006,14.0,F,2005,Portugal
+Portugal,2007,14.0,F,2006,Portugal
+Portugal,2008,16.0,F,2007,Portugal
+Portugal,2009,16.0,F,2008,Portugal
+Portugal,2010,16.0,F,2009,Portugal
+Portugal,2011,17.0,F,2010,Portugal
+Portugal,2012,17.0,F,2011,Portugal
+Portugal,2013,17.0,F,2012,Portugal
+Portugal,2014,18.0,F,2013,Portugal
+Portugal,2015,18.0,F,2014,Portugal
+Portugal,2016,18.0,F,2015,Portugal
+Portugal,2017,17.0,F,2016,Portugal
+Qatar,1994,64.0,NF,1993,Qatar
+Qatar,1995,64.0,NF,1994,Qatar
+Qatar,1996,62.0,NF,1995,Qatar
+Qatar,1997,53.0,PF,1996,Qatar
+Qatar,1998,62.0,NF,1997,Qatar
+Qatar,1999,62.0,NF,1998,Qatar
+Qatar,2000,62.0,NF,1999,Qatar
+Qatar,2001,62.0,NF,2000,Qatar
+Qatar,2002,62.0,NF,2001,Qatar
+Qatar,2003,61.0,NF,2002,Qatar
+Qatar,2004,61.0,NF,2003,Qatar
+Qatar,2005,62.0,NF,2004,Qatar
+Qatar,2006,61.0,NF,2005,Qatar
+Qatar,2007,63.0,NF,2006,Qatar
+Qatar,2008,64.0,NF,2007,Qatar
+Qatar,2009,65.0,NF,2008,Qatar
+Qatar,2010,66.0,NF,2009,Qatar
+Qatar,2011,66.0,NF,2010,Qatar
+Qatar,2012,67.0,NF,2011,Qatar
+Qatar,2013,67.0,NF,2012,Qatar
+Qatar,2014,67.0,NF,2013,Qatar
+Qatar,2015,67.0,NF,2014,Qatar
+Qatar,2016,69.0,NF,2015,Qatar
+Qatar,2017,70.0,NF,2016,Qatar
+Romania,1994,55.0,PF,1993,Romania
+Romania,1995,50.0,PF,1994,Romania
+Romania,1996,49.0,PF,1995,Romania
+Romania,1997,47.0,PF,1996,Romania
+Romania,1998,39.0,PF,1997,Romania
+Romania,1999,44.0,PF,1998,Romania
+Romania,2000,44.0,PF,1999,Romania
+Romania,2001,44.0,PF,2000,Romania
+Romania,2002,35.0,PF,2001,Romania
+Romania,2003,38.0,PF,2002,Romania
+Romania,2004,47.0,PF,2003,Romania
+Romania,2005,47.0,PF,2004,Romania
+Romania,2006,44.0,PF,2005,Romania
+Romania,2007,42.0,PF,2006,Romania
+Romania,2008,44.0,PF,2007,Romania
+Romania,2009,44.0,PF,2008,Romania
+Romania,2010,43.0,PF,2009,Romania
+Romania,2011,42.0,PF,2010,Romania
+Romania,2012,41.0,PF,2011,Romania
+Romania,2013,42.0,PF,2012,Romania
+Romania,2014,41.0,PF,2013,Romania
+Romania,2015,42.0,PF,2014,Romania
+Romania,2016,38.0,PF,2015,Romania
+Romania,2017,38.0,PF,2016,Romania
+Russia,1994,40.0,PF,1993,Russia
+Russia,1995,55.0,PF,1994,Russia
+Russia,1996,58.0,PF,1995,Russia
+Russia,1997,53.0,PF,1996,Russia
+Russia,1998,53.0,PF,1997,Russia
+Russia,1999,59.0,PF,1998,Russia
+Russia,2000,60.0,PF,1999,Russia
+Russia,2001,60.0,PF,2000,Russia
+Russia,2002,60.0,PF,2001,Russia
+Russia,2003,66.0,NF,2002,Russia
+Russia,2004,67.0,NF,2003,Russia
+Russia,2005,68.0,NF,2004,Russia
+Russia,2006,72.0,NF,2005,Russia
+Russia,2007,75.0,NF,2006,Russia
+Russia,2008,78.0,NF,2007,Russia
+Russia,2009,80.0,NF,2008,Russia
+Russia,2010,81.0,NF,2009,Russia
+Russia,2011,81.0,NF,2010,Russia
+Russia,2012,80.0,NF,2011,Russia
+Russia,2013,81.0,NF,2012,Russia
+Russia,2014,81.0,NF,2013,Russia
+Russia,2015,83.0,NF,2014,Russia
+Russia,2016,83.0,NF,2015,Russia
+Russia,2017,83.0,NF,2016,Russia
+Rwanda,1994,63.0,NF,1993,Rwanda
+Rwanda,1996,74.0,NF,1995,Rwanda
+Rwanda,1997,74.0,NF,1996,Rwanda
+Rwanda,1998,71.0,NF,1997,Rwanda
+Rwanda,1999,72.0,NF,1998,Rwanda
+Rwanda,2000,72.0,NF,1999,Rwanda
+Rwanda,2001,72.0,NF,2000,Rwanda
+Rwanda,2002,87.0,NF,2001,Rwanda
+Rwanda,2003,80.0,NF,2002,Rwanda
+Rwanda,2004,82.0,NF,2003,Rwanda
+Rwanda,2005,84.0,NF,2004,Rwanda
+Rwanda,2006,85.0,NF,2005,Rwanda
+Rwanda,2007,84.0,NF,2006,Rwanda
+Rwanda,2008,84.0,NF,2007,Rwanda
+Rwanda,2009,85.0,NF,2008,Rwanda
+Rwanda,2010,83.0,NF,2009,Rwanda
+Rwanda,2011,84.0,NF,2010,Rwanda
+Rwanda,2012,82.0,NF,2011,Rwanda
+Rwanda,2013,80.0,NF,2012,Rwanda
+Rwanda,2014,79.0,NF,2013,Rwanda
+Rwanda,2015,79.0,NF,2014,Rwanda
+Rwanda,2016,79.0,NF,2015,Rwanda
+Rwanda,2017,79.0,NF,2016,Rwanda
+Saint Kitts and Nevis,1994,21.0,F,1993,Saint Kitts and Nevis
+Saint Kitts and Nevis,1995,19.0,F,1994,Saint Kitts and Nevis
+Saint Kitts and Nevis,1996,18.0,F,1995,Saint Kitts and Nevis
+Saint Kitts and Nevis,1997,18.0,F,1996,Saint Kitts and Nevis
+Saint Kitts and Nevis,1998,18.0,F,1997,Saint Kitts and Nevis
+Saint Kitts and Nevis,1999,18.0,F,1998,Saint Kitts and Nevis
+Saint Kitts and Nevis,2000,18.0,F,1999,Saint Kitts and Nevis
+Saint Kitts and Nevis,2001,18.0,F,2000,Saint Kitts and Nevis
+Saint Kitts and Nevis,2002,18.0,F,2001,Saint Kitts and Nevis
+Saint Kitts and Nevis,2003,18.0,F,2002,Saint Kitts and Nevis
+Saint Kitts and Nevis,2004,21.0,F,2003,Saint Kitts and Nevis
+Saint Kitts and Nevis,2005,23.0,F,2004,Saint Kitts and Nevis
+Saint Kitts and Nevis,2006,21.0,F,2005,Saint Kitts and Nevis
+Saint Kitts and Nevis,2007,20.0,F,2006,Saint Kitts and Nevis
+Saint Kitts and Nevis,2008,19.0,F,2007,Saint Kitts and Nevis
+Saint Kitts and Nevis,2009,19.0,F,2008,Saint Kitts and Nevis
+Saint Kitts and Nevis,2010,20.0,F,2009,Saint Kitts and Nevis
+Saint Kitts and Nevis,2011,20.0,F,2010,Saint Kitts and Nevis
+Saint Kitts and Nevis,2012,20.0,F,2011,Saint Kitts and Nevis
+Saint Kitts and Nevis,2013,20.0,F,2012,Saint Kitts and Nevis
+Saint Kitts and Nevis,2014,20.0,F,2013,Saint Kitts and Nevis
+Saint Kitts and Nevis,2015,20.0,F,2014,Saint Kitts and Nevis
+Saint Kitts and Nevis,2016,20.0,F,2015,Saint Kitts and Nevis
+Saint Kitts and Nevis,2017,21.0,F,2016,Saint Kitts and Nevis
+Saint Lucia,1994,13.0,F,1993,Saint Lucia
+Saint Lucia,1995,13.0,F,1994,Saint Lucia
+Saint Lucia,1996,13.0,F,1995,Saint Lucia
+Saint Lucia,1997,13.0,F,1996,Saint Lucia
+Saint Lucia,1998,13.0,F,1997,Saint Lucia
+Saint Lucia,1999,13.0,F,1998,Saint Lucia
+Saint Lucia,2000,13.0,F,1999,Saint Lucia
+Saint Lucia,2001,13.0,F,2000,Saint Lucia
+Saint Lucia,2002,11.0,F,2001,Saint Lucia
+Saint Lucia,2003,8.0,F,2002,Saint Lucia
+Saint Lucia,2004,11.0,F,2003,Saint Lucia
+Saint Lucia,2005,16.0,F,2004,Saint Lucia
+Saint Lucia,2006,18.0,F,2005,Saint Lucia
+Saint Lucia,2007,16.0,F,2006,Saint Lucia
+Saint Lucia,2008,16.0,F,2007,Saint Lucia
+Saint Lucia,2009,15.0,F,2008,Saint Lucia
+Saint Lucia,2010,15.0,F,2009,Saint Lucia
+Saint Lucia,2011,15.0,F,2010,Saint Lucia
+Saint Lucia,2012,15.0,F,2011,Saint Lucia
+Saint Lucia,2013,15.0,F,2012,Saint Lucia
+Saint Lucia,2014,15.0,F,2013,Saint Lucia
+Saint Lucia,2015,15.0,F,2014,Saint Lucia
+Saint Lucia,2016,15.0,F,2015,Saint Lucia
+Saint Lucia,2017,17.0,F,2016,Saint Lucia
+Saint Vincent and the Grenadines,1994,22.0,F,1993,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,1995,12.0,F,1994,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,1996,16.0,F,1995,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,1997,16.0,F,1996,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,1998,16.0,F,1997,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,1999,16.0,F,1998,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2000,16.0,F,1999,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2001,16.0,F,2000,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2002,16.0,F,2001,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2003,17.0,F,2002,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2004,14.0,F,2003,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2005,16.0,F,2004,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2006,16.0,F,2005,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2007,17.0,F,2006,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2008,17.0,F,2007,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2009,17.0,F,2008,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2010,17.0,F,2009,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2011,17.0,F,2010,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2012,17.0,F,2011,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2013,17.0,F,2012,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2014,17.0,F,2013,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2015,17.0,F,2014,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2016,17.0,F,2015,Saint Vincent and Grenadines
+Saint Vincent and the Grenadines,2017,21.0,F,2016,Saint Vincent and Grenadines
+Samoa,1994,30.0,F,1993,Samoa
+Samoa,1995,29.0,F,1994,Samoa
+Samoa,1996,28.0,F,1995,Samoa
+Samoa,1997,28.0,F,1996,Samoa
+Samoa,1998,28.0,F,1997,Samoa
+Samoa,1999,31.0,PF,1998,Samoa
+Samoa,2000,34.0,PF,1999,Samoa
+Samoa,2001,21.0,F,2000,Samoa
+Samoa,2002,23.0,F,2001,Samoa
+Samoa,2003,24.0,F,2002,Samoa
+Samoa,2004,24.0,F,2003,Samoa
+Samoa,2005,25.0,F,2004,Samoa
+Samoa,2006,29.0,F,2005,Samoa
+Samoa,2007,30.0,F,2006,Samoa
+Samoa,2008,29.0,F,2007,Samoa
+Samoa,2009,29.0,F,2008,Samoa
+Samoa,2010,29.0,F,2009,Samoa
+Samoa,2011,30.0,F,2010,Samoa
+Samoa,2012,29.0,F,2011,Samoa
+Samoa,2013,29.0,F,2012,Samoa
+Samoa,2014,29.0,F,2013,Samoa
+Samoa,2015,30.0,F,2014,Samoa
+Samoa,2016,29.0,F,2015,Samoa
+Samoa,2017,29.0,F,2016,Samoa
+San Marino,2003,9.0,F,2002,San Marino
+San Marino,2004,14.0,F,2003,San Marino
+San Marino,2005,16.0,F,2004,San Marino
+San Marino,2006,17.0,F,2005,San Marino
+San Marino,2007,17.0,F,2006,San Marino
+San Marino,2008,17.0,F,2007,San Marino
+San Marino,2009,17.0,F,2008,San Marino
+San Marino,2010,17.0,F,2009,San Marino
+San Marino,2011,17.0,F,2010,San Marino
+San Marino,2012,17.0,F,2011,San Marino
+San Marino,2013,16.0,F,2012,San Marino
+San Marino,2014,16.0,F,2013,San Marino
+San Marino,2015,16.0,F,2014,San Marino
+San Marino,2016,16.0,F,2015,San Marino
+San Marino,2017,17.0,F,2016,San Marino
+Saudi Arabia,1994,71.0,NF,1993,Saudi Arabia
+Saudi Arabia,1995,76.0,NF,1994,Saudi Arabia
+Saudi Arabia,1996,62.0,NF,1995,Saudi Arabia
+Saudi Arabia,1997,80.0,NF,1996,Saudi Arabia
+Saudi Arabia,1998,80.0,NF,1997,Saudi Arabia
+Saudi Arabia,1999,85.0,NF,1998,Saudi Arabia
+Saudi Arabia,2000,90.0,NF,1999,Saudi Arabia
+Saudi Arabia,2001,92.0,NF,2000,Saudi Arabia
+Saudi Arabia,2002,80.0,NF,2001,Saudi Arabia
+Saudi Arabia,2003,80.0,NF,2002,Saudi Arabia
+Saudi Arabia,2004,80.0,NF,2003,Saudi Arabia
+Saudi Arabia,2005,80.0,NF,2004,Saudi Arabia
+Saudi Arabia,2006,79.0,NF,2005,Saudi Arabia
+Saudi Arabia,2007,82.0,NF,2006,Saudi Arabia
+Saudi Arabia,2008,81.0,NF,2007,Saudi Arabia
+Saudi Arabia,2009,82.0,NF,2008,Saudi Arabia
+Saudi Arabia,2010,83.0,NF,2009,Saudi Arabia
+Saudi Arabia,2011,83.0,NF,2010,Saudi Arabia
+Saudi Arabia,2012,84.0,NF,2011,Saudi Arabia
+Saudi Arabia,2013,84.0,NF,2012,Saudi Arabia
+Saudi Arabia,2014,83.0,NF,2013,Saudi Arabia
+Saudi Arabia,2015,83.0,NF,2014,Saudi Arabia
+Saudi Arabia,2016,86.0,NF,2015,Saudi Arabia
+Saudi Arabia,2017,86.0,NF,2016,Saudi Arabia
+Senegal,1994,56.0,PF,1993,Senegal
+Senegal,1995,48.0,PF,1994,Senegal
+Senegal,1996,31.0,PF,1995,Senegal
+Senegal,1997,37.0,PF,1996,Senegal
+Senegal,1998,33.0,PF,1997,Senegal
+Senegal,1999,33.0,PF,1998,Senegal
+Senegal,2000,33.0,PF,1999,Senegal
+Senegal,2001,34.0,PF,2000,Senegal
+Senegal,2002,39.0,PF,2001,Senegal
+Senegal,2003,38.0,PF,2002,Senegal
+Senegal,2004,37.0,PF,2003,Senegal
+Senegal,2005,37.0,PF,2004,Senegal
+Senegal,2006,44.0,PF,2005,Senegal
+Senegal,2007,46.0,PF,2006,Senegal
+Senegal,2008,49.0,PF,2007,Senegal
+Senegal,2009,53.0,PF,2008,Senegal
+Senegal,2010,57.0,PF,2009,Senegal
+Senegal,2011,54.0,PF,2010,Senegal
+Senegal,2012,55.0,PF,2011,Senegal
+Senegal,2013,52.0,PF,2012,Senegal
+Senegal,2014,48.0,PF,2013,Senegal
+Senegal,2015,48.0,PF,2014,Senegal
+Senegal,2016,49.0,PF,2015,Senegal
+Senegal,2017,47.0,PF,2016,Senegal
+Serbia,2007,39.0,PF,2006,Serbia
+Serbia,2008,39.0,PF,2007,Serbia
+Serbia,2009,39.0,PF,2008,Serbia
+Serbia,2010,35.0,PF,2009,Serbia
+Serbia,2011,33.0,PF,2010,Serbia
+Serbia,2012,35.0,PF,2011,Serbia
+Serbia,2013,36.0,PF,2012,Serbia
+Serbia,2014,37.0,PF,2013,Serbia
+Serbia,2015,40.0,PF,2014,Serbia
+Serbia,2016,45.0,PF,2015,Serbia
+Serbia,2017,49.0,PF,2016,Serbia
+Serbia and Montenegro,1994,86.0,NF,1993,
+Serbia and Montenegro,1995,87.0,NF,1994,
+Serbia and Montenegro,1996,77.0,NF,1995,
+Serbia and Montenegro,1997,75.0,NF,1996,
+Serbia and Montenegro,1998,75.0,NF,1997,
+Serbia and Montenegro,1999,81.0,NF,1998,
+Serbia and Montenegro,2000,81.0,NF,1999,
+Serbia and Montenegro,2001,56.0,PF,2000,
+Serbia and Montenegro,2002,45.0,PF,2001,
+Serbia and Montenegro,2003,40.0,PF,2002,
+Serbia and Montenegro,2004,40.0,PF,2003,
+Serbia and Montenegro,2005,40.0,PF,2004,
+Serbia and Montenegro,2006,40.0,PF,2005,
+Seychelles,1994,44.0,PF,1993,Seychelles
+Seychelles,1995,57.0,PF,1994,Seychelles
+Seychelles,1996,50.0,PF,1995,Seychelles
+Seychelles,1997,50.0,PF,1996,Seychelles
+Seychelles,1998,50.0,PF,1997,Seychelles
+Seychelles,1999,50.0,PF,1998,Seychelles
+Seychelles,2000,50.0,PF,1999,Seychelles
+Seychelles,2001,51.0,PF,2000,Seychelles
+Seychelles,2002,51.0,PF,2001,Seychelles
+Seychelles,2003,50.0,PF,2002,Seychelles
+Seychelles,2004,52.0,PF,2003,Seychelles
+Seychelles,2005,58.0,PF,2004,Seychelles
+Seychelles,2006,60.0,PF,2005,Seychelles
+Seychelles,2007,60.0,PF,2006,Seychelles
+Seychelles,2008,59.0,PF,2007,Seychelles
+Seychelles,2009,59.0,PF,2008,Seychelles
+Seychelles,2010,58.0,PF,2009,Seychelles
+Seychelles,2011,56.0,PF,2010,Seychelles
+Seychelles,2012,56.0,PF,2011,Seychelles
+Seychelles,2013,56.0,PF,2012,Seychelles
+Seychelles,2014,52.0,PF,2013,Seychelles
+Seychelles,2015,50.0,PF,2014,Seychelles
+Seychelles,2016,49.0,PF,2015,Seychelles
+Seychelles,2017,49.0,PF,2016,Seychelles
+Sierra Leone,1994,81.0,NF,1993,Sierra Leone
+Sierra Leone,1995,72.0,NF,1994,Sierra Leone
+Sierra Leone,1996,75.0,NF,1995,Sierra Leone
+Sierra Leone,1997,75.0,NF,1996,Sierra Leone
+Sierra Leone,1998,80.0,NF,1997,Sierra Leone
+Sierra Leone,1999,80.0,NF,1998,Sierra Leone
+Sierra Leone,2000,85.0,NF,1999,Sierra Leone
+Sierra Leone,2001,75.0,NF,2000,Sierra Leone
+Sierra Leone,2002,62.0,NF,2001,Sierra Leone
+Sierra Leone,2003,61.0,NF,2002,Sierra Leone
+Sierra Leone,2004,58.0,PF,2003,Sierra Leone
+Sierra Leone,2005,59.0,PF,2004,Sierra Leone
+Sierra Leone,2006,59.0,PF,2005,Sierra Leone
+Sierra Leone,2007,56.0,PF,2006,Sierra Leone
+Sierra Leone,2008,59.0,PF,2007,Sierra Leone
+Sierra Leone,2009,56.0,PF,2008,Sierra Leone
+Sierra Leone,2010,55.0,PF,2009,Sierra Leone
+Sierra Leone,2011,53.0,PF,2010,Sierra Leone
+Sierra Leone,2012,49.0,PF,2011,Sierra Leone
+Sierra Leone,2013,49.0,PF,2012,Sierra Leone
+Sierra Leone,2014,49.0,PF,2013,Sierra Leone
+Sierra Leone,2015,50.0,PF,2014,Sierra Leone
+Sierra Leone,2016,53.0,PF,2015,Sierra Leone
+Sierra Leone,2017,54.0,PF,2016,Sierra Leone
+Singapore,1994,60.0,PF,1993,Singapore
+Singapore,1995,65.0,NF,1994,Singapore
+Singapore,1996,61.0,NF,1995,Singapore
+Singapore,1997,66.0,NF,1996,Singapore
+Singapore,1998,66.0,NF,1997,Singapore
+Singapore,1999,66.0,NF,1998,Singapore
+Singapore,2000,66.0,NF,1999,Singapore
+Singapore,2001,68.0,NF,2000,Singapore
+Singapore,2002,68.0,NF,2001,Singapore
+Singapore,2003,66.0,NF,2002,Singapore
+Singapore,2004,64.0,NF,2003,Singapore
+Singapore,2005,66.0,NF,2004,Singapore
+Singapore,2006,66.0,NF,2005,Singapore
+Singapore,2007,69.0,NF,2006,Singapore
+Singapore,2008,69.0,NF,2007,Singapore
+Singapore,2009,68.0,NF,2008,Singapore
+Singapore,2010,68.0,NF,2009,Singapore
+Singapore,2011,68.0,NF,2010,Singapore
+Singapore,2012,67.0,NF,2011,Singapore
+Singapore,2013,67.0,NF,2012,Singapore
+Singapore,2014,67.0,NF,2013,Singapore
+Singapore,2015,67.0,NF,2014,Singapore
+Singapore,2016,67.0,NF,2015,Singapore
+Singapore,2017,67.0,NF,2016,Singapore
+Slovakia,1994,47.0,PF,1993,Slovakia
+Slovakia,1995,55.0,PF,1994,Slovakia
+Slovakia,1996,41.0,PF,1995,Slovakia
+Slovakia,1997,49.0,PF,1996,Slovakia
+Slovakia,1998,47.0,PF,1997,Slovakia
+Slovakia,1999,30.0,F,1998,Slovakia
+Slovakia,2000,30.0,F,1999,Slovakia
+Slovakia,2001,26.0,F,2000,Slovakia
+Slovakia,2002,22.0,F,2001,Slovakia
+Slovakia,2003,21.0,F,2002,Slovakia
+Slovakia,2004,21.0,F,2003,Slovakia
+Slovakia,2005,21.0,F,2004,Slovakia
+Slovakia,2006,20.0,F,2005,Slovakia
+Slovakia,2007,20.0,F,2006,Slovakia
+Slovakia,2008,22.0,F,2007,Slovakia
+Slovakia,2009,23.0,F,2008,Slovakia
+Slovakia,2010,23.0,F,2009,Slovakia
+Slovakia,2011,22.0,F,2010,Slovakia
+Slovakia,2012,21.0,F,2011,Slovakia
+Slovakia,2013,22.0,F,2012,Slovakia
+Slovakia,2014,23.0,F,2013,Slovakia
+Slovakia,2015,24.0,F,2014,Slovakia
+Slovakia,2016,24.0,F,2015,Slovakia
+Slovakia,2017,26.0,F,2016,Slovakia
+Slovenia,1994,40.0,PF,1993,Slovenia
+Slovenia,1995,37.0,PF,1994,Slovenia
+Slovenia,1996,27.0,F,1995,Slovenia
+Slovenia,1997,28.0,F,1996,Slovenia
+Slovenia,1998,27.0,F,1997,Slovenia
+Slovenia,1999,27.0,F,1998,Slovenia
+Slovenia,2000,27.0,F,1999,Slovenia
+Slovenia,2001,21.0,F,2000,Slovenia
+Slovenia,2002,20.0,F,2001,Slovenia
+Slovenia,2003,19.0,F,2002,Slovenia
+Slovenia,2004,19.0,F,2003,Slovenia
+Slovenia,2005,19.0,F,2004,Slovenia
+Slovenia,2006,20.0,F,2005,Slovenia
+Slovenia,2007,21.0,F,2006,Slovenia
+Slovenia,2008,23.0,F,2007,Slovenia
+Slovenia,2009,24.0,F,2008,Slovenia
+Slovenia,2010,25.0,F,2009,Slovenia
+Slovenia,2011,25.0,F,2010,Slovenia
+Slovenia,2012,25.0,F,2011,Slovenia
+Slovenia,2013,24.0,F,2012,Slovenia
+Slovenia,2014,24.0,F,2013,Slovenia
+Slovenia,2015,25.0,F,2014,Slovenia
+Slovenia,2016,23.0,F,2015,Slovenia
+Slovenia,2017,23.0,F,2016,Slovenia
+Solomon Islands,1994,22.0,F,1993,Solomon Islands
+Solomon Islands,1995,18.0,F,1994,Solomon Islands
+Solomon Islands,1996,13.0,F,1995,Solomon Islands
+Solomon Islands,1997,14.0,F,1996,Solomon Islands
+Solomon Islands,1998,14.0,F,1997,Solomon Islands
+Solomon Islands,1999,16.0,F,1998,Solomon Islands
+Solomon Islands,2000,18.0,F,1999,Solomon Islands
+Solomon Islands,2001,22.0,F,2000,Solomon Islands
+Solomon Islands,2002,24.0,F,2001,Solomon Islands
+Solomon Islands,2003,25.0,F,2002,Solomon Islands
+Solomon Islands,2004,30.0,F,2003,Solomon Islands
+Solomon Islands,2005,30.0,F,2004,Solomon Islands
+Solomon Islands,2006,30.0,F,2005,Solomon Islands
+Solomon Islands,2007,30.0,F,2006,Solomon Islands
+Solomon Islands,2008,30.0,F,2007,Solomon Islands
+Solomon Islands,2009,30.0,F,2008,Solomon Islands
+Solomon Islands,2010,29.0,F,2009,Solomon Islands
+Solomon Islands,2011,29.0,F,2010,Solomon Islands
+Solomon Islands,2012,28.0,F,2011,Solomon Islands
+Solomon Islands,2013,28.0,F,2012,Solomon Islands
+Solomon Islands,2014,28.0,F,2013,Solomon Islands
+Solomon Islands,2015,28.0,F,2014,Solomon Islands
+Solomon Islands,2016,27.0,F,2015,Solomon Islands
+Solomon Islands,2017,27.0,F,2016,Solomon Islands
+Somalia,1996,79.0,NF,1995,Somalia
+Somalia,1997,86.0,NF,1996,Somalia
+Somalia,1998,86.0,NF,1997,Somalia
+Somalia,1999,88.0,NF,1998,Somalia
+Somalia,2000,88.0,NF,1999,Somalia
+Somalia,2001,86.0,NF,2000,Somalia
+Somalia,2002,88.0,NF,2001,Somalia
+Somalia,2003,80.0,NF,2002,Somalia
+Somalia,2004,80.0,NF,2003,Somalia
+Somalia,2005,83.0,NF,2004,Somalia
+Somalia,2006,83.0,NF,2005,Somalia
+Somalia,2007,85.0,NF,2006,Somalia
+Somalia,2008,84.0,NF,2007,Somalia
+Somalia,2009,84.0,NF,2008,Somalia
+Somalia,2010,84.0,NF,2009,Somalia
+Somalia,2011,84.0,NF,2010,Somalia
+Somalia,2012,84.0,NF,2011,Somalia
+Somalia,2013,84.0,NF,2012,Somalia
+Somalia,2014,82.0,NF,2013,Somalia
+Somalia,2015,79.0,NF,2014,Somalia
+Somalia,2016,79.0,NF,2015,Somalia
+Somalia,2017,79.0,NF,2016,Somalia
+Somaliland,2015,54.0,PF,2014,
+Somaliland,2016,54.0,PF,2015,
+Somaliland,2017,53.0,PF,2016,
+South Africa,1994,38.0,PF,1993,South Africa
+South Africa,1995,30.0,F,1994,South Africa
+South Africa,1996,30.0,F,1995,South Africa
+South Africa,1997,27.0,F,1996,South Africa
+South Africa,1998,28.0,F,1997,South Africa
+South Africa,1999,28.0,F,1998,South Africa
+South Africa,2000,25.0,F,1999,South Africa
+South Africa,2001,23.0,F,2000,South Africa
+South Africa,2002,23.0,F,2001,South Africa
+South Africa,2003,25.0,F,2002,South Africa
+South Africa,2004,24.0,F,2003,South Africa
+South Africa,2005,26.0,F,2004,South Africa
+South Africa,2006,27.0,F,2005,South Africa
+South Africa,2007,28.0,F,2006,South Africa
+South Africa,2008,28.0,F,2007,South Africa
+South Africa,2009,30.0,F,2008,South Africa
+South Africa,2010,32.0,PF,2009,South Africa
+South Africa,2011,33.0,PF,2010,South Africa
+South Africa,2012,34.0,PF,2011,South Africa
+South Africa,2013,35.0,PF,2012,South Africa
+South Africa,2014,33.0,PF,2013,South Africa
+South Africa,2015,37.0,PF,2014,South Africa
+South Africa,2016,36.0,PF,2015,South Africa
+South Africa,2017,38.0,PF,2016,South Africa
+South Korea,1994,29.0,F,1993,South Korea
+South Korea,1995,28.0,F,1994,South Korea
+South Korea,1996,22.0,F,1995,South Korea
+South Korea,1997,25.0,F,1996,South Korea
+South Korea,1998,28.0,F,1997,South Korea
+South Korea,1999,28.0,F,1998,South Korea
+South Korea,2000,27.0,F,1999,South Korea
+South Korea,2001,27.0,F,2000,South Korea
+South Korea,2002,30.0,F,2001,South Korea
+South Korea,2003,29.0,F,2002,South Korea
+South Korea,2004,29.0,F,2003,South Korea
+South Korea,2005,29.0,F,2004,South Korea
+South Korea,2006,30.0,F,2005,South Korea
+South Korea,2007,30.0,F,2006,South Korea
+South Korea,2008,30.0,F,2007,South Korea
+South Korea,2009,30.0,F,2008,South Korea
+South Korea,2010,30.0,F,2009,South Korea
+South Korea,2011,32.0,PF,2010,South Korea
+South Korea,2012,32.0,PF,2011,South Korea
+South Korea,2013,31.0,PF,2012,South Korea
+South Korea,2014,32.0,PF,2013,South Korea
+South Korea,2015,33.0,PF,2014,South Korea
+South Korea,2016,33.0,PF,2015,South Korea
+South Korea,2017,34.0,PF,2016,South Korea
+South Sudan,2012,59.0,PF,2011,South Sudan
+South Sudan,2013,60.0,PF,2012,South Sudan
+South Sudan,2014,62.0,NF,2013,South Sudan
+South Sudan,2015,68.0,NF,2014,South Sudan
+South Sudan,2016,66.0,NF,2015,South Sudan
+South Sudan,2017,70.0,NF,2016,South Sudan
+Spain,1994,14.0,F,1993,Spain
+Spain,1995,23.0,F,1994,Spain
+Spain,1996,17.0,F,1995,Spain
+Spain,1997,19.0,F,1996,Spain
+Spain,1998,17.0,F,1997,Spain
+Spain,1999,21.0,F,1998,Spain
+Spain,2000,18.0,F,1999,Spain
+Spain,2001,20.0,F,2000,Spain
+Spain,2002,17.0,F,2001,Spain
+Spain,2003,16.0,F,2002,Spain
+Spain,2004,19.0,F,2003,Spain
+Spain,2005,22.0,F,2004,Spain
+Spain,2006,21.0,F,2005,Spain
+Spain,2007,22.0,F,2006,Spain
+Spain,2008,23.0,F,2007,Spain
+Spain,2009,24.0,F,2008,Spain
+Spain,2010,24.0,F,2009,Spain
+Spain,2011,23.0,F,2010,Spain
+Spain,2012,24.0,F,2011,Spain
+Spain,2013,27.0,F,2012,Spain
+Spain,2014,28.0,F,2013,Spain
+Spain,2015,28.0,F,2014,Spain
+Spain,2016,28.0,F,2015,Spain
+Spain,2017,28.0,F,2016,Spain
+Sri Lanka,1994,43.0,PF,1993,Sri Lanka
+Sri Lanka,1995,41.0,PF,1994,Sri Lanka
+Sri Lanka,1996,46.0,PF,1995,Sri Lanka
+Sri Lanka,1997,54.0,PF,1996,Sri Lanka
+Sri Lanka,1998,50.0,PF,1997,Sri Lanka
+Sri Lanka,1999,58.0,PF,1998,Sri Lanka
+Sri Lanka,2000,70.0,NF,1999,Sri Lanka
+Sri Lanka,2001,74.0,NF,2000,Sri Lanka
+Sri Lanka,2002,63.0,NF,2001,Sri Lanka
+Sri Lanka,2003,52.0,PF,2002,Sri Lanka
+Sri Lanka,2004,53.0,PF,2003,Sri Lanka
+Sri Lanka,2005,56.0,PF,2004,Sri Lanka
+Sri Lanka,2006,58.0,PF,2005,Sri Lanka
+Sri Lanka,2007,63.0,NF,2006,Sri Lanka
+Sri Lanka,2008,67.0,NF,2007,Sri Lanka
+Sri Lanka,2009,70.0,NF,2008,Sri Lanka
+Sri Lanka,2010,72.0,NF,2009,Sri Lanka
+Sri Lanka,2011,71.0,NF,2010,Sri Lanka
+Sri Lanka,2012,72.0,NF,2011,Sri Lanka
+Sri Lanka,2013,74.0,NF,2012,Sri Lanka
+Sri Lanka,2014,76.0,NF,2013,Sri Lanka
+Sri Lanka,2015,76.0,NF,2014,Sri Lanka
+Sri Lanka,2016,64.0,NF,2015,Sri Lanka
+Sri Lanka,2017,61.0,NF,2016,Sri Lanka
+Sudan,1994,88.0,NF,1993,Sudan
+Sudan,1995,76.0,NF,1994,Sudan
+Sudan,1996,80.0,NF,1995,Sudan
+Sudan,1997,85.0,NF,1996,Sudan
+Sudan,1998,85.0,NF,1997,Sudan
+Sudan,1999,85.0,NF,1998,Sudan
+Sudan,2000,85.0,NF,1999,Sudan
+Sudan,2001,85.0,NF,2000,Sudan
+Sudan,2002,87.0,NF,2001,Sudan
+Sudan,2003,84.0,NF,2002,Sudan
+Sudan,2004,85.0,NF,2003,Sudan
+Sudan,2005,86.0,NF,2004,Sudan
+Sudan,2006,85.0,NF,2005,Sudan
+Sudan,2007,81.0,NF,2006,Sudan
+Sudan,2008,78.0,NF,2007,Sudan
+Sudan,2009,78.0,NF,2008,Sudan
+Sudan,2010,76.0,NF,2009,Sudan
+Sudan,2011,78.0,NF,2010,Sudan
+Sudan,2012,78.0,NF,2011,Sudan
+Sudan,2013,80.0,NF,2012,Sudan
+Sudan,2014,81.0,NF,2013,Sudan
+Sudan,2015,81.0,NF,2014,Sudan
+Sudan,2016,85.0,NF,2015,Sudan
+Sudan,2017,86.0,NF,2016,Sudan
+Suriname,1994,43.0,PF,1993,Suriname
+Suriname,1995,45.0,PF,1994,Suriname
+Suriname,1996,31.0,PF,1995,Suriname
+Suriname,1997,31.0,PF,1996,Suriname
+Suriname,1998,31.0,PF,1997,Suriname
+Suriname,1999,31.0,PF,1998,Suriname
+Suriname,2000,31.0,PF,1999,Suriname
+Suriname,2001,28.0,F,2000,Suriname
+Suriname,2002,25.0,F,2001,Suriname
+Suriname,2003,26.0,F,2002,Suriname
+Suriname,2004,18.0,F,2003,Suriname
+Suriname,2005,20.0,F,2004,Suriname
+Suriname,2006,23.0,F,2005,Suriname
+Suriname,2007,22.0,F,2006,Suriname
+Suriname,2008,23.0,F,2007,Suriname
+Suriname,2009,23.0,F,2008,Suriname
+Suriname,2010,23.0,F,2009,Suriname
+Suriname,2011,23.0,F,2010,Suriname
+Suriname,2012,23.0,F,2011,Suriname
+Suriname,2013,24.0,F,2012,Suriname
+Suriname,2014,28.0,F,2013,Suriname
+Suriname,2015,29.0,F,2014,Suriname
+Suriname,2016,28.0,F,2015,Suriname
+Suriname,2017,28.0,F,2016,Suriname
+Swaziland,1994,72.0,NF,1993,Swaziland
+Swaziland,1995,73.0,NF,1994,Swaziland
+Swaziland,1996,69.0,NF,1995,Swaziland
+Swaziland,1997,69.0,NF,1996,Swaziland
+Swaziland,1998,75.0,NF,1997,Swaziland
+Swaziland,1999,75.0,NF,1998,Swaziland
+Swaziland,2000,77.0,NF,1999,Swaziland
+Swaziland,2001,77.0,NF,2000,Swaziland
+Swaziland,2002,77.0,NF,2001,Swaziland
+Swaziland,2003,74.0,NF,2002,Swaziland
+Swaziland,2004,77.0,NF,2003,Swaziland
+Swaziland,2005,79.0,NF,2004,Swaziland
+Swaziland,2006,77.0,NF,2005,Swaziland
+Swaziland,2007,76.0,NF,2006,Swaziland
+Swaziland,2008,76.0,NF,2007,Swaziland
+Swaziland,2009,76.0,NF,2008,Swaziland
+Swaziland,2010,76.0,NF,2009,Swaziland
+Swaziland,2011,76.0,NF,2010,Swaziland
+Swaziland,2012,76.0,NF,2011,Swaziland
+Swaziland,2013,77.0,NF,2012,Swaziland
+Swaziland,2014,78.0,NF,2013,Swaziland
+Swaziland,2015,79.0,NF,2014,Swaziland
+Swaziland,2016,82.0,NF,2015,Swaziland
+Swaziland,2017,83.0,NF,2016,Swaziland
+Sweden,1994,11.0,F,1993,Sweden
+Sweden,1995,10.0,F,1994,Sweden
+Sweden,1996,10.0,F,1995,Sweden
+Sweden,1997,10.0,F,1996,Sweden
+Sweden,1998,10.0,F,1997,Sweden
+Sweden,1999,10.0,F,1998,Sweden
+Sweden,2000,11.0,F,1999,Sweden
+Sweden,2001,10.0,F,2000,Sweden
+Sweden,2002,8.0,F,2001,Sweden
+Sweden,2003,8.0,F,2002,Sweden
+Sweden,2004,8.0,F,2003,Sweden
+Sweden,2005,9.0,F,2004,Sweden
+Sweden,2006,10.0,F,2005,Sweden
+Sweden,2007,11.0,F,2006,Sweden
+Sweden,2008,11.0,F,2007,Sweden
+Sweden,2009,11.0,F,2008,Sweden
+Sweden,2010,10.0,F,2009,Sweden
+Sweden,2011,11.0,F,2010,Sweden
+Sweden,2012,10.0,F,2011,Sweden
+Sweden,2013,10.0,F,2012,Sweden
+Sweden,2014,10.0,F,2013,Sweden
+Sweden,2015,10.0,F,2014,Sweden
+Sweden,2016,11.0,F,2015,Sweden
+Sweden,2017,11.0,F,2016,Sweden
+Switzerland,1994,11.0,F,1993,Switzerland
+Switzerland,1995,10.0,F,1994,Switzerland
+Switzerland,1996,8.0,F,1995,Switzerland
+Switzerland,1997,9.0,F,1996,Switzerland
+Switzerland,1998,8.0,F,1997,Switzerland
+Switzerland,1999,8.0,F,1998,Switzerland
+Switzerland,2000,8.0,F,1999,Switzerland
+Switzerland,2001,8.0,F,2000,Switzerland
+Switzerland,2002,8.0,F,2001,Switzerland
+Switzerland,2003,10.0,F,2002,Switzerland
+Switzerland,2004,9.0,F,2003,Switzerland
+Switzerland,2005,11.0,F,2004,Switzerland
+Switzerland,2006,11.0,F,2005,Switzerland
+Switzerland,2007,12.0,F,2006,Switzerland
+Switzerland,2008,13.0,F,2007,Switzerland
+Switzerland,2009,13.0,F,2008,Switzerland
+Switzerland,2010,13.0,F,2009,Switzerland
+Switzerland,2011,13.0,F,2010,Switzerland
+Switzerland,2012,12.0,F,2011,Switzerland
+Switzerland,2013,12.0,F,2012,Switzerland
+Switzerland,2014,12.0,F,2013,Switzerland
+Switzerland,2015,13.0,F,2014,Switzerland
+Switzerland,2016,13.0,F,2015,Switzerland
+Switzerland,2017,13.0,F,2016,Switzerland
+Syria,1994,75.0,NF,1993,Syria
+Syria,1995,75.0,NF,1994,Syria
+Syria,1996,75.0,NF,1995,Syria
+Syria,1997,75.0,NF,1996,Syria
+Syria,1998,74.0,NF,1997,Syria
+Syria,1999,74.0,NF,1998,Syria
+Syria,2000,73.0,NF,1999,Syria
+Syria,2001,71.0,NF,2000,Syria
+Syria,2002,78.0,NF,2001,Syria
+Syria,2003,80.0,NF,2002,Syria
+Syria,2004,80.0,NF,2003,Syria
+Syria,2005,83.0,NF,2004,Syria
+Syria,2006,84.0,NF,2005,Syria
+Syria,2007,83.0,NF,2006,Syria
+Syria,2008,83.0,NF,2007,Syria
+Syria,2009,83.0,NF,2008,Syria
+Syria,2010,83.0,NF,2009,Syria
+Syria,2011,84.0,NF,2010,Syria
+Syria,2012,89.0,NF,2011,Syria
+Syria,2013,88.0,NF,2012,Syria
+Syria,2014,89.0,NF,2013,Syria
+Syria,2015,90.0,NF,2014,Syria
+Syria,2016,90.0,NF,2015,Syria
+Syria,2017,90.0,NF,2016,Syria
+São Tomé and Príncipe,1994,52.0,PF,1993,Sao Tome and Principe
+São Tomé and Príncipe,1995,34.0,PF,1994,Sao Tome and Principe
+São Tomé and Príncipe,1996,48.0,PF,1995,Sao Tome and Principe
+São Tomé and Príncipe,1997,48.0,PF,1996,Sao Tome and Principe
+São Tomé and Príncipe,1998,30.0,F,1997,Sao Tome and Principe
+São Tomé and Príncipe,1999,30.0,F,1998,Sao Tome and Principe
+São Tomé and Príncipe,2000,27.0,F,1999,Sao Tome and Principe
+São Tomé and Príncipe,2001,25.0,F,2000,Sao Tome and Principe
+São Tomé and Príncipe,2002,19.0,F,2001,Sao Tome and Principe
+São Tomé and Príncipe,2003,19.0,F,2002,Sao Tome and Principe
+São Tomé and Príncipe,2004,28.0,F,2003,Sao Tome and Principe
+São Tomé and Príncipe,2005,28.0,F,2004,Sao Tome and Principe
+São Tomé and Príncipe,2006,29.0,F,2005,Sao Tome and Principe
+São Tomé and Príncipe,2007,29.0,F,2006,Sao Tome and Principe
+São Tomé and Príncipe,2008,28.0,F,2007,Sao Tome and Principe
+São Tomé and Príncipe,2009,28.0,F,2008,Sao Tome and Principe
+São Tomé and Príncipe,2010,28.0,F,2009,Sao Tome and Principe
+São Tomé and Príncipe,2011,29.0,F,2010,Sao Tome and Principe
+São Tomé and Príncipe,2012,29.0,F,2011,Sao Tome and Principe
+São Tomé and Príncipe,2013,28.0,F,2012,Sao Tome and Principe
+São Tomé and Príncipe,2014,28.0,F,2013,Sao Tome and Principe
+São Tomé and Príncipe,2015,28.0,F,2014,Sao Tome and Principe
+São Tomé and Príncipe,2016,28.0,F,2015,Sao Tome and Principe
+São Tomé and Príncipe,2017,28.0,F,2016,Sao Tome and Principe
+Taiwan,1994,29.0,F,1993,Taiwan
+Taiwan,1995,30.0,F,1994,Taiwan
+Taiwan,1996,30.0,F,1995,Taiwan
+Taiwan,1997,28.0,F,1996,Taiwan
+Taiwan,1998,25.0,F,1997,Taiwan
+Taiwan,1999,25.0,F,1998,Taiwan
+Taiwan,2000,21.0,F,1999,Taiwan
+Taiwan,2001,22.0,F,2000,Taiwan
+Taiwan,2002,21.0,F,2001,Taiwan
+Taiwan,2003,24.0,F,2002,Taiwan
+Taiwan,2004,23.0,F,2003,Taiwan
+Taiwan,2005,21.0,F,2004,Taiwan
+Taiwan,2006,20.0,F,2005,Taiwan
+Taiwan,2007,20.0,F,2006,Taiwan
+Taiwan,2008,20.0,F,2007,Taiwan
+Taiwan,2009,23.0,F,2008,Taiwan
+Taiwan,2010,24.0,F,2009,Taiwan
+Taiwan,2011,25.0,F,2010,Taiwan
+Taiwan,2012,25.0,F,2011,Taiwan
+Taiwan,2013,26.0,F,2012,Taiwan
+Taiwan,2014,26.0,F,2013,Taiwan
+Taiwan,2015,27.0,F,2014,Taiwan
+Taiwan,2016,26.0,F,2015,Taiwan
+Taiwan,2017,25.0,F,2016,Taiwan
+Tajikistan,1994,93.0,NF,1993,Tajikistan
+Tajikistan,1995,93.0,NF,1994,Tajikistan
+Tajikistan,1996,96.0,NF,1995,Tajikistan
+Tajikistan,1997,95.0,NF,1996,Tajikistan
+Tajikistan,1998,94.0,NF,1997,Tajikistan
+Tajikistan,1999,94.0,NF,1998,Tajikistan
+Tajikistan,2000,94.0,NF,1999,Tajikistan
+Tajikistan,2001,79.0,NF,2000,Tajikistan
+Tajikistan,2002,80.0,NF,2001,Tajikistan
+Tajikistan,2003,76.0,NF,2002,Tajikistan
+Tajikistan,2004,73.0,NF,2003,Tajikistan
+Tajikistan,2005,74.0,NF,2004,Tajikistan
+Tajikistan,2006,76.0,NF,2005,Tajikistan
+Tajikistan,2007,76.0,NF,2006,Tajikistan
+Tajikistan,2008,77.0,NF,2007,Tajikistan
+Tajikistan,2009,78.0,NF,2008,Tajikistan
+Tajikistan,2010,78.0,NF,2009,Tajikistan
+Tajikistan,2011,78.0,NF,2010,Tajikistan
+Tajikistan,2012,79.0,NF,2011,Tajikistan
+Tajikistan,2013,79.0,NF,2012,Tajikistan
+Tajikistan,2014,80.0,NF,2013,Tajikistan
+Tajikistan,2015,82.0,NF,2014,Tajikistan
+Tajikistan,2016,83.0,NF,2015,Tajikistan
+Tajikistan,2017,87.0,NF,2016,Tajikistan
+Tanzania,1994,60.0,PF,1993,Tanzania
+Tanzania,1995,49.0,PF,1994,Tanzania
+Tanzania,1996,49.0,PF,1995,Tanzania
+Tanzania,1997,49.0,PF,1996,Tanzania
+Tanzania,1998,48.0,PF,1997,Tanzania
+Tanzania,1999,51.0,PF,1998,Tanzania
+Tanzania,2000,49.0,PF,1999,Tanzania
+Tanzania,2001,49.0,PF,2000,Tanzania
+Tanzania,2002,49.0,PF,2001,Tanzania
+Tanzania,2003,47.0,PF,2002,Tanzania
+Tanzania,2004,50.0,PF,2003,Tanzania
+Tanzania,2005,51.0,PF,2004,Tanzania
+Tanzania,2006,50.0,PF,2005,Tanzania
+Tanzania,2007,51.0,PF,2006,Tanzania
+Tanzania,2008,48.0,PF,2007,Tanzania
+Tanzania,2009,50.0,PF,2008,Tanzania
+Tanzania,2010,50.0,PF,2009,Tanzania
+Tanzania,2011,48.0,PF,2010,Tanzania
+Tanzania,2012,49.0,PF,2011,Tanzania
+Tanzania,2013,51.0,PF,2012,Tanzania
+Tanzania,2014,55.0,PF,2013,Tanzania
+Tanzania,2015,54.0,PF,2014,Tanzania
+Tanzania,2016,55.0,PF,2015,Tanzania
+Tanzania,2017,58.0,PF,2016,Tanzania
+Thailand,1994,54.0,PF,1993,Thailand
+Thailand,1995,49.0,PF,1994,Thailand
+Thailand,1996,31.0,PF,1995,Thailand
+Thailand,1997,34.0,PF,1996,Thailand
+Thailand,1998,31.0,PF,1997,Thailand
+Thailand,1999,30.0,F,1998,Thailand
+Thailand,2000,30.0,F,1999,Thailand
+Thailand,2001,29.0,F,2000,Thailand
+Thailand,2002,30.0,F,2001,Thailand
+Thailand,2003,36.0,PF,2002,Thailand
+Thailand,2004,39.0,PF,2003,Thailand
+Thailand,2005,42.0,PF,2004,Thailand
+Thailand,2006,50.0,PF,2005,Thailand
+Thailand,2007,59.0,PF,2006,Thailand
+Thailand,2008,56.0,PF,2007,Thailand
+Thailand,2009,57.0,PF,2008,Thailand
+Thailand,2010,58.0,PF,2009,Thailand
+Thailand,2011,62.0,NF,2010,Thailand
+Thailand,2012,60.0,PF,2011,Thailand
+Thailand,2013,62.0,NF,2012,Thailand
+Thailand,2014,64.0,NF,2013,Thailand
+Thailand,2015,75.0,NF,2014,Thailand
+Thailand,2016,77.0,NF,2015,Thailand
+Thailand,2017,77.0,NF,2016,Thailand
+The Gambia,1994,24.0,F,1993,Gambia
+The Gambia,1995,63.0,NF,1994,Gambia
+The Gambia,1996,62.0,NF,1995,Gambia
+The Gambia,1997,65.0,NF,1996,Gambia
+The Gambia,1998,65.0,NF,1997,Gambia
+The Gambia,1999,70.0,NF,1998,Gambia
+The Gambia,2000,70.0,NF,1999,Gambia
+The Gambia,2001,70.0,NF,2000,Gambia
+The Gambia,2002,65.0,NF,2001,Gambia
+The Gambia,2003,65.0,NF,2002,Gambia
+The Gambia,2004,63.0,NF,2003,Gambia
+The Gambia,2005,72.0,NF,2004,Gambia
+The Gambia,2006,73.0,NF,2005,Gambia
+The Gambia,2007,77.0,NF,2006,Gambia
+The Gambia,2008,79.0,NF,2007,Gambia
+The Gambia,2009,79.0,NF,2008,Gambia
+The Gambia,2010,81.0,NF,2009,Gambia
+The Gambia,2011,81.0,NF,2010,Gambia
+The Gambia,2012,81.0,NF,2011,Gambia
+The Gambia,2013,83.0,NF,2012,Gambia
+The Gambia,2014,83.0,NF,2013,Gambia
+The Gambia,2015,81.0,NF,2014,Gambia
+The Gambia,2016,87.0,NF,2015,Gambia
+The Gambia,2017,87.0,NF,2016,Gambia
+Timor-Leste,2001,21.0,F,2000,Timor Leste
+Timor-Leste,2002,21.0,F,2001,Timor Leste
+Timor-Leste,2003,22.0,F,2002,Timor Leste
+Timor-Leste,2004,29.0,F,2003,Timor Leste
+Timor-Leste,2005,30.0,F,2004,Timor Leste
+Timor-Leste,2006,39.0,PF,2005,Timor Leste
+Timor-Leste,2007,42.0,PF,2006,Timor Leste
+Timor-Leste,2008,38.0,PF,2007,Timor Leste
+Timor-Leste,2009,37.0,PF,2008,Timor Leste
+Timor-Leste,2010,35.0,PF,2009,Timor Leste
+Timor-Leste,2011,35.0,PF,2010,Timor Leste
+Timor-Leste,2012,35.0,PF,2011,Timor Leste
+Timor-Leste,2013,35.0,PF,2012,Timor Leste
+Timor-Leste,2014,35.0,PF,2013,Timor Leste
+Timor-Leste,2015,35.0,PF,2014,Timor Leste
+Timor-Leste,2016,35.0,PF,2015,Timor Leste
+Timor-Leste,2017,35.0,PF,2016,Timor Leste
+Togo,1994,85.0,NF,1993,Togo
+Togo,1995,67.0,NF,1994,Togo
+Togo,1996,70.0,NF,1995,Togo
+Togo,1997,70.0,NF,1996,Togo
+Togo,1998,73.0,NF,1997,Togo
+Togo,1999,73.0,NF,1998,Togo
+Togo,2000,74.0,NF,1999,Togo
+Togo,2001,72.0,NF,2000,Togo
+Togo,2002,68.0,NF,2001,Togo
+Togo,2003,74.0,NF,2002,Togo
+Togo,2004,78.0,NF,2003,Togo
+Togo,2005,73.0,NF,2004,Togo
+Togo,2006,78.0,NF,2005,Togo
+Togo,2007,74.0,NF,2006,Togo
+Togo,2008,74.0,NF,2007,Togo
+Togo,2009,72.0,NF,2008,Togo
+Togo,2010,74.0,NF,2009,Togo
+Togo,2011,73.0,NF,2010,Togo
+Togo,2012,69.0,NF,2011,Togo
+Togo,2013,70.0,NF,2012,Togo
+Togo,2014,65.0,NF,2013,Togo
+Togo,2015,62.0,NF,2014,Togo
+Togo,2016,60.0,PF,2015,Togo
+Togo,2017,57.0,PF,2016,Togo
+Tonga,1994,35.0,PF,1993,Tonga
+Tonga,1995,37.0,PF,1994,Tonga
+Tonga,1996,35.0,PF,1995,Tonga
+Tonga,1997,41.0,PF,1996,Tonga
+Tonga,1998,39.0,PF,1997,Tonga
+Tonga,1999,39.0,PF,1998,Tonga
+Tonga,2000,36.0,PF,1999,Tonga
+Tonga,2001,36.0,PF,2000,Tonga
+Tonga,2002,36.0,PF,2001,Tonga
+Tonga,2003,32.0,PF,2002,Tonga
+Tonga,2004,44.0,PF,2003,Tonga
+Tonga,2005,37.0,PF,2004,Tonga
+Tonga,2006,32.0,PF,2005,Tonga
+Tonga,2007,31.0,PF,2006,Tonga
+Tonga,2008,31.0,PF,2007,Tonga
+Tonga,2009,32.0,PF,2008,Tonga
+Tonga,2010,32.0,PF,2009,Tonga
+Tonga,2011,31.0,PF,2010,Tonga
+Tonga,2012,29.0,F,2011,Tonga
+Tonga,2013,29.0,F,2012,Tonga
+Tonga,2014,29.0,F,2013,Tonga
+Tonga,2015,29.0,F,2014,Tonga
+Tonga,2016,29.0,F,2015,Tonga
+Tonga,2017,30.0,F,2016,Tonga
+Trinidad and Tobago,1994,29.0,F,1993,Trinidad and Tobago
+Trinidad and Tobago,1995,25.0,F,1994,Trinidad and Tobago
+Trinidad and Tobago,1996,26.0,F,1995,Trinidad and Tobago
+Trinidad and Tobago,1997,30.0,F,1996,Trinidad and Tobago
+Trinidad and Tobago,1998,28.0,F,1997,Trinidad and Tobago
+Trinidad and Tobago,1999,28.0,F,1998,Trinidad and Tobago
+Trinidad and Tobago,2000,28.0,F,1999,Trinidad and Tobago
+Trinidad and Tobago,2001,28.0,F,2000,Trinidad and Tobago
+Trinidad and Tobago,2002,30.0,F,2001,Trinidad and Tobago
+Trinidad and Tobago,2003,25.0,F,2002,Trinidad and Tobago
+Trinidad and Tobago,2004,25.0,F,2003,Trinidad and Tobago
+Trinidad and Tobago,2005,24.0,F,2004,Trinidad and Tobago
+Trinidad and Tobago,2006,26.0,F,2005,Trinidad and Tobago
+Trinidad and Tobago,2007,24.0,F,2006,Trinidad and Tobago
+Trinidad and Tobago,2008,23.0,F,2007,Trinidad and Tobago
+Trinidad and Tobago,2009,23.0,F,2008,Trinidad and Tobago
+Trinidad and Tobago,2010,23.0,F,2009,Trinidad and Tobago
+Trinidad and Tobago,2011,24.0,F,2010,Trinidad and Tobago
+Trinidad and Tobago,2012,25.0,F,2011,Trinidad and Tobago
+Trinidad and Tobago,2013,26.0,F,2012,Trinidad and Tobago
+Trinidad and Tobago,2014,25.0,F,2013,Trinidad and Tobago
+Trinidad and Tobago,2015,27.0,F,2014,Trinidad and Tobago
+Trinidad and Tobago,2016,27.0,F,2015,Trinidad and Tobago
+Trinidad and Tobago,2017,25.0,F,2016,Trinidad and Tobago
+Tunisia,1994,59.0,PF,1993,Tunisia
+Tunisia,1995,64.0,NF,1994,Tunisia
+Tunisia,1996,70.0,NF,1995,Tunisia
+Tunisia,1997,70.0,NF,1996,Tunisia
+Tunisia,1998,74.0,NF,1997,Tunisia
+Tunisia,1999,74.0,NF,1998,Tunisia
+Tunisia,2000,74.0,NF,1999,Tunisia
+Tunisia,2001,74.0,NF,2000,Tunisia
+Tunisia,2002,73.0,NF,2001,Tunisia
+Tunisia,2003,78.0,NF,2002,Tunisia
+Tunisia,2004,80.0,NF,2003,Tunisia
+Tunisia,2005,80.0,NF,2004,Tunisia
+Tunisia,2006,83.0,NF,2005,Tunisia
+Tunisia,2007,83.0,NF,2006,Tunisia
+Tunisia,2008,81.0,NF,2007,Tunisia
+Tunisia,2009,82.0,NF,2008,Tunisia
+Tunisia,2010,85.0,NF,2009,Tunisia
+Tunisia,2011,85.0,NF,2010,Tunisia
+Tunisia,2012,51.0,PF,2011,Tunisia
+Tunisia,2013,52.0,PF,2012,Tunisia
+Tunisia,2014,53.0,PF,2013,Tunisia
+Tunisia,2015,48.0,PF,2014,Tunisia
+Tunisia,2016,52.0,PF,2015,Tunisia
+Tunisia,2017,54.0,PF,2016,Tunisia
+Turkey,1994,59.0,PF,1993,Turkey
+Turkey,1995,73.0,NF,1994,Turkey
+Turkey,1996,74.0,NF,1995,Turkey
+Turkey,1997,65.0,NF,1996,Turkey
+Turkey,1998,69.0,NF,1997,Turkey
+Turkey,1999,69.0,NF,1998,Turkey
+Turkey,2000,58.0,PF,1999,Turkey
+Turkey,2001,58.0,PF,2000,Turkey
+Turkey,2002,58.0,PF,2001,Turkey
+Turkey,2003,55.0,PF,2002,Turkey
+Turkey,2004,52.0,PF,2003,Turkey
+Turkey,2005,48.0,PF,2004,Turkey
+Turkey,2006,48.0,PF,2005,Turkey
+Turkey,2007,49.0,PF,2006,Turkey
+Turkey,2008,51.0,PF,2007,Turkey
+Turkey,2009,50.0,PF,2008,Turkey
+Turkey,2010,51.0,PF,2009,Turkey
+Turkey,2011,54.0,PF,2010,Turkey
+Turkey,2012,55.0,PF,2011,Turkey
+Turkey,2013,56.0,PF,2012,Turkey
+Turkey,2014,62.0,NF,2013,Turkey
+Turkey,2015,65.0,NF,2014,Turkey
+Turkey,2016,71.0,NF,2015,Turkey
+Turkey,2017,76.0,NF,2016,Turkey
+Turkmenistan,1994,89.0,NF,1993,Turkmenistan
+Turkmenistan,1995,84.0,NF,1994,Turkmenistan
+Turkmenistan,1996,84.0,NF,1995,Turkmenistan
+Turkmenistan,1997,84.0,NF,1996,Turkmenistan
+Turkmenistan,1998,84.0,NF,1997,Turkmenistan
+Turkmenistan,1999,85.0,NF,1998,Turkmenistan
+Turkmenistan,2000,86.0,NF,1999,Turkmenistan
+Turkmenistan,2001,89.0,NF,2000,Turkmenistan
+Turkmenistan,2002,91.0,NF,2001,Turkmenistan
+Turkmenistan,2003,92.0,NF,2002,Turkmenistan
+Turkmenistan,2004,95.0,NF,2003,Turkmenistan
+Turkmenistan,2005,96.0,NF,2004,Turkmenistan
+Turkmenistan,2006,96.0,NF,2005,Turkmenistan
+Turkmenistan,2007,96.0,NF,2006,Turkmenistan
+Turkmenistan,2008,96.0,NF,2007,Turkmenistan
+Turkmenistan,2009,96.0,NF,2008,Turkmenistan
+Turkmenistan,2010,95.0,NF,2009,Turkmenistan
+Turkmenistan,2011,96.0,NF,2010,Turkmenistan
+Turkmenistan,2012,96.0,NF,2011,Turkmenistan
+Turkmenistan,2013,96.0,NF,2012,Turkmenistan
+Turkmenistan,2014,95.0,NF,2013,Turkmenistan
+Turkmenistan,2015,95.0,NF,2014,Turkmenistan
+Turkmenistan,2016,96.0,NF,2015,Turkmenistan
+Turkmenistan,2017,98.0,NF,2016,Turkmenistan
+Tuvalu,2003,16.0,F,2002,Tuvalu
+Tuvalu,2004,19.0,F,2003,Tuvalu
+Tuvalu,2005,20.0,F,2004,Tuvalu
+Tuvalu,2006,26.0,F,2005,Tuvalu
+Tuvalu,2007,26.0,F,2006,Tuvalu
+Tuvalu,2008,26.0,F,2007,Tuvalu
+Tuvalu,2009,26.0,F,2008,Tuvalu
+Tuvalu,2010,26.0,F,2009,Tuvalu
+Tuvalu,2011,26.0,F,2010,Tuvalu
+Tuvalu,2012,26.0,F,2011,Tuvalu
+Tuvalu,2013,26.0,F,2012,Tuvalu
+Tuvalu,2014,27.0,F,2013,Tuvalu
+Tuvalu,2015,27.0,F,2014,Tuvalu
+Tuvalu,2016,27.0,F,2015,Tuvalu
+Tuvalu,2017,27.0,F,2016,Tuvalu
+Uganda,1994,84.0,NF,1993,Uganda
+Uganda,1995,38.0,PF,1994,Uganda
+Uganda,1996,38.0,PF,1995,Uganda
+Uganda,1997,38.0,PF,1996,Uganda
+Uganda,1998,40.0,PF,1997,Uganda
+Uganda,1999,40.0,PF,1998,Uganda
+Uganda,2000,40.0,PF,1999,Uganda
+Uganda,2001,40.0,PF,2000,Uganda
+Uganda,2002,42.0,PF,2001,Uganda
+Uganda,2003,45.0,PF,2002,Uganda
+Uganda,2004,44.0,PF,2003,Uganda
+Uganda,2005,44.0,PF,2004,Uganda
+Uganda,2006,52.0,PF,2005,Uganda
+Uganda,2007,54.0,PF,2006,Uganda
+Uganda,2008,53.0,PF,2007,Uganda
+Uganda,2009,53.0,PF,2008,Uganda
+Uganda,2010,54.0,PF,2009,Uganda
+Uganda,2011,54.0,PF,2010,Uganda
+Uganda,2012,57.0,PF,2011,Uganda
+Uganda,2013,55.0,PF,2012,Uganda
+Uganda,2014,58.0,PF,2013,Uganda
+Uganda,2015,56.0,PF,2014,Uganda
+Uganda,2016,57.0,PF,2015,Uganda
+Uganda,2017,58.0,PF,2016,Uganda
+Ukraine,1994,44.0,PF,1993,Ukraine
+Ukraine,1995,42.0,PF,1994,Ukraine
+Ukraine,1996,39.0,PF,1995,Ukraine
+Ukraine,1997,49.0,PF,1996,Ukraine
+Ukraine,1998,49.0,PF,1997,Ukraine
+Ukraine,1999,50.0,PF,1998,Ukraine
+Ukraine,2000,60.0,PF,1999,Ukraine
+Ukraine,2001,60.0,PF,2000,Ukraine
+Ukraine,2002,60.0,PF,2001,Ukraine
+Ukraine,2003,67.0,NF,2002,Ukraine
+Ukraine,2004,68.0,NF,2003,Ukraine
+Ukraine,2005,59.0,PF,2004,Ukraine
+Ukraine,2006,53.0,PF,2005,Ukraine
+Ukraine,2007,53.0,PF,2006,Ukraine
+Ukraine,2008,53.0,PF,2007,Ukraine
+Ukraine,2009,55.0,PF,2008,Ukraine
+Ukraine,2010,53.0,PF,2009,Ukraine
+Ukraine,2011,56.0,PF,2010,Ukraine
+Ukraine,2012,59.0,PF,2011,Ukraine
+Ukraine,2013,60.0,PF,2012,Ukraine
+Ukraine,2014,63.0,NF,2013,Ukraine
+Ukraine,2015,58.0,PF,2014,Ukraine
+Ukraine,2016,53.0,PF,2015,Ukraine
+Ukraine,2017,53.0,PF,2016,Ukraine
+United Arab Emirates,1994,76.0,NF,1993,United Arab Emirates
+United Arab Emirates,1995,77.0,NF,1994,United Arab Emirates
+United Arab Emirates,1996,76.0,NF,1995,United Arab Emirates
+United Arab Emirates,1997,76.0,NF,1996,United Arab Emirates
+United Arab Emirates,1998,76.0,NF,1997,United Arab Emirates
+United Arab Emirates,1999,76.0,NF,1998,United Arab Emirates
+United Arab Emirates,2000,76.0,NF,1999,United Arab Emirates
+United Arab Emirates,2001,76.0,NF,2000,United Arab Emirates
+United Arab Emirates,2002,74.0,NF,2001,United Arab Emirates
+United Arab Emirates,2003,74.0,NF,2002,United Arab Emirates
+United Arab Emirates,2004,75.0,NF,2003,United Arab Emirates
+United Arab Emirates,2005,72.0,NF,2004,United Arab Emirates
+United Arab Emirates,2006,65.0,NF,2005,United Arab Emirates
+United Arab Emirates,2007,68.0,NF,2006,United Arab Emirates
+United Arab Emirates,2008,68.0,NF,2007,United Arab Emirates
+United Arab Emirates,2009,69.0,NF,2008,United Arab Emirates
+United Arab Emirates,2010,71.0,NF,2009,United Arab Emirates
+United Arab Emirates,2011,71.0,NF,2010,United Arab Emirates
+United Arab Emirates,2012,72.0,NF,2011,United Arab Emirates
+United Arab Emirates,2013,74.0,NF,2012,United Arab Emirates
+United Arab Emirates,2014,76.0,NF,2013,United Arab Emirates
+United Arab Emirates,2015,76.0,NF,2014,United Arab Emirates
+United Arab Emirates,2016,78.0,NF,2015,United Arab Emirates
+United Arab Emirates,2017,78.0,NF,2016,United Arab Emirates
+United Kingdom,1994,24.0,F,1993,United Kingdom
+United Kingdom,1995,22.0,F,1994,United Kingdom
+United Kingdom,1996,22.0,F,1995,United Kingdom
+United Kingdom,1997,22.0,F,1996,United Kingdom
+United Kingdom,1998,21.0,F,1997,United Kingdom
+United Kingdom,1999,20.0,F,1998,United Kingdom
+United Kingdom,2000,20.0,F,1999,United Kingdom
+United Kingdom,2001,17.0,F,2000,United Kingdom
+United Kingdom,2002,18.0,F,2001,United Kingdom
+United Kingdom,2003,18.0,F,2002,United Kingdom
+United Kingdom,2004,19.0,F,2003,United Kingdom
+United Kingdom,2005,18.0,F,2004,United Kingdom
+United Kingdom,2006,19.0,F,2005,United Kingdom
+United Kingdom,2007,19.0,F,2006,United Kingdom
+United Kingdom,2008,18.0,F,2007,United Kingdom
+United Kingdom,2009,19.0,F,2008,United Kingdom
+United Kingdom,2010,19.0,F,2009,United Kingdom
+United Kingdom,2011,19.0,F,2010,United Kingdom
+United Kingdom,2012,21.0,F,2011,United Kingdom
+United Kingdom,2013,21.0,F,2012,United Kingdom
+United Kingdom,2014,23.0,F,2013,United Kingdom
+United Kingdom,2015,24.0,F,2014,United Kingdom
+United Kingdom,2016,25.0,F,2015,United Kingdom
+United Kingdom,2017,25.0,F,2016,United Kingdom
+United States,1994,12.0,F,1993,USA
+United States,1995,12.0,F,1994,USA
+United States,1996,14.0,F,1995,USA
+United States,1997,14.0,F,1996,USA
+United States,1998,12.0,F,1997,USA
+United States,1999,13.0,F,1998,USA
+United States,2000,13.0,F,1999,USA
+United States,2001,15.0,F,2000,USA
+United States,2002,16.0,F,2001,USA
+United States,2003,17.0,F,2002,USA
+United States,2004,13.0,F,2003,USA
+United States,2005,17.0,F,2004,USA
+United States,2006,16.0,F,2005,USA
+United States,2007,16.0,F,2006,USA
+United States,2008,17.0,F,2007,USA
+United States,2009,18.0,F,2008,USA
+United States,2010,18.0,F,2009,USA
+United States,2011,17.0,F,2010,USA
+United States,2012,18.0,F,2011,USA
+United States,2013,18.0,F,2012,USA
+United States,2014,21.0,F,2013,USA
+United States,2015,22.0,F,2014,USA
+United States,2016,21.0,F,2015,USA
+United States,2017,23.0,F,2016,USA
+Uruguay,1994,23.0,F,1993,Uruguay
+Uruguay,1995,25.0,F,1994,Uruguay
+Uruguay,1996,25.0,F,1995,Uruguay
+Uruguay,1997,29.0,F,1996,Uruguay
+Uruguay,1998,30.0,F,1997,Uruguay
+Uruguay,1999,30.0,F,1998,Uruguay
+Uruguay,2000,29.0,F,1999,Uruguay
+Uruguay,2001,30.0,F,2000,Uruguay
+Uruguay,2002,25.0,F,2001,Uruguay
+Uruguay,2003,30.0,F,2002,Uruguay
+Uruguay,2004,26.0,F,2003,Uruguay
+Uruguay,2005,29.0,F,2004,Uruguay
+Uruguay,2006,28.0,F,2005,Uruguay
+Uruguay,2007,30.0,F,2006,Uruguay
+Uruguay,2008,30.0,F,2007,Uruguay
+Uruguay,2009,26.0,F,2008,Uruguay
+Uruguay,2010,25.0,F,2009,Uruguay
+Uruguay,2011,25.0,F,2010,Uruguay
+Uruguay,2012,26.0,F,2011,Uruguay
+Uruguay,2013,26.0,F,2012,Uruguay
+Uruguay,2014,26.0,F,2013,Uruguay
+Uruguay,2015,24.0,F,2014,Uruguay
+Uruguay,2016,25.0,F,2015,Uruguay
+Uruguay,2017,24.0,F,2016,Uruguay
+Uzbekistan,1994,85.0,NF,1993,Uzbekistan
+Uzbekistan,1995,79.0,NF,1994,Uzbekistan
+Uzbekistan,1996,75.0,NF,1995,Uzbekistan
+Uzbekistan,1997,76.0,NF,1996,Uzbekistan
+Uzbekistan,1998,76.0,NF,1997,Uzbekistan
+Uzbekistan,1999,79.0,NF,1998,Uzbekistan
+Uzbekistan,2000,83.0,NF,1999,Uzbekistan
+Uzbekistan,2001,84.0,NF,2000,Uzbekistan
+Uzbekistan,2002,84.0,NF,2001,Uzbekistan
+Uzbekistan,2003,86.0,NF,2002,Uzbekistan
+Uzbekistan,2004,84.0,NF,2003,Uzbekistan
+Uzbekistan,2005,85.0,NF,2004,Uzbekistan
+Uzbekistan,2006,90.0,NF,2005,Uzbekistan
+Uzbekistan,2007,91.0,NF,2006,Uzbekistan
+Uzbekistan,2008,92.0,NF,2007,Uzbekistan
+Uzbekistan,2009,93.0,NF,2008,Uzbekistan
+Uzbekistan,2010,92.0,NF,2009,Uzbekistan
+Uzbekistan,2011,94.0,NF,2010,Uzbekistan
+Uzbekistan,2012,95.0,NF,2011,Uzbekistan
+Uzbekistan,2013,95.0,NF,2012,Uzbekistan
+Uzbekistan,2014,95.0,NF,2013,Uzbekistan
+Uzbekistan,2015,95.0,NF,2014,Uzbekistan
+Uzbekistan,2016,95.0,NF,2015,Uzbekistan
+Uzbekistan,2017,95.0,NF,2016,Uzbekistan
+Vanuatu,1994,45.0,PF,1993,Vanuatu
+Vanuatu,1995,54.0,PF,1994,Vanuatu
+Vanuatu,1996,42.0,PF,1995,Vanuatu
+Vanuatu,1997,42.0,PF,1996,Vanuatu
+Vanuatu,1998,42.0,PF,1997,Vanuatu
+Vanuatu,1999,42.0,PF,1998,Vanuatu
+Vanuatu,2000,44.0,PF,1999,Vanuatu
+Vanuatu,2001,37.0,PF,2000,Vanuatu
+Vanuatu,2002,24.0,F,2001,Vanuatu
+Vanuatu,2003,21.0,F,2002,Vanuatu
+Vanuatu,2004,23.0,F,2003,Vanuatu
+Vanuatu,2005,24.0,F,2004,Vanuatu
+Vanuatu,2006,25.0,F,2005,Vanuatu
+Vanuatu,2007,24.0,F,2006,Vanuatu
+Vanuatu,2008,23.0,F,2007,Vanuatu
+Vanuatu,2009,23.0,F,2008,Vanuatu
+Vanuatu,2010,23.0,F,2009,Vanuatu
+Vanuatu,2011,25.0,F,2010,Vanuatu
+Vanuatu,2012,26.0,F,2011,Vanuatu
+Vanuatu,2013,25.0,F,2012,Vanuatu
+Vanuatu,2014,25.0,F,2013,Vanuatu
+Vanuatu,2015,25.0,F,2014,Vanuatu
+Vanuatu,2016,25.0,F,2015,Vanuatu
+Vanuatu,2017,25.0,F,2016,Vanuatu
+Venezuela,1994,30.0,F,1993,Venezuela
+Venezuela,1995,49.0,PF,1994,Venezuela
+Venezuela,1996,31.0,PF,1995,Venezuela
+Venezuela,1997,32.0,PF,1996,Venezuela
+Venezuela,1998,33.0,PF,1997,Venezuela
+Venezuela,1999,33.0,PF,1998,Venezuela
+Venezuela,2000,34.0,PF,1999,Venezuela
+Venezuela,2001,34.0,PF,2000,Venezuela
+Venezuela,2002,44.0,PF,2001,Venezuela
+Venezuela,2003,68.0,NF,2002,Venezuela
+Venezuela,2004,68.0,NF,2003,Venezuela
+Venezuela,2005,72.0,NF,2004,Venezuela
+Venezuela,2006,72.0,NF,2005,Venezuela
+Venezuela,2007,74.0,NF,2006,Venezuela
+Venezuela,2008,74.0,NF,2007,Venezuela
+Venezuela,2009,73.0,NF,2008,Venezuela
+Venezuela,2010,75.0,NF,2009,Venezuela
+Venezuela,2011,76.0,NF,2010,Venezuela
+Venezuela,2012,76.0,NF,2011,Venezuela
+Venezuela,2013,76.0,NF,2012,Venezuela
+Venezuela,2014,78.0,NF,2013,Venezuela
+Venezuela,2015,81.0,NF,2014,Venezuela
+Venezuela,2016,80.0,NF,2015,Venezuela
+Venezuela,2017,81.0,NF,2016,Venezuela
+Vietnam,1994,71.0,NF,1993,Viet Nam
+Vietnam,1995,68.0,NF,1994,Viet Nam
+Vietnam,1996,68.0,NF,1995,Viet Nam
+Vietnam,1997,69.0,NF,1996,Viet Nam
+Vietnam,1998,71.0,NF,1997,Viet Nam
+Vietnam,1999,71.0,NF,1998,Viet Nam
+Vietnam,2000,75.0,NF,1999,Viet Nam
+Vietnam,2001,80.0,NF,2000,Viet Nam
+Vietnam,2002,82.0,NF,2001,Viet Nam
+Vietnam,2003,82.0,NF,2002,Viet Nam
+Vietnam,2004,82.0,NF,2003,Viet Nam
+Vietnam,2005,82.0,NF,2004,Viet Nam
+Vietnam,2006,79.0,NF,2005,Viet Nam
+Vietnam,2007,77.0,NF,2006,Viet Nam
+Vietnam,2008,82.0,NF,2007,Viet Nam
+Vietnam,2009,83.0,NF,2008,Viet Nam
+Vietnam,2010,82.0,NF,2009,Viet Nam
+Vietnam,2011,83.0,NF,2010,Viet Nam
+Vietnam,2012,84.0,NF,2011,Viet Nam
+Vietnam,2013,84.0,NF,2012,Viet Nam
+Vietnam,2014,84.0,NF,2013,Viet Nam
+Vietnam,2015,86.0,NF,2014,Viet Nam
+Vietnam,2016,85.0,NF,2015,Viet Nam
+Vietnam,2017,84.0,NF,2016,Viet Nam
+West Bank and Gaza Strip,2012,83.0,NF,2011,
+West Bank and Gaza Strip,2013,84.0,NF,2012,
+West Bank and Gaza Strip,2014,82.0,NF,2013,
+West Bank and Gaza Strip,2015,84.0,NF,2014,
+West Bank and Gaza Strip,2016,83.0,NF,2015,
+West Bank and Gaza Strip,2017,84.0,NF,2016,
+Yemen,1994,55.0,PF,1993,Yemen
+Yemen,1995,63.0,NF,1994,Yemen
+Yemen,1996,68.0,NF,1995,Yemen
+Yemen,1997,68.0,NF,1996,Yemen
+Yemen,1998,68.0,NF,1997,Yemen
+Yemen,1999,68.0,NF,1998,Yemen
+Yemen,2000,68.0,NF,1999,Yemen
+Yemen,2001,69.0,NF,2000,Yemen
+Yemen,2002,65.0,NF,2001,Yemen
+Yemen,2003,69.0,NF,2002,Yemen
+Yemen,2004,67.0,NF,2003,Yemen
+Yemen,2005,76.0,NF,2004,Yemen
+Yemen,2006,81.0,NF,2005,Yemen
+Yemen,2007,80.0,NF,2006,Yemen
+Yemen,2008,78.0,NF,2007,Yemen
+Yemen,2009,79.0,NF,2008,Yemen
+Yemen,2010,80.0,NF,2009,Yemen
+Yemen,2011,83.0,NF,2010,Yemen
+Yemen,2012,83.0,NF,2011,Yemen
+Yemen,2013,79.0,NF,2012,Yemen
+Yemen,2014,76.0,NF,2013,Yemen
+Yemen,2015,78.0,NF,2014,Yemen
+Yemen,2016,83.0,NF,2015,Yemen
+Yemen,2017,85.0,NF,2016,Yemen
+Zambia,1994,50.0,PF,1993,Zambia
+Zambia,1995,61.0,NF,1994,Zambia
+Zambia,1996,60.0,NF,1995,Zambia
+Zambia,1997,61.0,NF,1996,Zambia
+Zambia,1998,60.0,PF,1997,Zambia
+Zambia,1999,62.0,NF,1998,Zambia
+Zambia,2000,62.0,NF,1999,Zambia
+Zambia,2001,62.0,NF,2000,Zambia
+Zambia,2002,65.0,NF,2001,Zambia
+Zambia,2003,63.0,NF,2002,Zambia
+Zambia,2004,63.0,NF,2003,Zambia
+Zambia,2005,65.0,NF,2004,Zambia
+Zambia,2006,64.0,NF,2005,Zambia
+Zambia,2007,64.0,NF,2006,Zambia
+Zambia,2008,64.0,NF,2007,Zambia
+Zambia,2009,65.0,NF,2008,Zambia
+Zambia,2010,64.0,NF,2009,Zambia
+Zambia,2011,61.0,NF,2010,Zambia
+Zambia,2012,60.0,PF,2011,Zambia
+Zambia,2013,60.0,PF,2012,Zambia
+Zambia,2014,61.0,NF,2013,Zambia
+Zambia,2015,62.0,NF,2014,Zambia
+Zambia,2016,61.0,NF,2015,Zambia
+Zambia,2017,63.0,NF,2016,Zambia
+Zimbabwe,1994,48.0,PF,1993,Zimbabwe
+Zimbabwe,1995,59.0,PF,1994,Zimbabwe
+Zimbabwe,1996,56.0,PF,1995,Zimbabwe
+Zimbabwe,1997,57.0,PF,1996,Zimbabwe
+Zimbabwe,1998,61.0,NF,1997,Zimbabwe
+Zimbabwe,1999,64.0,NF,1998,Zimbabwe
+Zimbabwe,2000,67.0,NF,1999,Zimbabwe
+Zimbabwe,2001,69.0,NF,2000,Zimbabwe
+Zimbabwe,2002,83.0,NF,2001,Zimbabwe
+Zimbabwe,2003,88.0,NF,2002,Zimbabwe
+Zimbabwe,2004,89.0,NF,2003,Zimbabwe
+Zimbabwe,2005,89.0,NF,2004,Zimbabwe
+Zimbabwe,2006,90.0,NF,2005,Zimbabwe
+Zimbabwe,2007,89.0,NF,2006,Zimbabwe
+Zimbabwe,2008,89.0,NF,2007,Zimbabwe
+Zimbabwe,2009,88.0,NF,2008,Zimbabwe
+Zimbabwe,2010,84.0,NF,2009,Zimbabwe
+Zimbabwe,2011,81.0,NF,2010,Zimbabwe
+Zimbabwe,2012,80.0,NF,2011,Zimbabwe
+Zimbabwe,2013,77.0,NF,2012,Zimbabwe
+Zimbabwe,2014,73.0,NF,2013,Zimbabwe
+Zimbabwe,2015,70.0,NF,2014,Zimbabwe
+Zimbabwe,2016,74.0,NF,2015,Zimbabwe
+Zimbabwe,2017,74.0,NF,2016,Zimbabwe
